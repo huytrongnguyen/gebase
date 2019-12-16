@@ -1,0 +1,59 @@
+{
+  "name": "gebase",
+  "version": "1.0.0",
+  "description": "Granado Espada Fan Base",
+  "main": "dist/index.js",
+  "author": "Lionel Nguyen <huynguyen8505@gmail.com> (https://github.com/huytrongnguyen)",
+  "license": "MIT",
+  "homepage": "https://huytrongnguyen.github.io/gebase",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huytrongnguyen/gebase.git"
+  },
+  "bugs": "https://github.com/huytrongnguyen/gebase/issues",
+  "scripts": {
+    "postinstall": "yarn clean && yarn copy",
+    "copy": "gulp --config ./src/gulp.config.json",
+    "style": "gulp style --config ./src/gulp.config.json",
+    "build": "tsc",
+    "start": "node dist",
+    "restart": "yarn build && yarn start",
+    "watch": "nodemon --exec yarn restart",
+    "clean": "rm -rf dist/*"
+  },
+  "dependencies": {
+    "@roxie/core": "1.9.4",
+    "@roxie/ui": "1.9.4",
+    "@roxie/server": "1.9.0",
+    "express": "4.17.1",
+    "iconv-lite": "0.5.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "xml2json": "0.11.2"
+  },
+  "devDependencies": {
+    "@types/express": "4.17.2",
+    "@types/node": "12.12.17",
+    "@types/react": "16.9.16",
+    "@types/react-dom": "16.9.4",
+    "@types/xml2json": "0.11.0",
+    "gulp": "4.0.2",
+    "gulp-sass": "4.0.2",
+    "nodemon": "2.0.2",
+    "typescript": "3.7.3",
+    "yarn": "1.21.1"
+  },
+  "nodemonConfig": {
+    "verbose": true,
+    "watch": [
+      "src"
+    ],
+    "ext": "ts,tsx,json",
+    "env": {
+      "NODE_ENV": "production"
+    }
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}

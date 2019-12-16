@@ -1,2 +1,1 @@
-# gebase
-Granado Espada Fan Base
+# Granado Espada Fan Base

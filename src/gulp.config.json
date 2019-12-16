@@ -1,0 +1,18 @@
+{
+  "outputPath": "dist/wwwroot",
+  "assets": [
+    "src/wwwroot"
+  ],
+  "styles": [
+    "node_modules/@roxie/ui/dist/css/roxie-ui.css",
+    "node_modules/@roxie/ui/dist/css/roxie-theme-gray.css"
+  ],
+  "scripts": [
+    "node_modules/bootstrap/dist/js/bootstrap.min.js",
+    "node_modules/bootstrap/dist/js/bootstrap.min.js.map",
+    "node_modules/jquery/dist/jquery.min.js",
+    "node_modules/popper.js/dist/umd/popper.min.js",
+    "node_modules/popper.js/dist/umd/popper.min.js.map"
+  ],
+  "extractCss": "src/wwwroot/css/app.scss"
+}
