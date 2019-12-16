@@ -29,7 +29,7 @@ export function prepareData() {
   ['eu', 'jp'].forEach(lang => {
     var dt = new DataTable();
     dt.dictionary = loadDictionary(lang);
-    dt.zones = loadMap(lang);
+    dt.zones = loadMap(lang, dt.dictionary);
     dataSource[lang] = dt;
   });
 }

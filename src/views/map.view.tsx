@@ -19,7 +19,7 @@ export function ZoneList(props: { zones: Zone[] }) {
             const fieldNames = Object.getOwnPropertyNames(zone).filter(fieldName => fieldName !== 'others');
             return <Container layout="hbox" key={rowIndex} className="table-row">
               <div className="table-cell" style={{flex:1}}>
-                {fieldNames.map(name => <article className="row">
+                {fieldNames.map(name => <article className="row" key={name}>
                   <label className="col-4 text-right font-weight-bold">{name}</label>
                   <div className="col-8">{zone[name]}</div>
                 </article>)}

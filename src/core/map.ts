@@ -7,13 +7,21 @@ import { rootDir } from './common';
 const fileName = 'datatable_map.csv';
 
 export class Zone {
-  ClassID: string = '';
-  BgName: string = '';
-  Continent: string = '';
-  others: PlainObject<string> = {};
+  ClassID = '';
+  ClassName = '';
+  Name = '';
+  BgName = '';
+  EngName = '';
+  Type = '';
+  Desc = '';
+  WorldMapName = '';
+  Continent = '';
+  MovableZone = '';
+  Note = '';
+  others = {};
 }
 
-export function loadMap(lang = 'eu'): Zone[] {
+export function loadMap(lang = 'eu', dictionary: PlainObject<string>): Zone[] {
   const filePath = path.resolve(__dirname, rootDir, lang, fileName),
         csv = fs.readFileSync(filePath, 'utf8'),
         contents = csv.split('\n').map(line => line.split('\t')),
@@ -24,12 +32,23 @@ export function loadMap(lang = 'eu'): Zone[] {
 
   return contents.slice(1).map(line => {
     const response = new Zone(),
-          props = Object.getOwnPropertyNames(response);
+          props = Object.getOwnPropertyNames(response),
+          dictIdRegex = /^<\$>(.*)<\/>$/;
     fieldNames.forEach((name, index) => {
-      if (props.includes(name)) {
-        response[name] = line[index];
-      } else {
+      if (!props.includes(name)) {
         response.others[name] = line[index];
+      } else {
+        const value = line[index];
+        if (['Name', 'Desc', 'Note'].includes(name)) {
+          const dictIdMatch = dictIdRegex.exec(value);
+          if (dictIdMatch && dictIdMatch.length > 1) {
+            response[name] = dictionary[dictIdMatch[1]];
+          } else {
+            response[name] = value;
+          }
+        } else {
+          response[name] = value;
+        }
       }
     })
     return response;
