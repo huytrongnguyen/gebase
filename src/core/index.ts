@@ -2,14 +2,10 @@ import path from 'path';
 import { PlainObject } from '@roxie/core';
 import { readDirectory } from '@roxie/server';
 
-import { rootDir } from './common';
+import { rootDir, dictIdRegex } from './common';
 import { loadDictionary } from './dictionary';
 import { Zone, loadMap } from './map';
-
-
-export type Npc = {
-  [key: string]: string,
-}
+import { Npc, loadNpc } from './npc';
 
 export type Item = {
   [key: string]: string,
@@ -25,7 +21,6 @@ export class DataTable {
 export class DataSource {
   eu: DataTable;
   jp: DataTable;
-  mapillust: string[];
 }
 
 export const dataSource = new DataSource();
@@ -36,6 +31,6 @@ export async function prepareData() {
     dataSource[lang] = dt;
     dt.dictionary = loadDictionary(lang);
     dt.zones = loadMap(lang, dt.dictionary);
+    dt.npcs = loadNpc(lang, dt.dictionary);
   });
-  dataSource.mapillust = readDirectory(path.resolve(__dirname, rootDir, 'ui/mapillust/thumbnail'));
 }

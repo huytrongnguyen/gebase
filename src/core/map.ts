@@ -1,10 +1,10 @@
-import fs from 'fs';
-import path from 'path';
 import { PlainObject } from '@roxie/core';
 
-import { rootDir, dictIdRegex } from './common';
+import { dictIdRegex, loadCsv } from './common';
 
-const fileName = 'datatable_map.csv';
+const fileName = 'datatable_map.csv',
+      continentBlacklist = ['WorldCrossColonyWar'],
+      zoneTypeBlacklist = ['MISSION', 'PARTYWAR'];
 
 export class Zone {
   ClassID = '';
@@ -22,33 +22,32 @@ export class Zone {
 }
 
 export function loadMap(lang = 'eu', dictionary: PlainObject<string>): Zone[] {
-  const filePath = path.resolve(__dirname, rootDir, lang, fileName),
-        csv = fs.readFileSync(filePath, 'utf8'),
-        contents = csv.split('\n').filter(line => line.length).map(line => line.split('\t')),
+  const contents = loadCsv(lang, fileName),
         fieldNames = contents[0];
-
-  console.log(`${contents.length - 1} lines was loaded from /${lang}/${fileName}`);
 
   return contents.slice(1)
       .map(line => {
-        const response = new Zone(),
-              props = Object.getOwnPropertyNames(response);
+        const item = new Zone(),
+              props = Object.getOwnPropertyNames(item);
 
         fieldNames.forEach((name, index) => {
           const value = line[index];
           if (!props.includes(name)) {
-            response.others[name] = value;
+            item.others[name] = value;
           } else {
-            response[name] = value;
+            item[name] = value;
             if (['Name', 'Desc'].includes(name)) {
               const dictIdMatch = dictIdRegex.exec(value);
               if (dictIdMatch && dictIdMatch.length > 1) {
-                response[name] = dictionary[dictIdMatch[1]];
+                item[name] = dictionary[dictIdMatch[1]];
               }
             }
           }
         })
-        return response;
+        return item;
       })
-      .filter(zone => zone.MinimapFile !== 'None' && zone.Thumbnail !== 'None');
+      .filter(item => item.MinimapFile !== 'None'
+          && item.Thumbnail !== 'None'
+          && !continentBlacklist.includes(item.Continent)
+          && !zoneTypeBlacklist.includes(item.Type));
 }

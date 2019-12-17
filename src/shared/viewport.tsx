@@ -13,6 +13,9 @@ export function Viewport(props: { lang?: string, routePath?: string, children?: 
       </button>
       <nav className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav mr-auto">
+          <li className={Roxie.classNames('nav-item', { active: routePath === 'characters'})}>
+            <a href={`/${lang}/npcs`} className="nav-link">Characters</a>
+          </li>
           <li className={Roxie.classNames('nav-item', { active: routePath === 'maps'})}>
             <a href={`/${lang}/maps`} className="nav-link">Maps</a>
           </li>
