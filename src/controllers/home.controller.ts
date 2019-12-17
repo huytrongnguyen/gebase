@@ -14,6 +14,6 @@ export class HomeController {
 
   @httpGet(':lang/maps')
   findAllZones({ lang }) {
-    return view(ZoneList, { zones: dataSource[lang].zones }, 'Maps');
+    return view(ZoneList, { lang, routePath: 'maps', zones: dataSource[lang].zones }, 'Maps');
   }
 }

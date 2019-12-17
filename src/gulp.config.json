@@ -5,6 +5,7 @@
   ],
   "styles": [
     "node_modules/@roxie/ui/dist/css/roxie-ui.css",
+    "node_modules/@roxie/ui/dist/css/roxie-desktop.css",
     "node_modules/@roxie/ui/dist/css/roxie-theme-gray.css"
   ],
   "scripts": [
