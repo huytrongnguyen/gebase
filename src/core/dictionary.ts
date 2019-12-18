@@ -2,7 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import iconv from 'iconv-lite';
 import xmlParser from 'xml2json';
-import { PlainObject } from '@roxie/core';
 
 import { rootDir } from './common';
 
@@ -14,7 +13,7 @@ export type DictionaryRawData = {
   }
 }
 
-export function loadDictionary(lang = 'eu'): PlainObject<string> {
+export function loadDictionary(lang = 'eu'): any {
   const filePath = path.resolve(__dirname, rootDir, lang, fileName);
   let contents: DictionaryRawData;
   if (lang === 'jp') {
@@ -31,5 +30,5 @@ export function loadDictionary(lang = 'eu'): PlainObject<string> {
   return contents.Dictionary.Text.reduce((response, current) => {
     response[current.ClassID] = current.Text;
     return response;
-  }, {} as PlainObject<string>);
+  }, {} as any);
 }

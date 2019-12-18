@@ -1,10 +1,8 @@
 import { route, httpGet } from '@roxie/server';
 
-import { dataSource } from '../core';
 import { view } from '../shared';
-import { Index } from '../views/home.view';
-import { ZoneList } from '../views/map.view';
-import { NpcList } from '../views/npc.view';
+import { dataSource, Npc } from '../core';
+import { Index, ZoneList, NpcList, NpcDetail, StanceList } from '../views';
 
 @route()
 export class HomeController {
@@ -19,7 +17,18 @@ export class HomeController {
   }
 
   @httpGet(':lang/npcs')
-  findAllCharacters({ lang }) {
+  findAllNpcs({ lang }) {
     return view(NpcList, { lang, routePath: 'npcs', data: dataSource[lang].npcs }, 'Characters');
+  }
+
+  @httpGet(':lang/npcs/:name')
+  findNpcById({ lang, name }) {
+    const data = (<Npc[]>dataSource[lang].npcs).find((item) => item.ClassName === name) || {} as Npc;
+    return view(NpcDetail, { lang, routePath: `npcs/${name}`, data }, data.EngName);
+  }
+
+  @httpGet(':lang/stances')
+  findAllStances({ lang }) {
+    return view(StanceList, { lang, routePath: 'stances', data: dataSource[lang].stances }, 'Stance');
   }
 }
