@@ -1,0 +1,11 @@
+ClassID	ClassName	Info1	Info10	Info2	Info3	Info4	Info5	Info6	Info7	Info8	Info9
+1	Test	Update	None	Tip	None	None	None	None	None	None	None
+2	reb_basic	Update	Enchant	Tip	Quest	Chat	Barrackr	Commander	Item	Reinforce	Group
+3	Colony	Update	None	Tip	Colony	Party	Squad	None	None	None	None
+4	New_zone	Update	None	Tip	All	None	None	None	None	None	None
+5	coim_basic	Update	None	Tip	Quest	Chat	Barrackr	Commander	Item	Reinforce	Group
+6	All	Key	None	Skill	Squad	Party	Colony	Quest	None	None	None
+7	auch_basic	Update	Group	Tip	Quest	Chat	Barrackr	Commander	Item	Reinforce	Enchant
+8	saint_zone	Update	None	Barrackr	Commander	Chat	AI	Key	None	None	None
+9	ust_basic	Update	None	Quest	None	None	None	None	None	None	None
+10	los_basic	Update	None	Quest	None	None	None	None	None	None	None

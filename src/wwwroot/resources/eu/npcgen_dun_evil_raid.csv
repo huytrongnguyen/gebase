@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+100	NPC_RAID_RESPAWN_MANAGER	Trigger_Black_None	0	FALSE	None	None	None	<$>112387</>	2107	1934	12	NPC_RAID_RESPAWN_MANAGER	None

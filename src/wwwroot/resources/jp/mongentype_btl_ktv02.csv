@@ -1,0 +1,14 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	105	129	96	11831	Monster_GrimRipper	500	5000	None
+2	TRUE	0	102	129	96	11841	Monster_BarrierMehcos	500	5000	None
+3	TRUE	0	103	97	72	11851	Monster_Visage	500	5000	None
+4	TRUE	0	104	64	48	11861	Monster_JumeauPlaque	500	5000	None
+5	TRUE	0	102	225	168	11871	Monster_Monegarm	500	5000	None
+6	FALSE	0	102	1	0	60120	Trigger_Largestone	50	9000	None
+7	FALSE	0	102	1	0	11842	Monster_BarrierMehcos_Elite	500	900000	None
+8	FALSE	0	102	1	0	11872	Monster_Monegarm_Elite	500	900000	None
+9	FALSE	0	105	1	0	11832	Monster_GrimRipper_Elite	500	900000	None
+10	FALSE	0	105	1	0	20781	Monster_GrimRipperBlack_Leader	500	1800000	MON_FIELD_SBOSS
+11	FALSE	0	114	1	0	70190	Mission_CatherineEvent2	500	1000	MON_SUMMON_BOSS2
+12	FALSE	0	106	1	0	70180	Mission_CatherineEvent	50	1000	MON_SUMMON_BOSS
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

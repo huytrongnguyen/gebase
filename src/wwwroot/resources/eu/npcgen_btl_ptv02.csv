@@ -1,0 +1,5 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+5	PTV02_SCARPMAN	REB_MANa	292	FALSE	minimap_npc.bmp	<$>64575</>	<$>64575</>	-9130	6143	-2684	PTV02_SCARPMAN	None
+6	npc_ferru_big01	npc_ferru_big	100	FALSE	minimap_mission.bmp	<$>64576</>	<$>64576</>	4489	-9208	3788	PIONEER_NOTICE	None
+10	npc_ferru_big02	npc_ferru_big	80	FALSE	minimap_mission.bmp	<$>64576</>	<$>64576</>	19911	5458	-424	PIONEER_NOTICE	None
+14	npc_ferru_big03	npc_ferru_big	130	FALSE	minimap_mission.bmp	<$>64576</>	<$>64576</>	-7219	-1290	-3579	PIONEER_NOTICE	None

@@ -1,0 +1,5 @@
+ApplyCount	ApplyInterval	AtkParticle	AtkSound	ClassID	ClassName	Emitter1	Emitter2	IdleSound	LifeTime	Name	Particle1	Particle2	PreDelay	attachActor	attachNode1	attachNode2
+-1	1000	None	None	10001	Summon_Deluge	None	None	Place_Deluge.ogg	7500	<$>50208</>	skl_Deluge_hit	None	666	Deluge	Deluge_Dummy	None
+-1	1000	None	None	10002	Summon_FlameGround	None	None	Place_MoltenLava.ogg	7500	<$>53399</>	SKL_MoltenLava	None	666	Deluge	Deluge_Dummy	None
+-1	1000	None	None	10003	Summon_Tornado	w_tornado	None	Place_MoltenLava.ogg	7500	<$>50213</>	None	None	666	Deluge	Deluge_Dummy	None
+-1	333	None	None	10005	Summon_Blizzard	skl_blizzard	None	Place_Blizzard.ogg	4000	<$>49666</>	skl_Deluge_hit	None	1833	Deluge	Deluge_Dummy	None

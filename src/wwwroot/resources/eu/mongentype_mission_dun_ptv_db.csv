@@ -1,0 +1,3 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	55	40	36	13311	Monster_diabolic_GaviDiGavi	500	20000	None
+2	TRUE	0	56	20	18	13312	Monster_diabolic_ScarletClaw	500	20000	None

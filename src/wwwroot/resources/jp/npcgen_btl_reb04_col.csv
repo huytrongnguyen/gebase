@@ -1,0 +1,3 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	NPC_COLONYZONE_MANAGER_BTL_REB04	COLONY_MANAGER_LARGE	0	FALSE	None	None	<$>51919</>	-420	-401	950	NPC_COLONYZONE_MANAGER_BTL_REB04	None
+2	TriggerCNTR	PartyColTrigger	0	TRUE	None	None	<$>50260</>	28	362	984	SPOTCNTR	None

@@ -1,0 +1,12 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	C1_ARM_SPINO	arm_paladin_m2	172	FALSE	minimap_npc.bmp	<$>117876</>	None	<$>117876</>	9551	-7237	4121	NPC_TUTO_ABYSS01	None
+2	C1_ARM_DEROSA	arm_paladin_f	125	FALSE	minimap_npc.bmp	<$>117877</>	None	<$>117877</>	-19477	-3966	2235	NPC_TUTO_ABYSS01	None
+3	btl_arm01_paladin01	arm_paladin_m_dead	313	FALSE	None	None	None	None	8409	-7725	4121	NPC_TUTO_ABYSS01	None
+4	btl_arm01_paladin02	arm_paladin_f_dead	85	FALSE	None	None	None	None	8443	-7296	4109	NPC_TUTO_ABYSS01	None
+5	btl_arm01_paladin03	arm_paladin_m3__dead	273	FALSE	None	None	None	None	8869	-7671	4121	NPC_TUTO_ABYSS01	None
+6	btl_arm01_priest02	arm_cardinal3	276	FALSE	None	None	None	None	-19979	-2116	2272	NPC_TUTO_ABYSS01	None
+7	btl_arm01_paladin06	arm_paladin_m3	133	FALSE	None	None	None	None	-18675	-4402	2236	NPC_TUTO_ABYSS01	None
+8	btl_arm01_paladin07	arm_paladin_pray1	72	FALSE	None	None	None	None	-20139	-2429	2267	NPC_TUTO_ABYSS01	None
+9	btl_arm01_paladin08	arm_paladin_pray1	127	FALSE	None	None	None	None	-19769	-2401	2267	NPC_TUTO_ABYSS01	None
+10	btl_arm01_paladin09	arm_paladin_pray1	99	FALSE	None	None	None	None	6915	-6732	4109	NPC_TUTO_ABYSS01	None
+11	btl_arm01_paladin10	arm_paladin_pray1	151	FALSE	None	None	None	None	7207	-6580	4111	NPC_TUTO_ABYSS01	None

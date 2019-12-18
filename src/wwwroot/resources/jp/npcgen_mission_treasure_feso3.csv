@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	END_MISSION_FESO	npc_etc_treasureshop1	178	FALSE	minimap_npc.bmp	<$>64422</>	<$>64422</>	-6258	17	0	END_MISSION_FESO	None

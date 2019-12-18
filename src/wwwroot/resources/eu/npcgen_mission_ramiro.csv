@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	MISSION_RAMIRO_TR	TutorialTrigger_White_3m	264	FALSE	None	None	None	8	-3508	60	MISSION_RAMIRO_TRIGGER	None

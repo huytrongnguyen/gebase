@@ -1,0 +1,11 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Possess	Script	ShopName
+4	MISSION_JAQ	COIM_SOLM2	96	FALSE	minimap_mission.bmp	<$>64791</>	None	<$>64791</>	-17112	5399	801	0	EVENT_MISSION_JAQ	None
+5	MISSION_SINGLERAID	COIM_SOLM2	96	FALSE	minimap_mission.bmp	<$>64792</>	None	<$>64792</>	-17517	5428	801	0	NPC_RAID_MISSION	None
+6	MISSION_TEAMRAID	TutorialTrigger_Black_3m	89	FALSE	None	<$>64793</>	None	<$>64793</>	-17326	-1802	847	0	TOUMEINPC	None
+21	FLD_COIM_ADELINA	TutorialTrigger_White_3m	0	FALSE	None	None	None	None	-11967	3473	8	0	FLD_COIM_ADELINA	None
+22	NPC_TTR_TREASURE	TutorialTrigger_Black_3m	75	FALSE	None	<$>64794</>	None	<$>64794</>	-15198	-3714	870	0	TOUMEINPC	None
+23	NPC_WEEK_ELE_MISSION	TutorialTrigger_Black_3m	180	FALSE	minimap_npc.bmp	<$>188778</>	None	<$>188778</>	-16071	5440	783	0	TOUMEINPC	None
+25	EVENT_MISSION_TEST	npc_ferru_big	88	FALSE	minimap_mission.bmp	<$>64789</>	None	<$>64789</>	-17313	5418	803	0	EVENT_MISSION_TEST	None
+26	MISSION_POINTFULL	TutorialTrigger_Black_3m	0	FALSE	None	<$>197468</>	None	<$>197468</>	-18521	5390	783	0	TOUMEINPC	None
+999	GATE_JPNSOLOWEEKLY	TutorialTrigger_Black_3m	186	FALSE	None	<$>144402</>	None	<$>144402</>	-16122	5458	783	0	TOUMEINPC	None
+1000	MISSION_GATEMAN	COIM_SOLM2	275	FALSE	minimap_mission.bmp	<$>93196</>	None	<$>93196</>	-17311	5218	803	0	MISSION_GATEMAN	<$>93196</>

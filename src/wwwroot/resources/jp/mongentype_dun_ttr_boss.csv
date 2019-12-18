@@ -1,0 +1,4 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	FALSE	1	40	1	0	30031	Monster_TreasureGolem	1500	10285714	None
+3	FALSE	0	32	5	0	10422	Monster_VisageRouge_Elite	500	600000	None
+2	FALSE	0	36	1	0	60140	Trigger_WoodBoxA	1500	30000	None

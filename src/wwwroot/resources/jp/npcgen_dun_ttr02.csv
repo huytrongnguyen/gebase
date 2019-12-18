@@ -1,0 +1,6 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	DUN_SECRET_HALLWAY_ENTER	npc_ferru	181	FALSE	None	None	None	<$>64739</>	7870	-11515	0	DUN_SECRET_HALLWAY_ENTER	None
+3	M_TTR02_GRACE	EntranceArrow	270	FALSE	minimap_warpOut.bmp	None	OUTSIDE	<$>125772</>	21958	22488	20	M_TTR02_GRACE	None
+5	npc_ferru_big01	npc_ferru_big	270	FALSE	minimap_mission.bmp	<$>64741</>	None	<$>64741</>	-56325	-29909	53	PIONEER_NOTICE	None
+9	npc_ferru_big02	npc_ferru_big	270	FALSE	minimap_mission.bmp	<$>64741</>	None	<$>64741</>	7365	-9845	0	PIONEER_NOTICE	None
+13	npc_ferru_big03	npc_ferru_big	0	FALSE	minimap_mission.bmp	<$>64741</>	None	<$>64741</>	18419	26664	20	PIONEER_NOTICE	None

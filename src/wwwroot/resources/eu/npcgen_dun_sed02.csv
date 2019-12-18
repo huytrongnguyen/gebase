@@ -1,0 +1,4 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	DUN_SED02_WARP	NPC_SED_CRYSTALGATE	271	FALSE	minimap_warpOut.bmp	None	OUTSIDE	<$>1014</>	18	17264	40	DUN_SED02_WARP	None
+2	DUN_SED02_WARP2	NPC_SED_CRYSTALGATE	160	FALSE	minimap_warpOut.bmp	None	OUTSIDE	<$>1014</>	-19	-2000	-90	SED02_SETPOS	None
+3	DUN_SED02_SELVA_ORDEN_SUB	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180097</>	0	-280	-80	TR_DUN_SED02_SELVA_ORDEN_SUB	None

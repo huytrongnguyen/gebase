@@ -1,0 +1,3 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	1	150	100	71060	Monster_Mouse00	500	1000	None
+2	TRUE	0	1	1	0	70180	Monster_Trap	500	1000	MON_PRISON_MOUSE

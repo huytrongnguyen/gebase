@@ -1,0 +1,8 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+2	TRUE	1	132	15	8	18498	Monster_illier_TeusmachinaFIRE_Elite	650	15000	MON_DUN_ILE02_NORMAL
+3	TRUE	1	132	15	8	18499	Monster_illier_TeusmachinaICE_Elite	650	15000	MON_DUN_ILE02_NORMAL
+4	TRUE	1	132	15	8	18500	Monster_illier_TeusmachinaLGHT_Elite	650	15000	MON_DUN_ILE02_NORMAL
+5	TRUE	2	132	5	3	18498	Monster_illier_TeusmachinaFIRE_Elite	650	15000	MON_DUN_ILE02_NORMAL
+6	TRUE	2	132	5	3	18499	Monster_illier_TeusmachinaICE_Elite	650	15000	MON_DUN_ILE02_NORMAL
+7	TRUE	2	132	5	3	18500	Monster_illier_TeusmachinaLGHT_Elite	650	15000	MON_DUN_ILE02_NORMAL
+1100	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

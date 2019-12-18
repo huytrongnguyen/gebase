@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	AUCH01_GRACE	NPC_TOMBSTONE1	183	FALSE	None	None	None	None	7402	10724	-5215	AUCH01_GRACE	None
+2	AUCH01_ROCK	NPC_FALLENROCK	179	FALSE	None	None	None	<$>64489</>	3492	-3839	-6420	AUCH01_ROCK	None
+4	npc_ferru_big01	npc_ferru_big	15	FALSE	minimap_mission.bmp	<$>64490</>	None	<$>64490</>	7352	27023	-5498	PIONEER_NOTICE	None
+8	npc_ferru_big02	npc_ferru_big	217	FALSE	minimap_mission.bmp	<$>64490</>	None	<$>64490</>	3642	7494	-6210	PIONEER_NOTICE	None
+12	npc_ferru_big03	npc_ferru_big	66	FALSE	minimap_mission.bmp	<$>64490</>	None	<$>64490</>	-5124	-18902	-6045	PIONEER_NOTICE	None
+16	NPC_ARMONIA_MONGEN_AUCH01	Trigger_Black_None	0	FALSE	None	None	None	<$>117874</>	10035	18609	-5338	NPC_ARMONIA_MONGEN_FLDBOSS	None

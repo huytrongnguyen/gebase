@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Possess	Script	ShopName
+1	PTV01_COLONY_MANAGER	COLONY_MANAGER	320	FALSE	minimap_npc3.bmp	<$>51919</>	<$>51919</>	11722	-87711	4044	1	COLONY_MANAGER	None

@@ -1,0 +1,16 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	108	45	42	11541	Monster_Eltetah	500	5000	None
+2	TRUE	0	107	45	42	11561	Monster_Elcinos	500	5000	None
+3	TRUE	0	106	181	171	11881	Monster_Icewolf	500	5000	None
+4	TRUE	0	105	45	42	11891	Monster_Icelazimlam	500	5000	None
+5	TRUE	0	108	136	129	11941	Monster_SnowfieldBear	500	5000	None
+6	FALSE	0	105	1	0	60180	Npc_ktv_stones01	50	12000	None
+7	FALSE	0	107	1	0	11562	Monster_Elcinos_Elite	500	900000	None
+8	FALSE	0	106	1	0	11882	Monster_Icewolf_Elite	500	900000	None
+9	FALSE	0	120	20	15	70771	Monster_Underghost	500	900000	None
+10	FALSE	9	106	1	0	70180	Mission_CatherineEvent	50	1000	MON_SUMMON_BOSS
+11	FALSE	0	114	1	0	70190	Mission_CatherineEvent2	500	1000	MON_SUMMON_BOSS2
+15	TRUE	0	127	45	42	19225	Monster_SnowfieldBear_OrdenQuest	500	5000	MON_ORDENQUEST3_1
+16	TRUE	0	127	45	42	19226	Monster_Elysian_OrdenQuest	500	5000	MON_ORDENQUEST3_1
+20	FALSE	0	80	1	0	53071	Monster_Turrydog_farm	500	14400000	MON_AGGRESSIVE3
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

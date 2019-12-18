@@ -1,0 +1,11 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Possess	Script	ShopName
+1	DUN_CLOCK_WARP	npc_tbk_contbox_off	0	FALSE	minimap_npc.bmp	<$>155373</>	None	<$>155373</>	-358	2970	0	0	DUN_CLOCK_UNDER_WARP	None
+2	DUN_CLOCK_MISSION	npc_viron_sol2	270	FALSE	minimap_npc.bmp	<$>155374</>	None	<$>155374</>	-1748	4011	4	0	MISSIONLOBBY_CLOCK	None
+3	DUN_CLOCK_SOL1	npc_viron_sol	185	FALSE	None	None	None	None	2998	378	0	0	DUN_CLOCKB_SOL1	None
+4	DUN_CLOCK_SOL2	npc_viron_sol	185	FALSE	None	None	None	None	3005	-350	0	0	DUN_CLOCKB_SOL2	None
+5	DUN_CLOCK_SOL3	npc_viron_sol	2	FALSE	None	None	None	None	-2945	-354	0	0	DUN_CLOCKB_SOL1	None
+6	DUN_CLOCK_SOL4	npc_viron_sol	2	FALSE	None	None	None	None	-2937	377	0	0	DUN_CLOCKB_SOL2	None
+100	TR_VIRON2_MAIN_Q82044_1	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>155375</>	6	2779	0	0	TR_VIRON2_MAIN_Q82044_1	None
+101	TR_VIRON2_MAIN_Q82074_4	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>155375</>	37	3541	67	0	TR_VIRON2_MAIN_Q82074_4	None
+7	TR_VIRON2_MAIN_Q82044_2	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>155375</>	-147	2725	30	0	TR_VIRON2_MAIN_Q82044_2	None
+201	DUN_CLOCK_SOL5	npc_viron_sol2	267	FALSE	None	<$>176347</>	None	<$>176347</>	427	2543	30	0	DUN_CLOCKB_SOL5	None

@@ -1,0 +1,11 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	20	25	22	10192	Monster_Heretic_Elite	500	30000	None
+2	TRUE	0	21	32	29	10202	Monster_Fanatic_Elite	500	30000	None
+3	TRUE	0	22	65	59	10212	Monster_Frenzy_Elite	500	30000	None
+4	TRUE	0	23	25	22	10272	Monster_Masquerader_Elite	500	30000	None
+5	TRUE	0	21	16	14	10042	Monster_HoundEater_Elite	500	30000	None
+6	TRUE	7	20	40	36	10201	Monster_Fanatic	500	5000	None
+7	FALSE	0	25	1	0	20031	Monster_SilkhatHuganoid	1000	1800000	MON_FIELD_SBOSS
+8	FALSE	0	20	1	0	60045	Trigger_Alq3_Cask	50	20000	None
+9	FALSE	0	20	1	0	81001	Mission_TreasureZealot	50	3600000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

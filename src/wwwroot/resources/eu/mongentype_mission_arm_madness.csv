@@ -1,0 +1,9 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	140	24	12	18080	monster_arm_mission_norm01	1000	3000	MON_AGGRESSIVE
+2	TRUE	0	140	24	12	18081	monster_arm_mission_norm02	1000	3000	MON_AGGRESSIVE
+3	TRUE	1	140	24	12	18080	monster_arm_mission_norm01	1000	3000	MON_AGGRESSIVE
+4	TRUE	1	140	24	12	18081	monster_arm_mission_norm02	1000	3000	MON_AGGRESSIVE
+5	TRUE	2	140	16	8	18080	monster_arm_mission_norm01	1000	3000	MON_AGGRESSIVE
+6	TRUE	2	140	16	8	18081	monster_arm_mission_norm02	1000	3000	MON_AGGRESSIVE
+7	TRUE	3	140	16	8	18080	monster_arm_mission_norm01	1000	3000	MON_AGGRESSIVE
+8	TRUE	3	140	16	8	18081	monster_arm_mission_norm02	1000	3000	MON_AGGRESSIVE

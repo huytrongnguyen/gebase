@@ -1,0 +1,12 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	113	256	243	12641	Monster_Escudofrapper	500	4000	None
+2	TRUE	0	112	256	243	12651	Monster_Jumpingfish	500	4000	None
+3	TRUE	0	114	213	202	12661	Monster_Myconid	500	4000	None
+4	TRUE	0	113	128	121	12671	Monster_Flyingfrog	500	4000	None
+5	FALSE	0	113	1	0	12652	Monster_Jumpingfish_Elite	50	12000	None
+6	FALSE	0	114	1	0	12662	Monster_Myconid_Elite	500	500000	None
+7	FALSE	0	114	1	0	12672	Monster_Flyingfrog_Elite	500	500000	None
+8	FALSE	0	112	1	0	60120	Trigger_Largestone	500	10000	None
+9	FALSE	0	108	1	0	70180	Mission_CatherineEvent	50	1000	MON_SUMMON_BOSS
+10	FALSE	0	110	1	0	70190	Mission_CatherineEvent2	500	1000	MON_SUMMON_BOSS2
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

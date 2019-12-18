@@ -1,0 +1,5 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	54	15	6	20900	Monster_SFPhobitan	500	5000	None
+2	TRUE	0	54	22	8	20901	Monster_SFStoneGargoyle	500	5000	None
+9	FALSE	0	100	1	0	70190	Mission_CatherineEvent2	500	5000	MON_POISON_SUMMON2
+10	FALSE	9	100	1	0	70180	Mission_CatherineEvent	500	5000	MON_POISON_SUMMON

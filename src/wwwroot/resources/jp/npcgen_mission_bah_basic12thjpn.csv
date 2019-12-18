@@ -1,0 +1,17 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	tr_npc_setting	TutorialTrigger_Black_3m	337	FALSE	None	None	None	None	-2397	7737	133	TR_BAH_BASIC12THJPN	None
+2	12THJPN_leonardo	AUCH_LEON	157	FALSE	minimap_npc.bmp	<$>10806</>	None	<$>10806</>	-734	7518	240	12THJPN_LEONARDO	None
+3	12THJPN_ITEMSHOP	paoloviaje	68	FALSE	minimap_jewel.bmp	None	None	<$>224386</>	-2746	6410	133	12THJPN_ITEMSHOP	<$>224386</>
+4	12THJPN_CALYCE2	npc_calyce2	337	FALSE	minimap_npc.bmp	<$>216515</>	None	<$>216515</>	-3009	7578	297	12THJPN_CALYCE2	None
+5	12THJPN_NEWMERCENARY	npc_set_pegadillaf	157	FALSE	minimap_npc.bmp	<$>28774</>	None	<$>28774</>	-446	9108	133	12THJPN_NEWMERCENARY	None
+6	12THJPN_VANESSAKOR	npc_vanessakor_jpn	334	FALSE	minimap_npc.bmp	<$>177250</>	None	<$>177250</>	-2671	8346	133	12THJPN_VANESSAKOR	None
+7	12THJPN_CSCLAIR	NPC_CannonShooterClair	245	FALSE	minimap_npc.bmp	<$>113939</>	None	<$>113939</>	-2021	8810	133	12THJPN_CSCLAIR	None
+8	12THJPN_BLUDIN	npc_BLudin_jpn	350	FALSE	minimap_npc.bmp	<$>120598</>	None	<$>120598</>	-2992	7055	133	12THJPN_BLUDIN	None
+9	12THJPN_BUKISHOP	mercenary	157	FALSE	minimap_jewel.bmp	None	None	<$>224387</>	-1017	7132	240	12THJPN_BUKISHOP	<$>224387</>
+10	12THJPN_REB_COOK	REB_COOK	256	FALSE	minimap_npc.bmp	<$>11192</>	None	<$>11192</>	-1088	10329	133	12THJPN_REB_COOK	None
+11	12THJPN_COOK_CHANGER	npc_porridge_ex	295	FALSE	None	None	None	<$>224388</>	-927	10601	133	12THJPN_COOK_CHANGER	None
+12	12THCOIM_SOLM_JPN	12thCOIM_SOLM_JPN	41	FALSE	minimap_npc.bmp	<$>224389</>	None	<$>224389</>	-1914	9680	133	12THCOIM_SOLM_JPN	None
+13	12TH_CAPTAIN	NPC_REB_CAPTAIN	151	FALSE	minimap_npc.bmp	<$>51829</>	None	<$>51829</>	909	8700	101	12TH_CAPTAIN	None
+14	12TH_COIM_OGORMANY	NPC_COIM_OGORMANY	126	FALSE	minimap_npc.bmp	<$>51830</>	None	<$>51830</>	142	8550	133	12TH_COIM_OGORMANY	None
+15	12TH_mercenary1	12th_mercenary1	300	FALSE	minimap_npc.bmp	<$>224613</>	None	<$>224613</>	-1948	10349	133	12TH_MERCENARY1	None
+16	12TH_mercenary2	npc_set_pegadillaf	60	FALSE	minimap_npc.bmp	<$>224614</>	None	<$>224614</>	-3383	6379	133	12TH_MERCENARY2	None

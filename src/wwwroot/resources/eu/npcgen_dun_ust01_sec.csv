@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+3	EVENT_STONE39	TutorialTrigger_White_3m	250	FALSE	None	None	None	-1368	427	-764	EVENT_STONE39	None

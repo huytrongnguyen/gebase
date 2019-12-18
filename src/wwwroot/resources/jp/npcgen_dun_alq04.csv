@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+3	Event_HiddenTrigger	Event_HiddenTrigger	15	FALSE	None	None	None	29485	-1743	0	NEWYEAR_CALLBOX	None

@@ -1,0 +1,8 @@
+ClassID	ClassName	Default_1	Default_2	Name	Param1	Param2	UseDropList
+0	Normal	0	0	<$>29629</>	None	None	None
+1	POSE	0	0	<$>29630</>	NO	NO	YES
+2	ShockWave	80	60	<$>29631</>	YES	YES	None
+3	ShockWave_2	80	60	<$>29632</>	YES	YES	None
+4	SYS_RESURRECT	0	0	<$>29633</>	NO	NO	None
+5	lightgemini_skl1_shot	0	0	<$>29634</>	NO	NO	None
+6	SlowMotion	100	0	<$>29635</>	YES	NO	None

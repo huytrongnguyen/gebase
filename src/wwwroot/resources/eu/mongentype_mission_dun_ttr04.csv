@@ -1,0 +1,10 @@
+ClassID	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics	Type
+1	0	40	87	65	10411	Monster_Nevare	500	5000	None	Normal
+2	0	40	5	3	10371	Monster_RufusFaux	500	5000	None	Normal
+3	0	40	73	54	10421	Monster_VisageRouge	500	5000	None	Normal
+4	0	40	73	54	10431	Monster_VisageNoir	500	5000	None	Normal
+5	0	40	2	1	10393	Monster_JumeauPlaqueRouge	500	5000	None	Normal
+6	0	40	2	1	10405	Monster_JumeauPlaqueEton	500	5000	None	Normal
+7	0	40	2	1	10407	Monster_JumeauPlaqueNoir	500	5000	None	Normal
+8	0	40	100	80	10221	Monster_LesserGargoyle	500	5000	None	Normal
+9	0	40	100	80	10231	Monster_Demon	500	5000	None	Normal

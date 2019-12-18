@@ -1,0 +1,5 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+3	FALSE	0	86	10	6	10881	Monster_EigleschivarlierDefender	500	600000	None
+4	FALSE	0	83	125	6	70864	Monster_Undead_sword	500	600000	None
+5	FALSE	0	84	32	6	70865	Monster_Undead_gun	500	600000	None
+6	FALSE	0	85	6	4	70862	Monster_FailedReagent	500	600000	None

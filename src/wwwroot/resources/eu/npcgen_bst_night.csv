@@ -1,0 +1,11 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	TR_BST_YURUEGEN	TutorialTrigger_Black_3m	0	TRUE	None	None	None	<$>13438</>	13829	-16554	520	TR_BST_YURUEGEN	None
+2	TR_QUEST_BARREL02	TutorialTrigger_Black_3m	0	TRUE	None	None	None	<$>13438</>	-4744	-3626	619	TR_QUEST_BARREL02	None
+3	TR_QUEST_BARREL03	TutorialTrigger_Black_3m	0	TRUE	None	None	None	<$>13438</>	13837	-18947	657	TR_QUEST_BARREL03	None
+4	TR_FLD_BST02	EntranceArrow	10	FALSE	minimap_warpIn.bmp	<$>87120</>	INSIDE	<$>105297</>	23034	4118	2406	TR_FLD_BST02	None
+5	TR_BST_NIGHT_PUB	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	-8459	-15034	689	TR_BST_NIGHT_PUB	None
+6	TR_BST_LAB_REPUBLICAN2	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	-17985	-7226	2359	TR_BST_LAB_REPUBLICAN2	None
+7	TR_GRACE_BST_SUB02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	10847	-14965	532	TR_GRACE_BST_SUB02	None
+8	TR_GRACE_BST_SUB03	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	5139	2591	687	TR_GRACE_BST_SUB03	None
+9	TR_GRACE_BST_SUB04	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	-11138	-12303	702	TR_GRACE_BST_SUB04	None
+261	TR_QUEST171702_8	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	10908	-11880	559	TR_QUEST171702_8	None

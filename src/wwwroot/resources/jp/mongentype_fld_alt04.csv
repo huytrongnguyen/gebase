@@ -1,0 +1,9 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	150	45	45	53337	Mon_baphobex_javelin	500	15000	MON_ALT04_NORMAL
+2	TRUE	1	150	45	45	53337	Mon_baphobex_javelin	500	15000	MON_ALT04_NORMAL
+3	TRUE	2	150	45	45	53337	Mon_baphobex_javelin	500	15000	MON_ALT04_NORMAL
+4	TRUE	3	150	45	45	53337	Mon_baphobex_javelin	500	15000	MON_ALT04_NORMAL
+5	TRUE	4	150	45	45	53337	Mon_baphobex_javelin	500	15000	MON_ALT04_NORMAL
+6	TRUE	5	150	45	45	53337	Mon_baphobex_javelin	500	15000	MON_ALT04_NORMAL
+7	TRUE	6	150	45	45	53337	Mon_baphobex_javelin	500	15000	MON_ALT04_NORMAL
+8	TRUE	7	150	45	45	53337	Mon_baphobex_javelin	500	15000	MON_ALT04_NORMAL

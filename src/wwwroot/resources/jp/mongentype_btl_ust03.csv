@@ -1,0 +1,13 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	102	242	218	11301	Monster_eripmav	500	5000	None
+2	TRUE	0	103	404	364	11321	Monster_velocirapter2	500	5000	None
+3	TRUE	0	102	80	72	11401	Monster_gahbirus	500	5000	None
+4	TRUE	0	102	80	72	11381	Monster_dinodon	500	5000	None
+5	TRUE	2	103	36	32	70330	Mission_JungleSorghum	50	5000	None
+6	FALSE	0	102	1	0	60120	Trigger_Largestone	50	9000	None
+7	FALSE	0	105	1	0	20261	Monster_sabertiger	1000	1800000	MON_FIELD_SBOSS
+8	FALSE	0	103	2	0	11302	Monster_eripmav_Elite	500	900000	None
+9	FALSE	0	103	2	0	11322	Monster_velocirapter2_Elite	500	900000	None
+10	FALSE	0	103	2	0	11402	Monster_gahbirus_Elite	500	900000	None
+11	TRUE	0	103	20	10	12636	Monster_Farm_Honeybee	500	5000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+2	SHOP_PROMOTION1	leblanc_sct	53	FALSE	None	None	<$>51694</>	-438	-324	0	SHOP_PROMOTION	None
+3	SHOP_PROMOTION2	leblanc_mus	124	FALSE	None	None	<$>51693</>	443	-321	0	SHOP_PROMOTION	None
+4	SHOP_PROMOTION3	leblanc_wiz	228	FALSE	None	None	<$>51692</>	441	556	0	SHOP_PROMOTION	None
+5	SHOP_PROMOTION4	leblanc_war	320	FALSE	None	None	<$>51691</>	-452	566	0	SHOP_PROMOTION	None
+6	SHOP_PROMOTION5	leblanc_fgt	284	FALSE	None	None	<$>51690</>	0	975	0	SHOP_PROMOTION	None
+7	END_WARP	EntranceArrow	270	FALSE	None	None	<$>3977</>	-3	-1379	0	END_WARP	None

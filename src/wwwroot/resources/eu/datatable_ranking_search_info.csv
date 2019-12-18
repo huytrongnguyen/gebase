@@ -1,0 +1,7 @@
+Broadcast	ClassID	ClassName	Insert	Listing	SearchRange	ServerUnion	WeekType
+1	1	total	YES	Top	3	YES	None
+1	2	server	YES	Top	3	NO	None
+0	3	prev_week_total	NO	Relate	15	YES	PREV
+0	4	cur_week_total	YES	Relate	15	YES	CURRENT
+0	5	prev_week_server	NO	Relate	15	NO	PREV
+0	6	cur_week_server	YES	Relate	15	NO	CURRENT

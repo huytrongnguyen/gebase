@@ -1,0 +1,5 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	NPC_UST_DUN02ALTER	NPC_CRYSTALSKULL	0	FALSE	minimap_npc3.bmp	<$>2127</>	OUTSIDE	<$>2127</>	20391	-5702	-762	NPC_UST_DUN02ALTER	None
+2	npc_ferru_big01	npc_ferru_big	358	FALSE	minimap_mission.bmp	<$>64748</>	None	<$>64748</>	-23526	8527	-850	PIONEER_NOTICE	None
+6	npc_ferru_big02	npc_ferru_big	135	FALSE	minimap_mission.bmp	<$>64748</>	None	<$>64748</>	2141	-5576	-712	PIONEER_NOTICE	None
+10	npc_ferru_big03	npc_ferru_big	181	FALSE	minimap_mission.bmp	<$>64748</>	None	<$>64748</>	19168	-4515	-1014	PIONEER_NOTICE	None

@@ -1,0 +1,9 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+305	TriggerManager	TutorialTrigger_Black	90	FALSE	None	None	None	None	-7734	7669	174	NPC_CLIQUE_COIMMANAGER	None
+306	explosion	COLONY_MANAGER	90	FALSE	minimap_npc.bmp	None	None	<$>50264</>	-503	9033	870	NPC_CLIQUE_EXPLOSION	None
+307	coim_auch_battle4	EntranceArrow	140	FALSE	minimap_warpOut.bmp	<$>64655</>	OUTSIDE	<$>64655</>	-1236	20705	-1088	NPC_CLIQUE_COIMZONEMOVE1	None
+308	coim_auch_battle3	EntranceArrow	191	FALSE	minimap_warpOut.bmp	<$>64656</>	OUTSIDE	<$>64656</>	-9468	3720	387	NPC_CLIQUE_COIMZONEMOVE2	None
+309	coim_reb_battle5	EntranceArrow	300	FALSE	minimap_warpOut.bmp	<$>64657</>	OUTSIDE	<$>64657</>	9213	9881	-1218	NPC_CLIQUE_COIMZONEMOVE4	None
+310	coim_reb_battle6	EntranceArrow	131	FALSE	minimap_warpOut.bmp	<$>64658</>	OUTSIDE	<$>64658</>	-2871	14214	-1087	NPC_CLIQUE_COIMZONEMOVE3	None
+311	clique_safezone1	EntranceArrow_01	100	FALSE	minimap_warpIn.bmp	<$>47869</>	INSIDE	<$>47869</>	1949	4775	-1090	NPC_CLIQUE_SAFEZONE	None
+312	clique_safezone2	EntranceArrow_01	150	FALSE	minimap_warpIn.bmp	<$>47869</>	INSIDE	<$>47869</>	-5017	12917	-684	NPC_CLIQUE_SAFEZONE	None

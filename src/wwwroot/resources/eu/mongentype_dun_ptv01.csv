@@ -1,0 +1,12 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	53	15	13	10632	Monster_Merman_Elite	500	30000	None
+2	TRUE	0	53	11	10	10662	Monster_Imanon_Elite	500	30000	None
+3	TRUE	0	54	20	18	10682	Monster_GaviDiGavi_Elite	500	30000	None
+4	TRUE	0	55	30	24	10602	Monster_ScarletClaw_Elite	500	30000	None
+5	TRUE	0	56	11	10	10642	Monster_MermanZombie_Elite	500	30000	None
+6	TRUE	0	56	11	10	11012	Monster_Nosiar_Elite	500	60000	None
+7	TRUE	7	53	31	28	10631	Monster_Merman	500	5000	None
+9	FALSE	0	58	1	0	20281	Monster_MermanChieftain	1000	1800000	MON_FIELD_SBOSS
+10	FALSE	0	53	1	0	60057	Trigger_Ptv1_Cask	50	20000	None
+11	FALSE	0	53	1	0	81003	Mission_TreasureMerman	50	3600000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

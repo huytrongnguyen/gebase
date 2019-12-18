@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	BTLJAQ02_GARSIA	KTV_GARSIA	123	FALSE	minimap_npc.bmp	<$>64538</>	<$>64538</>	28412	-12192	3412	BTLJAQ02_GARSIA	None
+3	EVENT_BTL_JAQ02	NPC_FALLENROCK	82	FALSE	None	None	None	-7126	7853	687	EVENT_BTL_JAQ02	None
+5	EVENT_DEVIL_WELL	npc_well_devil	353	FALSE	minimap_mission.bmp	None	<$>9756</>	-12403	29917	2874	EVENT_DEVIL_WELL_CREATE	<$>9756</>
+7	npc_ferru_big01	npc_ferru_big	187	FALSE	minimap_mission.bmp	<$>64539</>	<$>64539</>	-674	25119	2813	PIONEER_NOTICE	None
+11	npc_ferru_big02	npc_ferru_big	25	FALSE	minimap_mission.bmp	<$>64539</>	<$>64539</>	25263	-13256	3360	PIONEER_NOTICE	None
+15	npc_ferru_big03	npc_ferru_big	6	FALSE	minimap_mission.bmp	<$>64539</>	<$>64539</>	-7742	-19323	969	PIONEER_NOTICE	None

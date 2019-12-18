@@ -1,0 +1,3 @@
+AIType	Attack	AttackHome	AutoLock	ClassID	ClassName	ClearMon	DropItem	DropLumin	Filter	HateCount	HateRange	Hatred	HomeSick	LifeTime	LtdMinion	LuminFreq	Move	MoveMax	MoveMin	Note	Rally	RunAway	SeekRange	SelfBomb
+AMBERMONSTER	TRUE	FALSE	FALSE	300000	MON_AMBERMONSTER_TWN	FALSE	0	None	MonAndPC	0	0	FALSE	FALSE	1800	FALSE	0	FOLLOWOWNER	0	0	Summoned Monster	FALSE	FALSE	700	FALSE
+MON_HALLOW_APPARITION_SEA	TRUE	FALSE	FALSE	400005	MON_HALLOW_APPARITION_SEA	FALSE	0	None	MonAndPC	0	0	FALSE	FALSE	0	FALSE	0	None	0	0	Hallow Apparition	FALSE	FALSE	2000	FALSE

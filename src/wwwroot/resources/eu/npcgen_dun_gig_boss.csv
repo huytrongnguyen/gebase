@@ -1,0 +1,4 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	TR_BTL_GIG01_2_BOSS_WARP	EntranceArrow2	250	FALSE	None	None	None	-5885	-11503	3077	TR_BTL_GIG01_2_BOSS_WARP	None
+2	GIG_GAMBLE_NUMBER	TutorialTrigger_Black_3m	205	FALSE	None	None	None	-7853	-3601	4465	GAMBLE_NUMBER_TR	None
+3	DUN_GIG_BOSS_SELVA_ORDEN_SUB	TutorialTrigger_Black_3m	0	FALSE	None	None	<$>180097</>	-8315	-3848	4437	TR_DUN_GIG_BOSS_SELVA_ORDEN_SUB	None

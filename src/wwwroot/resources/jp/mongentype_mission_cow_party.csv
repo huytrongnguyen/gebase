@@ -1,0 +1,5 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	500	1	1	90255	Partymission_Colony1	500	780000	MON_ENHANCEBOSS
+2	TRUE	1	500	1	1	90256	Partymission_Colony2	500	780000	MON_ENHANCEBOSS
+3	TRUE	2	500	1	1	90257	Partymission_Colony3	500	780000	MON_ENHANCEBOSS
+4	TRUE	3	500	1	1	90258	Partymission_Colony4	500	780000	MON_ENHANCEBOSS

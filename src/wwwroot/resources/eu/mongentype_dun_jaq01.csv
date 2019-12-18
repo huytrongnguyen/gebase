@@ -1,0 +1,15 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	89	370	333	10793	Monster_RustyMusescargotA	500	5000	None
+2	TRUE	0	90	200	200	10801	Monster_TwinHeaded	500	5000	None
+3	TRUE	0	91	370	333	10813	Monster_RustyJabberwock	500	5000	None
+4	TRUE	0	89	100	100	10821	Monster_Ironmaiden	500	5000	None
+5	TRUE	0	91	100	100	10831	Monster_GhostlyFather	500	5000	None
+6	TRUE	0	90	150	112	10791	Monster_MusescargotA	500	5000	None
+7	TRUE	0	89	150	112	10811	Monster_Jabberwock	500	5000	None
+8	FALSE	0	93	1	0	20154	Monster_DragonHeaded_Field	1000	1800000	MON_FIELD_SBOSS
+9	FALSE	0	89	1	0	60049	Trigger_Jaq1_Cask	50	7000	None
+10	FALSE	0	90	40	40	10792	Monster_MusescargotA_Elite	500	150000	None
+11	FALSE	0	91	40	40	10802	Monster_TwinHeaded_Elite	500	150000	None
+12	FALSE	0	90	40	40	10822	Monster_Ironmaiden_Elite	500	150000	None
+13	FALSE	0	89	1	0	81004	Mission_TreasureMaiden	50	3600000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

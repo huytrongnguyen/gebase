@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	EVENT01_JAQ_QUE02	npc_ktv_brother02_directing	307	FALSE	None	None	<$>5730</>	9476	12978	-4258	EVENT01_JAQ_QUE02	None

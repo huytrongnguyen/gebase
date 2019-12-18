@@ -1,0 +1,4 @@
+ClassID	ClassName	Default	FeePercentage	SellTime
+1	SellTime_1	NO	0.1	48
+2	SellTime_2	YES	0.18	96
+3	SellTime_3	NO	0.26	168

@@ -1,0 +1,6 @@
+Cast	CheckZoneScp	ClassID	ClassName	CoolDown	Desc	Name	PartyLv	Range	ScpType	Script	SkillType	Target	UseGauge
+0	None	1	Death	10	<$>104584</>	<$>52583</>	0	2000	AroundPC	SCR_RAIN_CHAOS	51000	1	1200
+0	None	2	Chaos	10	<$>104585</>	<$>52585</>	0	2000	AroundPC	SCR_ADD_BUFF_STUN	51001	1	1200
+10000	CHECK_RECALL_ZONE	3	BlackHall	20	<$>52588</>	<$>52587</>	0	2000	EnemyColony	SCR_RECALL_PARTY	51002	0	0
+3000	CHECK_CLIQUE_BATTLE_ZONE	4	PresBless	10	<$>104586</>	<$>52589</>	0	2000	AroundPartyMember	SCR_PARTYSKILL_BUFF	51003	0	800
+5000	None	5	Watch	7	<$>133196</>	<$>52591</>	0	1000	CurrentZone	SCR_WATCH_PARTYSKILL	51004	1	1000

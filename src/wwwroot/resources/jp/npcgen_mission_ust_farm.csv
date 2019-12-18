@@ -1,0 +1,4 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	NPC_FARM_SHOP01	NPC_UST_FISHER	85	FALSE	minimap_npc.bmp	<$>64861</>	<$>64861</>	11527	23055	-4776	NPC_FARM_SHOP01	<$>64861</>
+2	NPC_FARM_SHOP02	NPC_UST_FARMER	85	FALSE	minimap_npc.bmp	<$>64862</>	<$>64862</>	10070	23299	-4877	NPC_FARM_SHOP02	<$>64862</>
+3	NPC_FARM_SHOP03	REB_MANa	50	FALSE	minimap_npc.bmp	<$>64863</>	<$>64863</>	9858	23427	-4884	NPC_FARM_SHOP03	<$>64863</>

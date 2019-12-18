@@ -1,0 +1,16 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	77	77	69	11141	Monster_HauntedCandle	500	5000	None
+2	TRUE	0	78	437	393	11071	Monster_Walter	500	5000	None
+3	TRUE	0	78	7	6	11073	Monster_BurningWalter	500	5000	None
+4	TRUE	0	78	7	6	11074	Monster_FreezingWalter	500	5000	None
+5	TRUE	0	78	7	6	11075	Monster_ElectricWalter	500	5000	None
+6	TRUE	0	78	38	34	11081	Monster_Lloyd	500	5000	None
+7	TRUE	0	79	38	34	11121	Monster_Sasha	500	5000	None
+8	TRUE	0	80	154	139	11101	Monster_HollowFootman	500	5000	None
+9	FALSE	0	82	1	0	20471	Monster_HollowFootmancap	1000	1800000	MON_FIELD_SBOSS
+10	FALSE	0	77	1	0	60052	Trigger_Tor1_Box	50	9000	None
+11	FALSE	0	79	20	15	11072	Monster_Walter_Elite	500	150000	None
+12	FALSE	0	80	20	15	11102	Monster_HollowFootman_Elite	500	150000	None
+13	FALSE	0	78	20	15	11082	Monster_Lloyd_Elite	500	150000	None
+14	FALSE	0	77	1	0	81014	Monster_Treasurewalter	500	3600000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

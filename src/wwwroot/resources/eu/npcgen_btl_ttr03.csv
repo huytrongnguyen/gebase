@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+3	TR_BSTGRACE_MOGUN	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-5946	29133	321	TR_BSTGRACE_MOGUN	None
+4	TR_SHERLIN_SCOUT02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>167415</>	-42749	40794	7394	TR_SHERLIN_SCOUT02	None
+5	TR_Q_SCT_LIUNG_02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180116</>	-12319	35635	7521	TR_Q_SCT_LIUNG_02	None
+100	TR_ORDENQUEST_14	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180117</>	-42796	40851	7394	TR_ORDENQUEST_14	None
+101	TR_ORDENQUEST_15	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180087</>	-41764	39293	7205	TR_ORDENQUEST_15	None
+200	TR_Q_SCT_FREEDAY_12	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180118</>	-12213	35484	7521	TR_Q_SCT_FREEDAY_12	None

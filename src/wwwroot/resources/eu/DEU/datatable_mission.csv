@@ -1,0 +1,7 @@
+ClassID	ClassName	Comeback	Continuable	Direct	Instance	Layer	MapImage	MapName	MaxAlliance	MaxPlayer	MaxSlotCount	MinPlayer	MissionInfo	MissionResult	MissionRoom	Name	Resurrection	Script	ShowLevel	Tip	ToWin	UniqueRoom
+18064	H_mission_lucifer01	FALSE	YES	FALSE	mission_instance	56	dun_lucifer01.jpg	H_mission_lucifer01	1	5	5	1	miboss	mr10	mwr1a12	<$>136393</>	TRUE	mission_lucifer01_hard	FALSE	<$>48128</>	<$>136401</>	NO
+18065	H_mission_lucifer02	FALSE	YES	FALSE	mission_instance	57	dun_lucifer02.jpg	H_mission_lucifer02	1	5	5	1	miboss	mr10	mwr1a12	<$>136394</>	TRUE	mission_lucifer02_hard	FALSE	<$>48128</>	<$>136401</>	NO
+18066	H_mission_lucifer03	FALSE	YES	FALSE	mission_instance	58	btl_lucifer01.jpg	H_mission_lucifer03	1	5	5	1	miboss	mr10	mwr1a12	<$>136395</>	TRUE	mission_lucifer03_hard	FALSE	<$>48128</>	<$>136401</>	NO
+18067	H_mission_lucifer04	FALSE	YES	FALSE	mission_instance	59	btl_lucifer02.jpg	H_mission_lucifer04	1	5	5	1	miboss	mr10	mwr1a12	<$>136396</>	TRUE	mission_lucifer04_hard	FALSE	<$>48128</>	<$>136401</>	NO
+18068	H_mission_lucifer05	FALSE	YES	FALSE	mission_instance	60	dun_caslucifer01.jpg	H_mission_lucifer05	1	5	5	1	miboss	mr10	mwr1a12	<$>136397</>	TRUE	mission_lucifer05_hard	FALSE	<$>48128</>	<$>136401</>	NO
+18069	H_mission_lucifer06	FALSE	YES	FALSE	mission_instance	61	dun_caslucifer02.jpg	H_mission_lucifer06	1	5	5	1	miboss	mr10	mwr1a12	<$>136398</>	TRUE	mission_lucifer06_hard	FALSE	<$>48128</>	<$>136401</>	NO

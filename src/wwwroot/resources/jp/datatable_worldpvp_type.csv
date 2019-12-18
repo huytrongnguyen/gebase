@@ -1,0 +1,3 @@
+Category	ClassID	ClassName	Day	Desc	Friend	Lose	Map_1	Map_2	Map_3	Map_4	Map_5	Map_6	MatchingRule	MatchingSCP	Name	NeedParty	NoItemMode	OpenProperty	PlayerCnt	Point	Rank	ShowToUser	UseBuffTrans	UseCommanderMastery	UseDBAuch	UseOpenHourXml	Win
+PVP	1	One	1 3 5	<$>64214</>	0	P2_Lose	11609	11612	11613	11618	11622	11624	PVP	None	<$>111786</>	0	0	None	P 1	P3_Point	P32_Rank	1	FALSE	FALSE	0	0	P1_Win
+PVP	3	Three	1 3 5	<$>64216</>	1	P35_Lose_2	11609	11610	11611	11614	11625	11627	PVP	None	<$>111788</>	0	0	None	P 3 4 5	P36_Point_2	P38_Rank_2	1	FALSE	FALSE	0	0	P34_Win_2

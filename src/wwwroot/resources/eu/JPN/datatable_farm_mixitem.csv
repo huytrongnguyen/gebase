@@ -1,0 +1,2 @@
+BasicSuccess	ClassID	FailedMax	FailedMin	FailedReward	LevelBonus	MixLevel	RewardItem1	RewardItem2	RewardItem3	RewardMax1	RewardMax2	RewardMax3	RewardMin1	RewardMin2	RewardMin3	RewardProbability1	RewardProbability2	RewardProbability3	TakeCount1	TakeCount2	TakeCount3	TakeItem1	TakeItem2	TakeItem3	Text
+30	30	1	1	BellemBox_A	8	6	FarmerBox	Shiny_Crystal_Box	Constellation_Symbol_Box	1	1	1	1	1	1	98	1	1	1	1	1	WaterproofGlove	GoldenGlove	Strong_fishing_rod	<$>29736</>

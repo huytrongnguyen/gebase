@@ -1,0 +1,7 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	FALSE	0	76	1	0	60140	Trigger_WoodBoxA	1500	30000	None
+2	FALSE	1	85	1	0	30061	Monster_Chrysalis	100	10285714	None
+3	FALSE	0	83	10	6	10881	Monster_EigleschivarlierDefender	500	600000	None
+4	FALSE	0	83	10	6	10871	Monster_EigleschivarlierGunner	500	600000	None
+5	FALSE	0	83	10	6	10861	Monster_EigleschivarlierAttacker	500	600000	None
+6	FALSE	0	82	6	4	10851	Monster_GhostlyFlammer	500	600000	None

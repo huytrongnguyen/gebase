@@ -1,0 +1,7 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	1	1	3	2	10571	Monster_CannonTortoise	500	60000	None
+2	TRUE	2	2	3	2	10581	Monster_ArmedTortoise	500	60000	None
+3	TRUE	3	2	3	2	10591	Monster_Tortoise	500	60000	None
+4	TRUE	4	3	5	2	10561	Monster_KingOctopus	500	60000	None
+5	TRUE	5	4	5	2	10561	Monster_KingOctopus	500	60000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

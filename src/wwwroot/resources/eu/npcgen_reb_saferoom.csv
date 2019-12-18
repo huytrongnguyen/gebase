@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+322	Reb_saferoom0	DUN_SOLM	79	FALSE	minimap_npc.bmp	<$>64901</>	<$>64901</>	-194	-1150	0	NPC_CLIQUE_EXITREB	None
+323	Reb_saferoom1	npc_etc_treasureshop1	270	FALSE	minimap_npc.bmp	<$>64903</>	<$>64902</>	-42	896	0	NPC_CLIQUE_SHOP	None
+324	Reb_saferoom2	npc_forge_nofireX	270	FALSE	None	None	<$>51707</>	-236	908	0	BULLET_SHOP	None
+325	Reb_saferoom3	COM_OLDMANa	270	FALSE	None	None	<$>64904</>	243	900	0	NPC_CLIQUE_SAFEROOMGUIDE	None
+332	Reb_saferoom10	TutorialTrigger_Black	178	FALSE	None	None	None	655	1351	0	NPC_CLIQUE_REBSAFEMANAGER	None
+333	Reb_saferoom11	Trigger_Black_None	70	FALSE	None	None	None	1092	840	0	NPC_CLIQUE_REBSAFEMANAGER2	None

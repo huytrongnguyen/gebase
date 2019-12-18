@@ -1,0 +1,11 @@
+ClassID	Colony	ColonyMapType	MatchCity1	MatchCity2	MatchCity3	MatchCity4	MatchCity5	MatchCity6
+1	btl_reb04	COLONYWAR_1	reb_basic	reb_saferoom	fld_reb	None	None	None
+2	btl_ttr02	COLONYWAR_2	coim_basic	gig_basic	fld_gig	None	None	None
+3	btl_auch02	COLONYWAR_3	auch_basic	guild_bounty	None	None	None	None
+4	btl_ust01	COLONYWAR_4	ust_basic	mission_ust_farm	None	None	None	None
+5	btl_bah04	COLONYWAR_5	bah_basic	None	None	None	None	None
+6	btl_reb02	COLONYWAR_6	erc_basic	alt_basic	None	None	None	None
+7	btl_coim02	COLONYWAR_7	viron_basic	None	None	None	None	None
+8	btl_ktv03	COLONYWAR_8	bst_basic	None	None	None	None	None
+9	btl_reb05	COLONYWAR_9	arm_basic	bedel_basic	ile_basic	None	None	None
+10	btl_ptv01	COLONYWAR_10	cas_basic	los_basic	None	None	None	None

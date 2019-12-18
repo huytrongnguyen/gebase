@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Possess	Script	ShopName
+1	AUCH02_COLONY_MANAGER	COLONY_MANAGER_LARGE	321	FALSE	minimap_npc3.bmp	<$>51919</>	<$>51919</>	-8156	-9008	-4950	1	COLONY_MANAGER	None
+2	EVENT_BTL_AUCH02	NPC_FALLENROCK	81	FALSE	None	None	None	11991	-44466	650	0	EVENT_BTL_AUCH02	None
+5	npc_ferru_big01	npc_ferru_big	320	FALSE	minimap_mission.bmp	<$>64491</>	<$>64491</>	1669	-6425	-4682	0	PIONEER_NOTICE	None
+9	npc_ferru_big02	npc_ferru_big	101	FALSE	minimap_mission.bmp	<$>64491</>	<$>64491</>	-23617	-26928	-3863	0	PIONEER_NOTICE	None
+13	npc_ferru_big03	npc_ferru_big	89	FALSE	minimap_mission.bmp	<$>64491</>	<$>64491</>	2785	-34638	-2784	0	PIONEER_NOTICE	None
+17	TR_AUCH02_CRUZSUB	TutorialTrigger_Black_3m	0	FALSE	None	None	<$>64492</>	-24340	-17910	-4576	0	TR_AUCH02_CRUZSUB	None

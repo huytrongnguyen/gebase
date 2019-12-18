@@ -1,0 +1,12 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Possess	Script	ShopName
+1	BTL_TTR02_IN_BTL_FACTIOUS01	EntranceArrow	173	FALSE	minimap_warpOut.bmp	None	OUTSIDE	<$>47552</>	-10951	26149	-1666	0	BTL_ALQ01_IN_BTL_FACTIOUS01	None
+6	LEALTAD_SOL	REB_SOLM	16	FALSE	None	None	None	<$>105319</>	-10432	25710	-1575	0	LEALTAD_SOL	None
+2	TTR02_COLONY_MANAGER	COLONY_MANAGER_LARGE	320	FALSE	minimap_npc3.bmp	<$>51919</>	None	<$>51919</>	1329	-6703	1375	1	COLONY_MANAGER	None
+3	EVENT_BTL_TTR02	NPC_TREESTUMP	0	FALSE	None	None	None	None	-5762	25476	-530	0	EVENT_BTL_TTR02	None
+5	TR_TREE	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	31507	5861	-560	0	TR_TREE	None
+7	npc_ferru_big01	npc_ferru_big	253	FALSE	minimap_mission.bmp	<$>64609</>	None	<$>64609</>	34134	14827	779	0	PIONEER_NOTICE	None
+11	npc_ferru_big02	npc_ferru_big	301	FALSE	minimap_mission.bmp	<$>64609</>	None	<$>64609</>	-7154	4899	-606	0	PIONEER_NOTICE	None
+15	npc_ferru_big03	npc_ferru_big	30	FALSE	minimap_mission.bmp	<$>64609</>	None	<$>64609</>	-26207	-6721	-486	0	PIONEER_NOTICE	None
+19	TR_NATALIE_DARIA_03	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-10309	-3789	1188	0	TR_NATALIE_DARIA_03	None
+100	TR_ROSE_SCT_Q144506_1	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	30913	5802	-479	0	TR_ROSE_SCT_Q144506_1	None
+101	TR_ROSE_SCT_Q144506_2	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	30342	19536	-577	0	TR_ROSE_SCT_Q144506_2	None

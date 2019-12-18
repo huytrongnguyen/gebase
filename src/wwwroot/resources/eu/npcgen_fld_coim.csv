@@ -1,0 +1,11 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Possess	Script	ShopName
+4	MISSION_JAQ	COIM_SOLM2	96	FALSE	minimap_mission.bmp	<$>64791</>	None	<$>64791</>	-17112	5399	801	0	EVENT_MISSION_JAQ	None
+5	MISSION_SINGLERAID	COIM_SOLM2	96	FALSE	minimap_mission.bmp	<$>64792</>	None	<$>64792</>	-17517	5428	801	0	NPC_PRIVATE_RANK_MISSION	None
+6	MISSION_TEAMRAID	COIM_SOLM2	89	FALSE	minimap_mission.bmp	<$>64793</>	None	<$>64793</>	-17326	-1802	847	0	NPC_TEAMRAID_MISSION	None
+21	FLD_COIM_ADELINA	TutorialTrigger_White_3m	0	FALSE	None	None	None	None	-11967	3473	8	0	FLD_COIM_ADELINA	None
+22	NPC_TTR_TREASURE	npc_etc_treasureshop3	75	FALSE	minimap_enchant.bmp	<$>64794</>	None	<$>64794</>	-15198	-3714	870	0	NPC_TTR_TREASURE	None
+23	NPC_WEEK_ELE_MISSION	COIM_SOLM2	180	FALSE	minimap_npc.bmp	<$>180134</>	None	<$>180134</>	-16071	5440	783	0	NPC_WEEK_ELE_MISSION	None
+25	EVENT_MISSION_TEST	npc_ferru_big	88	FALSE	minimap_mission.bmp	<$>64789</>	None	<$>64789</>	-17313	5418	803	0	EVENT_MISSION_TEST	None
+26	MISSION_POINTFULL	Rico_letizia2	0	FALSE	minimap_mission.bmp	<$>187964</>	None	<$>187964</>	-18521	5390	783	0	MISSION_POINTFULL	None
+100	TR_ROSE_SCT_Q144506_3	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-17268	1471	868	0	TR_ROSE_SCT_Q144506_3	None
+101	TR_ROSE_SCT_Q144506_4	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-17330	12806	1334	0	TR_ROSE_SCT_Q144506_4	None

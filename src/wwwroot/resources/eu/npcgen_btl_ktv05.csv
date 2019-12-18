@@ -1,0 +1,15 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	EVENT_ICE_DOOR	TutorialTrigger_White_3m	222	FALSE	minimap_warpIn.bmp	<$>64557</>	INSIDE	<$>64557</>	29303	23904	10094	EVENT_ICE_DOOR	None
+2	KTV_INVIERNO_BOX	npc_btl_auch03_box	308	FALSE	None	None	None	<$>4498</>	-22346	-13433	-3818	KTV_INVIERNO_BOX	None
+3	KTV_FERRUCCIO_CAMP01	TutorialTrigger_Black_3m	319	FALSE	None	None	None	None	-22167	-11831	-3687	TR_KTV_FERRUCCIO_CAMP01	None
+4	KTV_FERRUCCIO_CAMP02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-23273	-11803	-3646	TR_KTV_FERRUCCIO_CAMP02	None
+5	KTV_FERRUCCIO_CAMP03	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-23771	-12964	-3830	TR_KTV_FERRUCCIO_CAMP03	None
+6	npc_ferru_big01	npc_ferru_big	345	FALSE	minimap_mission.bmp	<$>64558</>	None	<$>64558</>	-6165	14374	-1851	PIONEER_NOTICE	None
+10	npc_ferru_big02	npc_ferru_big	7	FALSE	minimap_mission.bmp	<$>64558</>	None	<$>64558</>	-12378	-21302	-3069	PIONEER_NOTICE	None
+14	KTV_ION_QUEST_TR	TutorialTrigger_White_8m	44	FALSE	None	None	None	None	3108	24184	-1799	TR_KTV_ION_QUEST	None
+15	EMILIA_LUNARTIC_KTV	TutorialTrigger_White_8m	44	FALSE	None	None	None	<$>27187</>	-29433	30765	-1749	TR_EMILIA_LUNARTIC_KTV	None
+100	TR_ORDENQUEST_16	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180103</>	28965	23659	10035	TR_ORDENQUEST_16	None
+101	TR_ORDENQUEST_23	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180104</>	-22593	-11957	-3714	TR_ORDENQUEST_23	None
+102	TR_ORDENQUEST_25	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180096</>	-22240	-9452	-3407	TR_ORDENQUEST_25	None
+103	TR_ORDENQUEST_30	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180105</>	-22044	6724	-2362	TR_ORDENQUEST_30	None
+104	TR_ORDENQUEST_36	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180106</>	-21328	-7151	-3325	TR_ORDENQUEST_35	None

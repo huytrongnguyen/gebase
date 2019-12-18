@@ -1,0 +1,11 @@
+ClassID	ClassName	Gauge	Level	LevelProperty	Type	XpProperty
+1	PLANT	PlantXp	PlantLevel	Farm_PlantLevel	EXP	Farm_PlantXP
+2	TRAP	TrapXp	TrapLevel	Farm_TrapLevel	EXP	Farm_TrapXP
+3	FISHING	FishingXp	FishingLevel	Farm_FishingLevel	EXP	Farm_FishingXP
+4	WEEDING	WeedingXp	WeedingLevel	Farm_WeedingLevel	EXP	Farm_WeedingXP
+5	HUNTING	HuntingXp	HuntingLevel	Farm_HuntingLevel	EXP	Farm_HuntingXP
+6	MIX_ITEM	MixItemXp	MixItemLevel	Farm_MixItemLevel	EXP	Farm_MixItemXP
+7	BEE	BeeXp	BeeLevel	Farm_BeeLevel	EXP	Farm_BeeXP
+8	COOK	CookXp	CookLevel	Farm_CookLevel	EXP	Farm_CookXP
+9	TURRET	DollXp	DollLevel	Farm_DollLv	EXP	Farm_DollXP
+10	DOG	DogXp	DogLevel	Farm_DogLevel1	EXP	Farm_DogXP1

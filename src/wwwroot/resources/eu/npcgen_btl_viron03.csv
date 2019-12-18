@@ -1,0 +1,9 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	TR_WARP_BTL_VIRON02	EntranceArrow	200	FALSE	minimap_warpOut.bmp	<$>47862</>	OUTSIDE	<$>47862</>	-60786	-18659	-1467	TR_WARP_BTL_VIRON02	None
+2	TR_BST_CYMON01	TutorialTrigger_Black_10m	1	FALSE	None	None	None	None	-6097	15280	-2809	TR_BST_CYMON01	None
+3	TR_BST_CYMON02	TutorialTrigger_Black_10m	1	FALSE	None	None	None	None	-24661	16986	-3256	TR_BST_CYMON02	None
+4	TR_BST_CYMON03	TutorialTrigger_Black_10m	1	FALSE	None	None	None	None	-51305	693	-1015	TR_BST_CYMON03	None
+5	TR_BST_CYMON04	TutorialTrigger_Black_10m	1	FALSE	None	None	None	None	-45025	-15357	-916	TR_BST_CYMON04	None
+6	TR_BST_CYMON05	TutorialTrigger_Black_10m	1	FALSE	None	None	None	None	-25814	-15207	-3146	TR_BST_CYMON05	None
+7	npc_ferru_big01	npc_ferru_big	47	FALSE	minimap_mission.bmp	<$>105321</>	None	<$>105321</>	-13609	-13930	-2427	PIONEER_NOTICE	None
+11	npc_ferru_big02	npc_ferru_big	128	FALSE	minimap_mission.bmp	<$>105321</>	None	<$>105321</>	-53453	-19853	-1530	PIONEER_NOTICE	None

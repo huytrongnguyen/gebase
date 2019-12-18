@@ -1,0 +1,7 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	60	42	40	81346	Monster_event_Glacialvalkyrie01	500	4000	MON_AGGRESSIVE
+2	TRUE	0	60	42	40	81347	Monster_event_Glacialvalkyrie02	500	4000	MON_AGGRESSIVE
+3	TRUE	0	60	42	40	81348	Monster_event_Glacialvalkyrie03	500	4000	MON_AGGRESSIVE
+4	TRUE	0	60	42	40	81349	Monster_event_Glacialvalkyrie04	500	4000	MON_AGGRESSIVE
+7	FALSE	1	60	3	1	70811	Monster_Snowman	500	5000	MON_EVENT_DROPMON
+8	FALSE	1	60	3	1	70813	Monster_Snowman3	500	5000	MON_EVENT_DROPMON

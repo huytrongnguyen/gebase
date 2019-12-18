@@ -1,0 +1,5 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	TOWERGRACIEL01_CRISTAL04	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	-6011	11871	0	TOWERGRACIEL01_CRISTAL04	None
+2	TOWERGRACIEL01_CRISTAL03	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	-8060	842	536	TOWERGRACIEL01_CRISTAL03	None
+3	TOWERGRACIEL01_CRISTAL02	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	5871	11834	0	TOWERGRACIEL01_CRISTAL02	None
+4	TOWERGRACIEL01_CRISTAL01	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	7947	763	536	TOWERGRACIEL01_CRISTAL01	None

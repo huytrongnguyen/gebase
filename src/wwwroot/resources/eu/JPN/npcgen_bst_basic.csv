@@ -1,0 +1,4 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	C1_BST_HEINZ	npc_bristiainfanty2	358	FALSE	minimap_npc.bmp	<$>101374</>	<$>88221</>	-10625	-18177	765	C1_BST_HEINZ	None
+56	C1_BST_JONE	REB_MANa	180	FALSE	minimap_npc.bmp	<$>101375</>	<$>88256</>	16388	-3601	1108	C1_BST_JONE	None
+86	C1_BST_CHERINA	npc_bargirl2	203	FALSE	minimap_npc.bmp	<$>101376</>	<$>88278</>	17697	-14437	619	C1_BST_CHERINA	None

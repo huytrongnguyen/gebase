@@ -1,0 +1,9 @@
+ClassID	ClassName	Discount	IsPercent	MaxRank	RankName	RankingType	RewardPoint	RewardProperty
+1	pioneer_SSS	50	NO	1	SSS	Pioneer_Count_Prev	150000	Pioneer_BuyPoint
+2	pioneer_SS	40	NO	5	SS	Pioneer_Count_Prev	100000	Pioneer_BuyPoint
+3	pioneer_S	30	NO	10	S	Pioneer_Count_Prev	80000	Pioneer_BuyPoint
+4	pioneer_A	25	YES	5	A	Pioneer_Count_Prev	70000	Pioneer_BuyPoint
+5	pioneer_B	20	YES	10	B	Pioneer_Count_Prev	50000	Pioneer_BuyPoint
+6	pioneer_C	15	YES	20	C	Pioneer_Count_Prev	30000	Pioneer_BuyPoint
+7	pioneer_D	5	YES	30	D	Pioneer_Count_Prev	9000	Pioneer_BuyPoint
+8	pioneer_F	0	YES	100	F	Pioneer_Count_Prev	4000	Pioneer_BuyPoint

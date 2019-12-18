@@ -1,0 +1,11 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	AUCH03_COLONYM	REB_MANa	331	FALSE	minimap_npc.bmp	<$>56047</>	None	<$>56047</>	-7238	8720	3262	AUCH03_COLONYM	None
+2	AUCH03_SALESM	COIM_GIRLb1	93	FALSE	minimap_npc.bmp	<$>64496</>	None	<$>64496</>	10458	3203	752	AUCH03_SALESM	None
+3	AUCH03_VIKIHOUSE_DOOR	npc_btl_auch03_qhouse_door	271	FALSE	minimap_warpIn.bmp	<$>64497</>	INSIDE	<$>64497</>	-662	17552	5711	AUCH03_VIKIHOUSE_DOOR	None
+6	npc_ferru_big01	npc_ferru_big	214	FALSE	minimap_mission.bmp	<$>64498</>	None	<$>64498</>	-10004	-13329	954	PIONEER_NOTICE	None
+10	npc_ferru_big02	npc_ferru_big	256	FALSE	minimap_mission.bmp	<$>64498</>	None	<$>64498</>	5791	-10045	402	PIONEER_NOTICE	None
+14	npc_ferru_big03	npc_ferru_big	208	FALSE	minimap_mission.bmp	<$>64498</>	None	<$>64498</>	7807	15523	1708	PIONEER_NOTICE	None
+18	npc_ferru_big04	npc_ferru_big	39	FALSE	minimap_mission.bmp	<$>64498</>	None	<$>64498</>	-3012	12467	5131	PIONEER_NOTICE	None
+22	TR_AUCH03_SHERRYN1	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	-12695	-13441	943	TR_AUCH03_SHERRYN1	None
+23	TR_SHERLIN_SCOUT01	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	-1434	17595	5554	TR_SHERLIN_SCOUT01	None
+24	TR_SHERLIN_SCOUT03	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	296	17489	5714	TR_SHERLIN_SCOUT03	None

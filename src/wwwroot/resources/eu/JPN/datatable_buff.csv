@@ -1,0 +1,35 @@
+ApplyTime	BodyColor	BuffRank	BuffType	Category	ChangeDefLayer	ClassID	ClassName	Desc	ElapsedSeconds	Emitter	EmitterLoop	Emoticon	EscHitCount	Eventbuff	ExGroupIndex	GroupIndex	HitCount	HoldAttack	HoldItem	HoldMove	HoldSkill	IgnoreMagicalSkill	IgnoreNormalHit	IgnorePhysicalSkill	IgnoreTargetting	Invisible	Name	Particle	Position	Range	Save	TargetParticle	ToolTip	Unremovable	UpdateType	WeaponTail
+0	None	0	None	ETC	0	187	ProtectionofEsperanza	ProtectionofEsperanza	0	None	NO	None	0	NO	None	85	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27937</>	None	Bottom	0	FALSE	None	<$>27938</>	YES	INFINITY	None
+0	None	0	None	ETC	0	233	EXPBuff50	EXPBuff50	0	None	NO	None	0	NO	None	43	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27765</>	None	None	0	FALSE	None	<$>27766</>	YES	INFINITY	None
+0	None	0	None	ETC	0	235	EXPBuff100	EXPBuff100	0	None	NO	None	0	NO	None	43	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27765</>	None	None	0	FALSE	None	<$>28017</>	YES	INFINITY	None
+0	None	0	None	ETC	0	236	StnEXPBuff50	StnEXPBuff50	0	None	NO	None	0	NO	None	41	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27932</>	None	None	0	FALSE	None	<$>28018</>	YES	INFINITY	None
+0	None	0	None	ETC	0	238	StnEXPBuff100	StnEXPBuff100	0	None	NO	None	0	NO	None	41	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	StnEXPBuff100	None	None	0	FALSE	None	<$>28020</>	YES	INFINITY	None
+0	None	0	None	ETC	0	283	EXPBuff20_Event	EXPBuff	0	None	NO	None	0	NO	None	152	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28104</>	None	None	0	TRUE	None	<$>28105</>	YES	NORMAL	None
+0	None	0	None	ETC	0	360	Sprint_WhiteDay	Sprint_WhiteDay	0	None	NO	None	0	NO	None	133	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28230</>	Buff_Concentrate	Bottom	0	TRUE	None	<$>100599</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	361	IncASPD_WhiteDay	IncASPD_WhiteDay	0	None	NO	None	0	NO	None	133	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28232</>	Buff_Acceleration	Bottom	0	TRUE	None	<$>28233</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	362	AddDEF_WhiteDay	AddDEF_WhiteDay	0	None	NO	None	0	NO	None	133	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28234</>	Buff_Invulnerable	Middle	0	TRUE	None	<$>28235</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	363	IncATK_WhiteDay	IncATK_WhiteDay	0	None	NO	None	0	NO	None	133	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28236</>	Buff_Intensify	Bottom	0	TRUE	None	<$>28237</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	364	AddMspd_WhiteDay	AddMspd_WhiteDay	0	None	NO	None	0	NO	None	133	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28238</>	Buff_Acceleration	Bottom	0	TRUE	None	<$>28239</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	418	EleSafeGuard	EleSafeGuard	0	None	NO	None	0	NO	None	2	0	NO	YES	NO	YES	NO	NO	NO	NO	NO	<$>28335</>	Buff_Invulnerable	Middle	0	FALSE	None	<$>28336</>	NO	NORMAL	None
+0	None	0	None	ETC	0	473	Invisiblebreak	Invisiblebreak	0	None	NO	None	0	NO	None	152	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28417</>	None	None	0	FALSE	None	<$>28418</>	YES	NORMAL	None
+0	None	0	None	ETC	0	487	Aorchado	Protection of the Aorchado	0	None	NO	None	0	NO	None	400000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>91385</>	None	None	0	FALSE	None	<$>100600</>	NO	INFINITY	None
+0	None	0	None	ETC	0	502	Tiger_w	Protection of white	0	None	NO	None	0	NO	None	400000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>100601</>	None	None	0	FALSE	None	<$>142242</>	NO	SCRIPT	None
+0	None	0	None	ETC	0	503	EXPBuff30	EXPBuff30	0	None	NO	None	0	NO	None	43	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27765</>	None	None	0	FALSE	None	<$>28459</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	506	EXPBuff10_EEP	EXPBuff10_EEP	0	None	NO	None	0	NO	None	530	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28460</>	None	None	0	TRUE	None	<$>28461</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	507	Absorbbuff	Absorbbuff	0	None	NO	None	0	NO	None	100000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28462</>	None	None	0	TRUE	None	<$>28463</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	508	EXPBuff60	EXPBuff60	0	None	NO	None	0	NO	None	30	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27765</>	None	None	0	FALSE	None	<$>28464</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	509	StnEXPBuff60	StnEXPBuff60	0	None	NO	None	0	NO	None	31	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27932</>	None	None	0	FALSE	None	<$>28465</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	510	IncAR_JPN	IncAR_JPN	0	None	NO	None	0	NO	None	71	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28466</>	None	None	0	TRUE	None	<$>27968</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	511	IncDR_JPN	IncDR_JPN	0	None	NO	None	0	NO	None	71	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28467</>	None	None	0	TRUE	None	<$>27970</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	512	GrowthMedicine	GrowthMedicine	0	None	NO	None	0	NO	None	300000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28468</>	None	None	0	FALSE	None	<$>28469</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	513	GrowthTactics	GrowthTactics	0	None	NO	None	0	NO	None	300001	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28470</>	None	None	0	FALSE	None	<$>28471</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	514	GoodConduct_01	GoodConduct_01	0	None	NO	None	0	NO	None	300002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28472</>	None	None	0	FALSE	None	<$>28473</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	515	GoodConduct_02	GoodConduct_02	0	None	NO	None	0	NO	None	300002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28472</>	None	None	0	FALSE	None	<$>28474</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	516	GoodConduct_03	GoodConduct_03	0	None	NO	None	0	NO	None	300002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28472</>	None	None	0	FALSE	None	<$>28475</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	517	GoodConduct_04	GoodConduct_04	0	None	NO	None	0	NO	None	300002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28472</>	None	None	0	FALSE	None	<$>28476</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	518	GoodConduct_05	GoodConduct_05	0	None	NO	None	0	NO	None	300002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28472</>	None	None	0	FALSE	None	<$>28477</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	519	HAL_EVENT_0908	HAL_EVENT_0908	0	None	NO	None	0	NO	None	800001	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28478</>	None	None	0	FALSE	None	<$>28479</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	520	StnEXPBuff30	StnEXPBuff30	0	None	NO	None	0	NO	None	41	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27932</>	None	None	0	FALSE	None	<$>28480</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	523	IntenDivineBless	IntenDivineBless	0	None	NO	None	0	NO	None	77	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28434</>	None	None	0	TRUE	None	<$>28481</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	524	TransPotion	TransPotion	0	None	NO	None	0	NO	None	100001	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28482</>	None	None	0	TRUE	None	<$>28483</>	YES	SCRIPT	None
+0	None	0	None	ETC	0	930	ToothOfBless	ToothOfBless	0	None	NO	None	0	NO	None	35	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>94362</>	Buff_Adcast	Bottom	0	FALSE	None	<$>100604</>	YES	INFINITY	None

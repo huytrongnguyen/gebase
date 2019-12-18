@@ -1,0 +1,2 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	100	1	0	70180	Mission_CatherineEvent	50	5000	MON_ROYALRUMBLE

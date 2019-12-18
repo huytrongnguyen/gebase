@@ -1,0 +1,7 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	120	10	5	10831	Monster_GhostlyFather	500	10000	None
+2	TRUE	0	120	10	5	10841	Monster_GhostlyFriger	500	10000	None
+3	TRUE	0	120	10	5	10851	Monster_GhostlyFlammer	500	10000	None
+4	TRUE	0	120	10	5	10861	Monster_EigleschivarlierAttacker	500	10000	None
+5	TRUE	0	120	10	5	10871	Monster_EigleschivarlierGunner	500	10000	None
+6	TRUE	0	120	10	5	10881	Monster_EigleschivarlierDefender	500	10000	None

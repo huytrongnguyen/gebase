@@ -1,0 +1,3 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	MW_QUARRY_DOWN_UP	WarpGate	0	FALSE	minimap_npc3.bmp	None	<$>64851</>	-3696	-6699	876	MW_QUARRY_DOWN_UP	None
+2	MW_QUARRY_UP_DOWN	WarpGate	90	FALSE	minimap_npc3.bmp	None	<$>64852</>	5	14004	1089	MW_QUARRY_UP_DOWN	None

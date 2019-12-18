@@ -1,0 +1,23 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	MASUNG_ERC	Teleportation2	282	FALSE	None	None	None	<$>108862</>	-1333	2148	0	MASUNG_ERC	None
+2	MASUNG_SED	Teleportation2	282	FALSE	None	None	None	<$>108863</>	-1927	2104	0	MASUNG_SED	None
+3	MASUNG_BAH	Teleportation2	282	FALSE	None	None	None	<$>64827</>	-2393	2046	0	MASUNG_BAH	None
+4	MASUNG_UST	Teleportation2	282	FALSE	None	None	None	<$>64828</>	-2915	1959	0	MASUNG_UST	None
+5	MASUNG_JAQ	Teleportation2	0	FALSE	None	None	None	<$>64829</>	-3577	1302	0	MASUNG_JAQ	None
+6	MASUNG_TOR	Teleportation2	4	FALSE	None	None	None	<$>64830</>	-3554	591	0	MASUNG_TOR	None
+7	MASUNG_POT	Teleportation2	1	FALSE	None	None	None	<$>64831</>	-3533	-57	0	MASUNG_POT	None
+8	Solo Easy	Teleportation2	270	FALSE	None	None	None	<$>155408</>	0	-211	98	SOLOMEASYGATE	None
+9	Solo Master	structure_potaeffect15JPN	272	FALSE	None	None	None	<$>155409</>	-12	242	98	SOLOMMASTERGATE	None
+10	Solo HighMaster	structure_potaeffect20JPN	270	FALSE	None	None	None	<$>155410</>	3	2423	272	SOLOMHIGHMASTERGATE	None
+11	SHOP_AUCH_CITEM	AUCH_ESMERALDA	90	FALSE	None	None	None	<$>99954</>	1179	-2085	0	SHOP_AUCH_CITEM	None
+12	SHOP_MARKET	REB_AUCTION_DESK	90	FALSE	None	None	None	<$>64453</>	1706	-2040	0	SHOP_MARKET	None
+14	MASUNG_TBK	structure_potaeffect	270	FALSE	None	None	None	<$>64835</>	1516	2207	0	MASUNG_TBK	None
+15	MASUNG_SCT	structure_potaeffect	270	FALSE	None	None	None	<$>64836</>	2278	2153	0	MASUNG_SCT	None
+16	MASUNG_KTV	structure_potaeffect	270	FALSE	None	None	None	<$>108864</>	3039	1950	0	MASUNG_KTV	None
+17	leonardo_cas	AUCH_LEON	90	FALSE	None	None	None	<$>10806</>	882	-2116	0	LEO_SERVICE	None
+18	MASUNG_CAS01	structure_potaelec	174	FALSE	None	None	None	<$>96409</>	3625	1539	0	MASUNG_CAS01	None
+19	MASUNG_CAS02	structure_potaelec	174	FALSE	None	None	None	<$>108865</>	3552	741	0	MASUNG_CAS02	None
+20	MASUNG_CAS03	structure_potaelec	176	FALSE	None	None	None	<$>108866</>	3526	-63	0	MASUNG_CAS03	None
+35	AutoHard	structure_potaelec2JPN	356	FALSE	None	None	None	<$>163764</>	-1811	-1245	0	JPNAUTOHARD	None
+36	AutoHard2	structure_potaelec2JPN	358	FALSE	None	None	None	<$>166695</>	-1866	-689	0	JPNAUTOHARD2	None
+37	Republic_instructor	AUCH_SOLM	87	FALSE	None	None	None	<$>189017</>	-771	-1751	0	REPUBLIC_INSTRUCTOR	None

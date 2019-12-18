@@ -1,0 +1,9 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	118	50	47	13821	Monster_Koboldchief_Elder	500	15000	None
+2	TRUE	1	121	4	3	13731	Monster_Dullahanlanceman	300	15000	MON_FLD_ERC
+3	TRUE	1	120	7	6	13741	Monster_Dullahangunner	300	15000	MON_FLD_ERC
+4	TRUE	1	120	7	6	13751	Monster_Dullahanguardian	300	15000	MON_FLD_ERC
+5	TRUE	1	120	7	6	13761	Monster_Dullahanattacker	300	15000	MON_FLD_ERC
+8	TRUE	25	140	1	0	70180	Mission_CatherineEvent	100	15000	MON_ERC_CON1
+10	FALSE	27	120	1	0	70191	Mission_CatherineEvent3	500	600000	MON_SUMMON_BOSS
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

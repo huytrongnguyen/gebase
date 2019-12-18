@@ -1,0 +1,9 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+41	tr_illiermain2_10	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	12	-13550	-9	TR_ILLIERMAIN2_10	None
+42	tr_illiermain2_11	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	4	-14965	-9	TR_ILLIERMAIN2_11	None
+43	tr_illiermain2_14	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-6	-14995	-9	TR_ILLIERMAIN2_14	None
+51	TR_DIERTRICH_SCOUT_02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>167343</>	1126	16496	0	TR_DIERTRICH_SCOUT_02	None
+52	TR_DIERTRICH_SCOUT_03	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>167343</>	-8441	13069	9	TR_DIERTRICH_SCOUT_03	None
+53	TR_DIERTRICH_SCOUT_04	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>167343</>	8956	-3216	0	TR_DIERTRICH_SCOUT_04	None
+54	TR_DIERTRICH_SCOUT_05	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>167343</>	-13	15817	-9	TR_DIERTRICH_SCOUT_05	None
+100	WarpGate01	Teleportation2	270	FALSE	None	None	None	<$>2352</>	17931	-10001	-40	NPC_DUNILE01WARP	None

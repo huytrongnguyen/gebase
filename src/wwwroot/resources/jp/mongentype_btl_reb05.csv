@@ -1,0 +1,8 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	108	250	200	10343	Monster_FirePhobitan	500	3500	None
+2	TRUE	2	107	150	100	10033	Monster_FireZebraEater	500	60000	None
+3	TRUE	0	109	250	200	10683	Monster_GaviDiFire	500	3500	None
+4	TRUE	0	107	250	200	11463	Monster_fireskeletonbg	500	3500	None
+5	FALSE	3	110	1	0	20431	Monster_ZebraEaterElder2	500	1800000	MON_MISSION_212
+6	FALSE	0	110	1	0	60130	Trigger_Fallenrock	50	12000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

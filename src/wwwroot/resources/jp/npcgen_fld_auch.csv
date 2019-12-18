@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+31	AUCH_HITDUMMY01	Trigger_Black_None	270	FALSE	minimap_npc.bmp	<$>105476</>	None	<$>105476</>	2240	-590	7	NPC_HITDUMMYMANAGER	None
+35	EVENT_MISSION_TEST	npc_ferru_big	86	FALSE	minimap_mission.bmp	<$>64789</>	None	<$>64789</>	-1369	-322	1	EVENT_MISSION_TEST	None
+37	TR_AUCH_OBSERV	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	98	4198	21	TR_AUCH_OBSERV	None
+38	TR_BSTGRACE_AIN	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-9464	-2582	2911	TR_BSTGRACE_AIN	None
+39	TR_Q_SCT_LIUNG_01	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>188777</>	16296	-2006	9	TR_Q_SCT_LIUNG_01	None
+100	TR_ORDENQUEST_32	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>190757</>	-630	941	17	TR_ORDENQUEST_32	None

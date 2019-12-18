@@ -1,0 +1,6 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	DUNTTR04_IN	npc_ttr_door01	89	FALSE	None	None	<$>64742</>	-10287	-6284	-100	DUNTTR04_IN	None
+5	npc_ferru_big01	npc_ferru_big	90	FALSE	minimap_mission.bmp	<$>64743</>	<$>64743</>	23906	-1031	-200	PIONEER_NOTICE	None
+9	npc_ferru_big02	npc_ferru_big	270	FALSE	minimap_mission.bmp	<$>64743</>	<$>64743</>	-21069	1214	53	PIONEER_NOTICE	None
+13	TR_BRUNIE_SUB	TutorialTrigger_Black_3m	0	FALSE	None	None	<$>51512</>	20430	-14	0	TRIGGER_BRUNIE_SUBQUEST	None
+15	TR_SHERLIN_SCOUT04	TutorialTrigger_Black_3m	0	FALSE	None	None	<$>13438</>	24861	73	-160	TR_SHERLIN_SCOUT04	None

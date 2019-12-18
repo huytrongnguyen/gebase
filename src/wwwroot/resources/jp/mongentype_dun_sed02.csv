@@ -1,0 +1,8 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	1	122	32	24	13202	Monster_Bacchanalia_Elite	500	15000	None
+2	TRUE	1	123	32	24	13212	Monster_Elysian_Elite	500	15000	None
+3	TRUE	9	123	8	6	13222	Monster_Vespanolla_Elite	500	15000	None
+4	TRUE	1	118	1	0	13231	Monster_Acorchado	500	15000	None
+5	TRUE	0	122	3	2	13202	Monster_Bacchanalia_Elite	500	15000	None
+6	TRUE	0	123	3	2	13212	Monster_Elysian_Elite	500	15000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

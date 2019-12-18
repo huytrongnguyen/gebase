@@ -1,0 +1,10 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	49	4	3	10542	Monster_CaseOctopus_Elite	500	60000	None
+2	TRUE	0	50	4	3	10552	Monster_CaskOctopus_Elite	500	60000	None
+3	TRUE	0	49	5	4	10562	Monster_KingOctopus_Elite	500	60000	None
+4	TRUE	0	50	3	2	10632	Monster_Merman_Elite	500	60000	None
+5	TRUE	0	51	3	2	10662	Monster_Imanon_Elite	500	60000	None
+6	TRUE	0	52	3	2	10682	Monster_GaviDiGavi_Elite	500	60000	None
+7	FALSE	0	38	1	0	60120	Trigger_Largestone	50	60000	None
+8	FALSE	0	54	1	0	20831	Monster_GaviDiGavi_Leader	500	1800000	MON_FIELD_SBOSS
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

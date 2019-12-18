@@ -1,0 +1,3 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	25	120	18	13291	Monster_diabolic_Zealot	500	20000	None
+2	TRUE	0	26	79	24	13292	Monster_diabolic_Masquerader	500	20000	None

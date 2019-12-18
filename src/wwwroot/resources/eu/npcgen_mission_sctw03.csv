@@ -1,0 +1,11 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	SETPOS_SCTW03_UP2	EntranceArrow2	83	FALSE	minimap_warpIn.bmp	<$>47772</>	<$>47772</>	78	8428	1272	SETPOS_SCTW03_UP2	None
+2	SETPOS_SCTW03_1	Teleportation	192	FALSE	minimap_npc3.bmp	<$>64860</>	<$>64860</>	10664	2313	-5030	SETPOS_SCTW03_1	None
+3	SETPOS_SCTW03_2	Teleportation	1	FALSE	minimap_npc3.bmp	<$>64860</>	<$>64860</>	10169	2190	-5030	SETPOS_SCTW03_2	None
+4	SETPOS_SCTW03_3	Teleportation	141	FALSE	minimap_npc3.bmp	<$>64860</>	<$>64860</>	7900	-7650	-5030	SETPOS_SCTW03_3	None
+5	SETPOS_SCTW03_4	Teleportation	322	FALSE	minimap_npc3.bmp	<$>64860</>	<$>64860</>	7480	-7337	-5030	SETPOS_SCTW03_4	None
+6	SETPOS_SCTW03_5	Teleportation	40	FALSE	minimap_npc3.bmp	<$>64860</>	<$>64860</>	-8519	-6787	-5030	SETPOS_SCTW03_5	None
+7	SETPOS_SCTW03_6	Teleportation	213	FALSE	minimap_npc3.bmp	<$>64860</>	<$>64860</>	-8132	-6440	-5030	SETPOS_SCTW03_6	None
+8	SETPOS_SCTW03_7	Teleportation	320	FALSE	minimap_npc3.bmp	<$>64860</>	<$>64860</>	-9130	5875	-5029	SETPOS_SCTW03_7	None
+9	SETPOS_SCTW03_8	Teleportation	146	FALSE	minimap_npc3.bmp	<$>64860</>	<$>64860</>	-8757	5577	-5030	SETPOS_SCTW03_8	None
+10	WARP_SCTW_BOSS	StoneWarpGate	272	FALSE	minimap_warpOut.bmp	<$>64709</>	<$>64709</>	27	10478	5228	WARP_SCTW_BOSS	None

@@ -1,0 +1,9 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	tr_illiermain2_06	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-11575	1094	-856	TR_ILLIERMAIN2_06	None
+2	tr_illiermain2_07	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-13137	1054	-856	TR_ILLIERMAIN2_07	None
+3	tr_illiermain2_08	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-2826	2966	89	TR_ILLIERMAIN2_08	None
+4	tr_illiermain2_09	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-276	1050	-64	TR_ILLIERMAIN2_09	None
+5	tr_illiermain2_12	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-220	-625	89	TR_ILLIERMAIN2_12	None
+6	tr_illiermain2_13	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-9001	1059	-856	TR_ILLIERMAIN2_13	None
+51	TR_DIERTRICH_SCOUT_01	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>167343</>	-243	2292	-13	TR_DIERTRICH_SCOUT_01	None
+100	waypoint_ile	WAYPOINT_ONROAD	345	FALSE	minimap_waypoint.bmp	<$>51907</>	None	<$>51907</>	-4076	83	89	WAYPOINT_FLD	None

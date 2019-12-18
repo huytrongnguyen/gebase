@@ -1,0 +1,10 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+2	NPC_DUMMY_NORTH	HiddenTrigger	0	TRUE	None	None	<$>64483</>	0	12300	858	NONE	None
+3	NPC_DUMMY_SOUTH	HiddenTrigger	0	TRUE	None	None	<$>64484</>	0	-12300	858	NONE	None
+4	NPC_DUMMY_EAST	HiddenTrigger	0	TRUE	None	None	<$>64485</>	12300	0	858	NONE	None
+5	NPC_DUMMY_WEST	HiddenTrigger	0	TRUE	None	None	<$>64486</>	-12300	0	858	NONE	None
+6	TriggerCNTR	PartyColTrigger	0	TRUE	None	None	<$>50260</>	28	362	984	SPOTCNTR	None
+7	NPC_DUMMY_NE	HiddenTrigger	0	TRUE	None	None	<$>64487</>	8755	9131	913	NONE	None
+8	NPC_DUMMY_NW	HiddenTrigger	0	TRUE	None	None	<$>64488</>	-8737	9091	913	NONE	None
+9	NPC_DUMMY_SE	HiddenTrigger	0	TRUE	None	None	<$>50262</>	8772	-8354	913	NONE	None
+10	NPC_DUMMY_SW	HiddenTrigger	0	TRUE	None	None	<$>50263</>	-8701	-8391	913	NONE	None

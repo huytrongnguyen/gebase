@@ -1,0 +1,5 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	C1_COIM_MERCENARY	mercenary	353	FALSE	minimap_npc.bmp	<$>28774</>	<$>28774</>	-592	67	6	C1_COIM_MERCENARY	None
+2	SHOP_CHARTRADE	mercenary	176	FALSE	minimap_npc.bmp	None	<$>64865</>	595	60	6	SHOP_CHARTRADE	None
+3	C1_COIM_GERARD	GerardLauren	295	FALSE	minimap_npc.bmp	<$>4058</>	<$>4058</>	-112	263	6	C1_COIM_GERARD	None
+4	C1_COIM_CALYCE	caryce	353	FALSE	minimap_npc.bmp	<$>4584</>	<$>4584</>	-524	273	6	C1_COIM_CALYCE	None

@@ -1,0 +1,6 @@
+BeginLv	CashPromotionDesc	CashPromotionLevelDesc	ClassID	ClassName	EndLv	Local
+100	None	None	1	Veteran	110	<$>9172</>
+110	None	None	2	Experts	120	<$>9173</>
+120	None	None	3	Master	130	<$>9174</>
+130	<$>111108</>	[La Atencion]	4	HighMaster	140	<$>104653</>
+140	None	None	5	GrandMaster	150	<$>104654</>

@@ -1,0 +1,17 @@
+ClassID	ClassName	ItemOption	ItemSocket	ItemType	Reinforce
+375	Vendetta_Weapon	None	None	125515	10
+376	Vendetta_Armor	None	None	64735	10
+377	Vendetta_Ring_1	None	None	171258	0
+378	Vendetta_Ear	None	None	46026	0
+379	Vendetta_Neck	None	None	15308	0
+380	Vendetta_Glove	None	None	19126	0
+381	Vendetta_Belt	None	None	45018	0
+382	Vendetta_Boot	None	None	19525	0
+416	Archbishop_Book_1	I 100015 50 100011 100 14005 80 40003 15	None	129716	13
+417	Archbishop_Robe	I 116001 15 116009 8 116010 15000 116011 3	None	192509	13
+418	Archbishop_Belt	I 117022 4000 117023 15 117028 5 117029 5	None	45053	10
+419	Archbishop_Boots	I 117030 3500 117031 10 117032 20 117033 20	None	19559	10
+420	Archbishop_Gloves	I 117017 3000 117018 150 117019 10 117020 20	None	19167	10
+421	Ring1_Trust_Custom	None	None	169028	10
+422	Orden_Earring_10add_Custom	None	None	46046	10
+423	CharlotNeck_10add_Custom	None	None	15355	10

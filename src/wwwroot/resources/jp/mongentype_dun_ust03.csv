@@ -1,0 +1,14 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	104	300	300	11411	Monster_skeletontg	500	5000	None
+2	TRUE	0	105	40	30	11413	Monster_fireskeletontg	500	5000	None
+3	TRUE	0	105	40	30	11414	Monster_iceskeletontg	500	5000	None
+4	TRUE	0	105	40	30	11415	Monster_lightskeletontg	500	5000	None
+5	TRUE	0	105	60	50	11431	Monster_skeletonsta	500	5000	None
+6	TRUE	0	104	100	80	11471	Monster_velociskel	500	5000	None
+7	FALSE	0	107	1	0	20355	Monster_Boneless_boss_Field	500	1800000	MON_FIELD_SBOSS
+8	FALSE	0	104	1	0	60056	Trigger_Ust3_Box	50	20000	None
+9	FALSE	0	105	2	0	11412	Monster_skeletontg_Elite	500	600000	None
+10	FALSE	0	105	2	0	11432	Monster_skeletonsta_Elite	500	600000	None
+11	FALSE	0	105	2	0	11472	Monster_velociskel_Elite	500	600000	None
+12	FALSE	0	105	1	0	81015	Monster_Treasureskeleton	500	3600000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

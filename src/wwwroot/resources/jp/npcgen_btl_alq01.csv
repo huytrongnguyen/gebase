@@ -1,0 +1,3 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	BTL_ALQ01_IN_BTL_FACTIOUS01	EntranceArrow	317	FALSE	minimap_warpOut.bmp	None	OUTSIDE	<$>47552</>	4015	-20583	-224	BTL_ALQ01_IN_BTL_FACTIOUS01	None
+6	GLEICHSTELLUNG_SOL	AUCH_SOLM	135	FALSE	None	None	None	<$>110050</>	4333	-20210	-232	GLEICHSTELLUNG_SOL	None

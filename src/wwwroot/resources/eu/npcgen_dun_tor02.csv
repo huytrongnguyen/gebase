@@ -1,0 +1,14 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+2	C1_TOR_KEIMAN	KEIMAN	173	FALSE	minimap_npc.bmp	<$>64729</>	None	<$>64729</>	30648	39754	0	C1_TOR_KEIMAN	None
+3	M_TOR_DRDOOR	EntranceArrow_01	1	FALSE	minimap_warpIn.bmp	<$>64730</>	INSIDE	<$>64730</>	-343	27787	-1000	M_TOR_DRDOOR	<$>64730</>
+4	TR_TOR_KEIMANROOM	EntranceArrow	1	FALSE	minimap_warpIn.bmp	<$>64731</>	INSIDE	<$>64731</>	9330	16411	1000	TR_TOR_KEIMANROOM	None
+5	npc_ferru_big01	npc_ferru_big	270	FALSE	minimap_mission.bmp	<$>64732</>	None	<$>64732</>	-22251	7465	0	PIONEER_NOTICE	None
+9	npc_ferru_big02	npc_ferru_big	270	FALSE	minimap_mission.bmp	<$>64732</>	None	<$>64732</>	14325	-6065	-1000	PIONEER_NOTICE	None
+13	npc_ferru_big03	npc_ferru_big	45	FALSE	minimap_mission.bmp	<$>64732</>	None	<$>64732</>	-11028	16366	-1000	PIONEER_NOTICE	None
+17	TR_MARYCLEAN_STAIRS1	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	-1685	16601	-425	TR_MARYCLEAN_STAIRS1	None
+18	TR_MARYCLEAN_STAIRS2	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	2286	17239	574	TR_MARYCLEAN_STAIRS2	None
+19	TR_MARYCLEAN_STAIRS3	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	-2281	-1807	575	TR_MARYCLEAN_STAIRS3	None
+20	TR_MARYCLEAN_STAIRS4	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	1695	-2217	-427	TR_MARYCLEAN_STAIRS4	None
+21	TR_MARYCLEAN_STAIRS5	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	9634	-6233	-196	TR_MARYCLEAN_STAIRS5	None
+22	TR_MARYCLEAN_STAIRS6	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	-2216	-28018	-1425	TR_MARYCLEAN_STAIRS6	None
+23	TR_TOR_CATHERINE3	EntranceArrow_01	181	FALSE	minimap_warpIn.bmp	None	INSIDE	<$>69968</>	-9320	-1013	1000	TR_TOR_CATHERINE3	None

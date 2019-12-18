@@ -1,0 +1,10 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	140	5	3	19610	Monster_private_Mandradora	10000	5000	MON_RAFFMINION
+2	TRUE	0	140	5	3	19611	Mission_private_Mandrelrira	10000	5000	MON_RAFFMINION
+3	TRUE	0	140	7	3	19612	Monster_private_Hornet	10000	5000	MON_RAFFMINION
+4	TRUE	0	140	7	3	19613	Monster_private_TigerHornet	10000	5000	MON_RAFFMINION
+5	TRUE	0	140	7	3	19614	Monster_private_FlyingSickle	10000	5000	MON_RAFFMINION
+6	TRUE	0	140	7	3	19615	Monster_private_GreenFlyingSickle	10000	5000	MON_RAFFMINION
+7	TRUE	0	140	7	3	19616	Monster_private_HoundEater	10000	5000	MON_RAFFMINION
+8	TRUE	0	140	7	3	19617	Monster_private_gimlet	10000	5000	MON_RAFFMINION
+9	TRUE	0	140	7	3	19618	Monster_private_greatmandra	10000	5000	MON_RAFFMINION

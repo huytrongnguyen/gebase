@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+2	EVENT_BTL_REB03	NPC_TREESTUMP	83	FALSE	None	None	None	19167	15811	-2285	EVENT_BTL_REB03	None
+4	waypoint_reb03	WAYPOINT_ONROAD	277	FALSE	minimap_waypoint.bmp	<$>51907</>	<$>51907</>	14089	1454	-2182	WAYPOINT_AUCH_BASIC	None
+5	npc_ferru_big01	npc_ferru_big	23	FALSE	minimap_mission.bmp	<$>64581</>	<$>64581</>	9685	-15085	-1613	PIONEER_NOTICE	None
+9	npc_ferru_big02	npc_ferru_big	156	FALSE	minimap_mission.bmp	<$>64581</>	<$>64581</>	24151	9654	-2340	PIONEER_NOTICE	None
+13	npc_ferru_big03	npc_ferru_big	99	FALSE	minimap_mission.bmp	<$>64581</>	<$>64581</>	-924	14586	-2281	PIONEER_NOTICE	None
+17	TR_MISSION_GIRL_btl_reb03	TutorialTrigger_Black_3m	112	FALSE	None	None	<$>67131</>	25845	15751	-1224	TR_MISSION_GIRL_btl_reb03	None

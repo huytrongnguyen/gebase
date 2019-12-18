@@ -1,0 +1,5 @@
+ClassID	ClassName	Name	areaImage	buffcheck	propcheck	warp1id	warp1name	warp2id	warp2name	warp3id	warp3name	warp4id	warp4name
+1	dun_jaq06	<$>6030</>	image\dun_jaq06.dds	HomePreBuff10 HomePreBuff20 HomePreBuff30 PiopreBuff	QW_dun_jaq01 1	9401	Lv.76~Lv.79	9402	Lv.76~Lv.79	9403	Lv.84~Lv.87	9404	Lv.87~Lv.90
+2	dun_ust04	<$>6032</>	image\dun_ust04.dds	HomePreBuff10 HomePreBuff20 HomePreBuff30 PiopreBuff	QW_dun_ust01 1	9501	Lv.94~Lv.97	9502	Lv.94~Lv.97	9503	Lv.98~Lv.101	9504	Lv.102~Lv.105
+3	dun_bah04	<$>6034</>	image\dun_bah04.dds	HomePreBuff10 HomePreBuff20 HomePreBuff30 PiopreBuff	QW_bah_basic 1	9811	Lv.106~Lv.109	9812	Lv.106~Lv.109	9813	Lv.109~Lv.112	9814	Lv.112~Lv.115
+4	btl_cas03	<$>6063</>	image\btl_cas03.dds	HomePreBuff10 HomePreBuff20 HomePreBuff30 PiopreBuff	QW_cas_basic 1	9936	Lv.110~Lv.113	9937	Lv.113~Lv.116	9938	Lv.116~Lv.119	9939	Lv.119~Lv.122

@@ -1,0 +1,9 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	DUN_SED03_WARP	NPC_SED_CRYSTALGATE	41	FALSE	minimap_warpOut.bmp	None	OUTSIDE	<$>1014</>	7794	-12233	-19	DUN_SED03_WARP	None
+2	DUN_SED03_SETPOS	NPC_SED_CRYSTALGATE	5	FALSE	minimap_warpOut.bmp	None	OUTSIDE	<$>1014</>	1844	15931	2	DUN_SED03_SETPOS	None
+3	TR_SED_MISSION_01_03	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	10723	24392	-51	TR_SED_MISSION_01_03	None
+4	TR_SED_MISSION_02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-5177	1872	0	TR_SED_MISSION_02	None
+5	TR_SED_MISSION_04	TutorialTrigger_Black_3m	331	FALSE	None	None	None	None	7672	-9772	-19	TR_SED_MISSION_04	None
+6	tr_armmain07	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>117893</>	8767	-13085	0	TR_MAINQUEST_ARM07	None
+7	DUN_SED03_SELVA_ORDEN_SUB	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>188763</>	10240	-11044	0	TR_DUN_SED03_SELVA_ORDEN_SUB	None
+100	TR_ORDENQUEST_05	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>185440</>	7956	24219	50	TR_ORDENQUEST_05	None

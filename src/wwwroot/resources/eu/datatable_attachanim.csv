@@ -1,0 +1,15 @@
+AniRank	AttachAnimName	ClassID	ClassName	ConditionEquip1	ConditionEquip2	ConditionJob	ConditionStance	MinConditionCount
+5	sorang	1	SorangSkl	None	None	Sorang	None	0
+5	sludin	2	SLudinSkl	None	None	SLudin	None	0
+5	bearcos	4	MontoroSkl	polarbearCos_Montoro	polarbearCos_Montoro_E	MontoroPC	None	2
+5	bearcos	5	iceMontoroSkl	polarbearCos_IceMontoro	polarbearCos_IceMontoro_E	IceMontoro	None	2
+5	bearcos	6	EvilSkl	polarbearCos_Evil	polarbearCos_Evil_E	Evil	None	2
+5	bearcos	7	KevinSkl	polarbearCos_Kevin	polarbearCos_Kevin_E	Kevin	None	2
+5	blackcos	8	RiskySkl	BlackRiskyCos	BlackRiskyCos_E	Risky	None	2
+5	bluecos	9	SyrmaSkl	LaluzBlueCostume	LaluzBlueCostume_E	Yuliana	None	2
+5	schoolcos	10	SyrmaSkl2	YulianaSchoolLookCos	YulianaSchoolLookCos_E	Yuliana	None	2
+5	Kano2Rare	11	ChiefKanoAtk	None	None	Kano2	None	0
+5	Nathalie2	12	NatalieJobSkill	None	None	NatalieRare	None	0
+5	Nena2	13	NenaJobSkill	None	None	Nena	VioletaPerro	2
+5	dariarare	14	DariaJobSkill	None	None	DariaRare	None	0
+5	summer	15	BarrelrareJobSkill	Cos_SummBarrelrare	None	Barrelrare	None	1

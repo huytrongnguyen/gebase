@@ -1,0 +1,5 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	C1_BST_KESS	npc_kess	264	FALSE	minimap_npc.bmp	<$>81499</>	<$>81499</>	-245	528	0	C1_BST_KESS	None
+3	bst_soldier01	npc_bristiainfanty1	91	FALSE	None	None	<$>88301</>	-214	-885	-12	NPC_BST_PORTGUARD	None
+4	bst_soldier02	npc_bristiainfanty1	91	FALSE	None	None	<$>88301</>	195	-885	-12	NPC_BST_PORTGUARD	None
+5	TR_BST_GOVTOKIELCE	EntranceArrow_01	263	FALSE	None	None	<$>72959</>	-1	-837	-12	TR_BST_GOVTOKIELCE	None

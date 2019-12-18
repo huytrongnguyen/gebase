@@ -1,0 +1,12 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	63	25	18	10571	Monster_CannonTortoise	500	6000	None
+2	TRUE	0	64	74	55	10591	Monster_Tortoise	500	6000	None
+3	TRUE	0	65	148	111	10684	Monster_GaviDiIce	500	6000	None
+4	TRUE	0	66	173	129	11464	Monster_iceskeletonbg	500	6000	None
+5	TRUE	0	67	25	18	10034	Monster_IceZebraEater	500	6000	None
+6	TRUE	0	68	49	36	10625	Monster_ElectricAnchor	500	6000	None
+7	FALSE	0	70	1	0	20211	Monster_Sharffenberger	1000	1800000	MON_FIELD_SBOSS
+8	FALSE	9	100	1	0	70190	Mission_CatherineEvent2	1000	1000	MON_RECALL_SBKEY
+9	TRUE	10	130	1	0	90020	Monster_Sharffenberger_raid	50	1	MON_RAID_SHARFFEN
+10	FALSE	0	63	4	3	60130	Trigger_Fallenrock	50	12000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

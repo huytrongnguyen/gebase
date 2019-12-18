@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	CASH_DUNGEN_MESSAGE1	Teleportation2	76	FALSE	minimap_warpIn.bmp	<$>64746</>	<$>64746</>	7684	1338	-597	CASH_DUNGEN_MESSAGE	None
+2	CASH_DUNGEN_MESSAGE2	Teleportation2	208	FALSE	minimap_warpIn.bmp	<$>64746</>	<$>64746</>	10303	11105	-548	CASH_DUNGEN_MESSAGE	None
+3	CASH_DUNGEN_MESSAGE3	Teleportation2	267	FALSE	minimap_warpIn.bmp	<$>64746</>	<$>64746</>	3739	11853	-576	CASH_DUNGEN_MESSAGE	None
+4	CASH_DUNGEN_MESSAGE4	Teleportation2	89	FALSE	minimap_warpIn.bmp	<$>64746</>	<$>64746</>	2447	1888	-610	CASH_DUNGEN_MESSAGE	None
+5	NPC_UST_DUN04ALTER	NPC_CRYSTALSKULL	357	FALSE	minimap_npc3.bmp	<$>2127</>	<$>2127</>	-20390	5695	-762	NPC_UST_DUN04ALTER	None
+50	npc_ferru	npc_ferru	314	FALSE	minimap_mission.bmp	<$>64750</>	<$>64750</>	-19936	5230	-913	DUN_UST04_CASH_QUEST	None

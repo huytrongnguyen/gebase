@@ -1,0 +1,81 @@
+ClassID	Group	ItemName	MaxUseCount	Reinforce
+1	Default	ValeronBlessing	1	6
+2	Default	ValeronBlessing	1	7
+3	Default	ValeronBlessing	1	8
+4	Default	ValeronBlessing	1	9
+5	Default	ValeronBlessing	1	10
+6	Default	ValeronBlessing	1	11
+7	Default	ValeronBlessing	1	12
+8	Default	ValeronBlessing	1	13
+9	Default	ValeronBlessing	1	14
+10	Default	ValeronBlessing	1	15
+101	Star	ValeronBlessing_33_ev ValeronBlessing_33	1	6
+102	Star	ValeronBlessing_33_ev ValeronBlessing_33	1	7
+103	Star	ValeronBlessing_33_ev ValeronBlessing_33	1	8
+104	Star	ValeronBlessing_33_ev ValeronBlessing_33	1	9
+105	Star	ValeronBlessing_33_ev ValeronBlessing_33	1	10
+106	Star	ValeronBlessing_33_ev ValeronBlessing_33	1	11
+107	Star	ValeronBlessing_33_ev ValeronBlessing_33	1	12
+108	Star	ValeronBlessing_33_ev ValeronBlessing_33	1	13
+109	Star	ValeronBlessing_33_ev ValeronBlessing_33	1	14
+110	Star	ValeronBlessing_33_ev ValeronBlessing_33	1	15
+201	Evil	ValeronBlessing_34_ev ValeronBlessing_34	1	6
+202	Evil	ValeronBlessing_34_ev ValeronBlessing_34	1	7
+203	Evil	ValeronBlessing_34_ev ValeronBlessing_34	1	8
+204	Evil	ValeronBlessing_34_ev ValeronBlessing_34	1	9
+205	Evil	ValeronBlessing_34_ev ValeronBlessing_34	1	10
+206	Evil	ValeronBlessing_34_ev ValeronBlessing_34	1	11
+207	Evil	ValeronBlessing_34_ev ValeronBlessing_34	1	12
+208	Evil	ValeronBlessing_34_ev ValeronBlessing_34	1	13
+209	Evil	ValeronBlessing_34_ev ValeronBlessing_34	1	14
+210	Evil	ValeronBlessing_34_ev ValeronBlessing_34	1	15
+301	Strata	ValeronBlessing_35_ev ValeronBlessing_35	1	6
+302	Strata	ValeronBlessing_35_ev ValeronBlessing_35	1	7
+303	Strata	ValeronBlessing_35_ev ValeronBlessing_35	1	8
+304	Strata	ValeronBlessing_35_ev ValeronBlessing_35	1	9
+305	Strata	ValeronBlessing_35_ev ValeronBlessing_35	1	10
+306	Strata	ValeronBlessing_35_ev ValeronBlessing_35	1	11
+307	Strata	ValeronBlessing_35_ev ValeronBlessing_35	1	12
+308	Strata	ValeronBlessing_35_ev ValeronBlessing_35	1	13
+309	Strata	ValeronBlessing_35_ev ValeronBlessing_35	1	14
+310	Strata	ValeronBlessing_35_ev ValeronBlessing_35	1	15
+401	Armonia	ValeronBlessing_36_ev ValeronBlessing_36	1	6
+402	Armonia	ValeronBlessing_36_ev ValeronBlessing_36	1	7
+403	Armonia	ValeronBlessing_36_ev ValeronBlessing_36	1	8
+404	Armonia	ValeronBlessing_36_ev ValeronBlessing_36	1	9
+405	Armonia	ValeronBlessing_36_ev ValeronBlessing_36	1	10
+406	Armonia	ValeronBlessing_36_ev ValeronBlessing_36	1	11
+407	Armonia	ValeronBlessing_36_ev ValeronBlessing_36	1	12
+408	Armonia	ValeronBlessing_36_ev ValeronBlessing_36	1	13
+409	Armonia	ValeronBlessing_36_ev ValeronBlessing_36	1	14
+410	Armonia	ValeronBlessing_36_ev ValeronBlessing_36	1	15
+501	More	ValeronBlessing_37_ev ValeronBlessing_37	1	6
+502	More	ValeronBlessing_37_ev ValeronBlessing_37	1	7
+503	More	ValeronBlessing_37_ev ValeronBlessing_37	1	8
+504	More	ValeronBlessing_37_ev ValeronBlessing_37	1	9
+505	More	ValeronBlessing_37_ev ValeronBlessing_37	1	10
+506	More	ValeronBlessing_37_ev ValeronBlessing_37	1	11
+507	More	ValeronBlessing_37_ev ValeronBlessing_37	1	12
+508	More	ValeronBlessing_37_ev ValeronBlessing_37	1	13
+509	More	ValeronBlessing_37_ev ValeronBlessing_37	1	14
+510	More	ValeronBlessing_37_ev ValeronBlessing_37	1	15
+601	Valeron	ValeronBlessing_37_ev ValeronBlessing_37	1	6
+602	Valeron	ValeronBlessing_37_ev ValeronBlessing_37	1	7
+603	Valeron	ValeronBlessing_37_ev ValeronBlessing_37	1	8
+604	Valeron	ValeronBlessing_37_ev ValeronBlessing_37	1	9
+605	Valeron	ValeronBlessing_37_ev ValeronBlessing_37	1	10
+606	Valeron	ValeronBlessing_37_ev ValeronBlessing_37	1	11
+607	Valeron	ValeronBlessing_37_ev ValeronBlessing_37	1	12
+608	Valeron	ValeronBlessing_37_ev ValeronBlessing_37	1	13
+609	Valeron	ValeronBlessing_37_ev ValeronBlessing_37	1	14
+610	Valeron	ValeronBlessing_37_ev ValeronBlessing_37	1	15
+701	LegendWeapon	ValeronBlessing_38_ev ValeronBlessing_38	1	6
+702	LegendWeapon	ValeronBlessing_38_ev ValeronBlessing_38	1	7
+703	LegendWeapon	ValeronBlessing_38_ev ValeronBlessing_38	1	8
+704	LegendWeapon	ValeronBlessing_38_ev ValeronBlessing_38	1	9
+705	LegendWeapon	ValeronBlessing_38_ev ValeronBlessing_38	1	10
+706	LegendWeapon	ValeronBlessing_38_ev ValeronBlessing_38	1	11
+707	LegendWeapon	ValeronBlessing_38_ev ValeronBlessing_38	1	12
+708	LegendWeapon	ValeronBlessing_38_ev ValeronBlessing_38	1	13
+709	LegendWeapon	ValeronBlessing_38_ev ValeronBlessing_38	1	14
+710	LegendWeapon	ValeronBlessing_38_ev ValeronBlessing_38	1	15

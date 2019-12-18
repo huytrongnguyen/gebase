@@ -1,0 +1,17 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+2	TRUE	1	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+3	TRUE	2	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+4	TRUE	3	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+5	TRUE	4	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+6	TRUE	5	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+7	TRUE	6	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+8	TRUE	7	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+9	TRUE	8	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+10	TRUE	9	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+11	TRUE	10	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+12	TRUE	10	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+13	TRUE	10	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+14	TRUE	10	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+15	TRUE	10	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None
+16	TRUE	10	150	10	1	66112	Mission_DevilFordoi_Gen	1000	10000	None

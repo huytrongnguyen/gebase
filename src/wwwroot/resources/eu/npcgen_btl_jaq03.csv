@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	C1_JAQ03_STOPE	COM_SELDEN	156	FALSE	minimap_npc.bmp	<$>64540</>	<$>64540</>	16835	6489	-4338	C1_JAQ03_STOPE	None
+5	JAQ03_ALTER	npc_dun_alq03_forge	222	FALSE	minimap_npc3.bmp	<$>64541</>	<$>64541</>	17654	20549	-4823	JAQ03_ALTER	None
+6	JAQ03_RESECU	COM_RESCUE	294	FALSE	minimap_npc.bmp	<$>4306</>	<$>4306</>	-17686	54106	-1120	JAQ03_RESECU	None
+7	npc_ferru_big01	npc_ferru_big	126	FALSE	minimap_mission.bmp	<$>64542</>	<$>64542</>	5314	-4308	-4346	PIONEER_NOTICE	None
+11	npc_ferru_big02	npc_ferru_big	177	FALSE	minimap_mission.bmp	<$>64542</>	<$>64542</>	5762	21714	-2536	PIONEER_NOTICE	None
+15	npc_ferru_big03	npc_ferru_big	47	FALSE	minimap_mission.bmp	<$>64542</>	<$>64542</>	-16221	50045	-907	PIONEER_NOTICE	None

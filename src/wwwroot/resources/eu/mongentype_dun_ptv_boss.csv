@@ -1,0 +1,5 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	FALSE	1	50	1	0	30041	Monster_Chimera01	1500	10285714	None
+2	FALSE	0	46	1	0	60150	Trigger_Cask	1500	30000	None
+8	FALSE	0	44	6	0	10702	Monster_ZaviDiGavi_Elite	1500	600000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

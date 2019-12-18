@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	DUMMY_NPC	SedTrigger_1m	151	FALSE	None	None	None	6350	-14217	-75	DUMMY_NPC	None

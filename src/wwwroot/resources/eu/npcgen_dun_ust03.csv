@@ -1,0 +1,3 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+3	npc_ferru_big01	npc_ferru_big	280	FALSE	minimap_mission.bmp	<$>64749</>	<$>64749</>	-24875	9380	-784	PIONEER_NOTICE	None
+11	npc_ferru_big03	npc_ferru_big	271	FALSE	minimap_mission.bmp	<$>64749</>	<$>64749</>	22297	-8666	-666	PIONEER_NOTICE	None

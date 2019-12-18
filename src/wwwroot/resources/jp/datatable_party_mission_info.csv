@@ -1,0 +1,16 @@
+ClassID	ClassName	Desc	ItemClassName	ItemCount	Name	PartyLv	RankType	ReadyMin	StartMin
+40000	PM_40000	<$>109910</>	ShinyCrystal	50	<$>48389</>	0	Time	10000	5
+40002	PM_40002	<$>109911</>	ShinyCrystal	50	<$>29404</>	0	Time	10000	5
+40004	PM_40004	<$>109912</>	ShinyCrystal	50	<$>29405</>	0	Time	10000	5
+40005	PM_40005	<$>109913</>	ShinyCrystal	50	<$>29406</>	0	Time	10000	5
+40006	PM_40006	<$>109914</>	ShinyCrystal	50	<$>29401</>	0	Time	10000	5
+31005	PM_31005	<$>109915</>	ShinyCrystal	50	<$>29407</>	0	Time	10000	5
+40019	PM_40019	<$>109916</>	ShinyCrystal	50	<$>29418</>	0	Time	10000	5
+40028	PM_40028	<$>109917</>	ShinyCrystal	50	<$>48045</>	0	Time	10000	5
+40029	PM_40029	<$>109918</>	ShinyCrystal	50	<$>48047</>	0	Time	10000	5
+40030	PM_40030	<$>109919</>	ShinyCrystal	50	<$>48049</>	0	Time	10000	5
+40302	PM_40302	<$>109920</>	ShinyCrystal	50	<$>106366</>	0	Time	10000	5
+40303	PM_40303	<$>109921</>	ShinyCrystal	50	<$>106368</>	0	Point	10000	5
+40331	PM_40331	<$>132158</>	ShinyCrystal	50	<$>132046</>	0	Point	10000	5
+40343	PM_40343	<$>167530</>	ShinyCrystal	50	<$>167529</>	0	Time	10000	5
+40350	PM_40350	<$>179741</>	ShinyCrystal	50	<$>179655</>	0	Time	10000	5

@@ -1,0 +1,6 @@
+BackgroundColor	BackgroundImage	ClassID	GradeImage	Sound
+None	LindenboxGrade1	1	LindenboxGrade1	LindenboxGrade1.ogg
+None	LindenboxGrade2	2	LindenboxGrade2	LindenboxGrade2.ogg
+None	LindenboxGrade3	3	LindenboxGrade3	LindenboxGrade3.ogg
+None	None	4	None	LindenboxGrade3.ogg
+#02778b	LindenboxGrade1	5	LindenboxGrade1	LindenboxGrade1.ogg

@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+2	TriggerCNTR	PartyColTrigger	0	TRUE	None	None	<$>50260</>	28	362	984	SPOTCNTR	None

@@ -1,0 +1,6 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	ALQ2_HOLLYARK	TutorialTrigger_Black_3m	0	FALSE	None	None	None	6017	19504	-50	ALQ2_HOLLYARK	None
+3	npc_ferru_big01	npc_ferru_big	168	FALSE	minimap_mission.bmp	<$>182105</>	<$>182105</>	6289	32715	0	PIONEER_NOTICE	None
+7	npc_ferru_big02	npc_ferru_big	178	FALSE	minimap_mission.bmp	<$>182105</>	<$>182105</>	-5212	4785	0	PIONEER_NOTICE	None
+11	npc_ferru_big03	npc_ferru_big	271	FALSE	minimap_mission.bmp	<$>182105</>	<$>182105</>	542	-32766	0	PIONEER_NOTICE	None
+15	TR_ALQ_VINCENT	TutorialTrigger_Gray_3m	0	FALSE	None	None	None	10216	34612	0	TR_ALQ_VINCENT	None

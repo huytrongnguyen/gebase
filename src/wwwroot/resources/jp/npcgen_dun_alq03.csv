@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+3	M_ALQ03_DOMINGO	NPC_ALQ_DOOR1	176	FALSE	minimap_warpOut.bmp	None	None	<$>125754</>	44867	14023	0	M_ALQ03_DOMINGO	None
+4	npc_ferru_big01	npc_ferru_big	0	FALSE	minimap_mission.bmp	<$>182106</>	None	<$>182106</>	20516	6027	0	PIONEER_NOTICE	None
+8	npc_ferru_big02	npc_ferru_big	270	FALSE	minimap_mission.bmp	<$>182106</>	None	<$>182106</>	-5980	-9801	0	PIONEER_NOTICE	None
+12	npc_ferru_big03	npc_ferru_big	225	FALSE	minimap_mission.bmp	<$>182106</>	None	<$>182106</>	-50337	-3831	0	PIONEER_NOTICE	None
+16	TR_ALQ_VINCENT	TutorialTrigger_Gray_3m	0	FALSE	None	None	None	None	-600	-6107	0	TR_ALQ_VINCENT	None
+17	PTV03_CLAUDE_SILVER	TreasureChest_Red	134	FALSE	minimap_npc3.bmp	<$>64699</>	INSIDE	<$>64699</>	1348	-6115	0	PTV03_CLAUDE_SILVER	<$>64699</>

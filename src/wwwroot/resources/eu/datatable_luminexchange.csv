@@ -1,0 +1,5 @@
+ClassID	ClassName	FesoPrice	Price	RetItemID	ReturnMaxCount	ReturnMinCount	Upgradable
+1	Lumin1	0	500000	0	1	1	TRUE
+2	Lumin2	20000	0	0	1	1	TRUE
+3	Lumin3	0	500000	77559	20	1	FALSE
+4	Lumin4	0	500000	77559	30	10	FALSE

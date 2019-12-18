@@ -1,0 +1,5 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	100	14	3	20053	Monster_PolluxofChaos	500	5000	None
+2	TRUE	0	100	10	2	20064	Monster_Castorofchaos	500	5000	None
+9	FALSE	9	105	1	0	70190	Mission_CatherineEvent2	500	5000	MON_TEMPLE_SUMMON2
+10	FALSE	9	100	1	0	70180	Mission_CatherineEvent	500	5000	MON_TEMPLE_SUMMON

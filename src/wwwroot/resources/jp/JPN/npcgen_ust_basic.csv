@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	KEY_CHANGE_NPC	paoloviaje1	17	FALSE	minimap_npc.bmp	<$>64948</>	None	<$>64948</>	-3075	8064	-6326	KEY_CHANGE_NPC	None
+21	QUEST_HELPER_HEEJU	npc_com_womanc1	247	FALSE	None	<$>148356</>	None	<$>148356</>	3747	16114	-5769	QUEST_HELPER_HEEJU	None
+26	SHOP_BULLET	TutorialTrigger_Black_6m	89	FALSE	None	None	None	<$>51707</>	6	7917	-6306	TOUMEINPC	None
+28	SHOP_AUCH_ENCHANT	INCHANT_NPC	277	FALSE	minimap_enchant.bmp	None	None	<$>99788</>	-802	8977	-6308	SHOP_AUCH_ENCHANT	<$>10796</>
+33	SHOP_PERIOD_COSTUME	Rico_letizia2	88	FALSE	minimap_npc.bmp	None	None	<$>99956</>	590	7924	-6274	SHOP_PERIOD_COSTUME	<$>64456</>
+37	UserSupportJPN	NPC_Loje_desk	295	FALSE	minimap_npc.bmp	None	None	<$>185552</>	3222	16081	-5751	JPN_USERSUPPORT	None

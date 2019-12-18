@@ -1,0 +1,11 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+189	TREASURE_FESO_COIM	TutorialTrigger_Black_6m	47	FALSE	minimap_enchant.bmp	<$>64422</>	None	<$>64422</>	3773	15044	-1127	TOUMEINPC	None
+192	SHOP_BULLET	TutorialTrigger_Black_6m	14	FALSE	None	None	None	<$>51707</>	6835	8862	-1083	TOUMEINPC	None
+201	NPC_MANUFACTURE_LEATHER	TutorialTrigger_Black_6m	194	FALSE	None	None	None	<$>99963</>	6920	12697	-1088	TOUMEINPC	<$>51779</>
+701	GATCHA_COSTUME_VENDER	TutorialTrigger_Black_6m	224	FALSE	None	None	None	<$>76666</>	7419	11716	-1086	TOUMEINPC	None
+251	SHOP_PERIOD_COSTUME	Rico_letizia2	202	FALSE	None	None	None	<$>64456</>	7454	11650	-1088	SHOP_PERIOD_COSTUME	None
+290	NPC_LUMIN_CHANGER	npc_forge_nofireY	15	FALSE	None	None	None	<$>10797</>	6923	8675	-1088	NPC_LUMIN_CHANGER	None
+800	UserSupportJPN	NPC_Loje_desk	300	FALSE	minimap_npc.bmp	None	None	<$>185552</>	1380	17052	-1088	JPN_USERSUPPORT	None
+801	ENCHANT_CHANGE_MERCHAN	TutorialTrigger_Black_6m	202	FALSE	None	<$>76576</>	None	<$>76576</>	6835	8865	-1088	TOUMEINPC	None
+902	JPN_RING_SHOP	npc_viron_item	300	FALSE	None	None	None	<$>113820</>	5816	12799	-1088	JPN_RING_SHOP	None
+950	C1_COIM_TOKEN_SHOP	TutorialTrigger_Black_6m	22	FALSE	None	<$>226146</>	None	<$>226146</>	5880	11434	-1088	TOUMEINPC	<$>226146</>

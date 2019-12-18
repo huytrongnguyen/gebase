@@ -1,0 +1,11 @@
+ArmorWLv	BoosterLv	ClassID	ClassName	IsDefault	IsPeriod	ItemID	WeaponWLv
+R 0-55	3	11	Enhanced_Royal	1	FALSE	157090	R 0-60 65
+R 0-55	3	12	Enhanced_Royal_E	1	FALSE	157091	R 0-60 65
+R 0-55	4	13	Enhanced_Special	1	FALSE	192009	R 0-60 65
+R 0-55	4	14	Enhanced_Special_E	1	FALSE	192010	R 0-60 65
+R 0-55	3	401	Enhanced_Redmercury_event	1	FALSE	89069	R 0-60 65
+R 0-55	3	402	Enhanced_Redmercury	1	FALSE	89064	R 0-60 65
+R 0-55	3	403	Master_Redmercury_event	1	FALSE	89076	R 0-60 65
+R 0-55	3	404	Master_Redmercury	1	FALSE	89075	R 0-60 65
+R 0-55	3	405	Mystic_Redmercury_event	1	FALSE	89087	R 0-60 65
+R 0-55	3	406	Mystic_Redmercury	1	FALSE	89086	R 0-60 65

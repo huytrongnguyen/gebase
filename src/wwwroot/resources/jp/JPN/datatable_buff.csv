@@ -1,0 +1,202 @@
+ApplyTime	AttachEffectIndex	BodyColor	BuffRank	BuffType	Category	ChangeDefLayer	ClassID	ClassName	CookBuffPoint	Desc	ElapsedSeconds	Emitter	EmitterLoop	Emoticon	EscHitCount	Eventbuff	ExGroupIndex	GroupIndex	HitCount	HoldAttack	HoldItem	HoldMove	HoldSkill	IgnoreMagicalSkill	IgnoreNormalHit	IgnorePhysicalSkill	IgnoreTargetting	Invisible	Name	Particle	Partybuffpoint	Position	Range	Save	ShowDetailInfoToOther	TargetParticle	ToolTip	Unremovable	UpdateType	WeaponTail
+0	None	None	0	None	Enhance	0	27	LavaPlasma	0	LavaPlasma	0	None	NO	None	0	NO	G 3001 3002	3	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27655</>	Buff_Lplasma	0	Bottom	0	FALSE	TRUE	HIT_Blood_FIRE	<$>95996</>	NO	NORMAL	3_3
+0	None	None	0	None	Enhance	0	28	ColdPlasma	0	ColdPlasma	0	None	NO	None	0	NO	G 3001 3002	3	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27657</>	Buff_CPlasma	0	Bottom	0	FALSE	TRUE	HIT_Blood_ICE	<$>95997</>	NO	NORMAL	2_3
+0	None	None	0	None	Enhance	0	29	ElectricPlasma	0	ElectricPlasma	0	None	NO	None	0	NO	G 3001 3002	3	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27659</>	Buff_EPlazma	0	Bottom	0	FALSE	TRUE	HIT_Blood_LGHT	<$>95998</>	NO	NORMAL	1_3
+0	None	None	0	None	buff	0	30	MagicBarrier	0	MagicBarrier	0	None	NO	None	0	NO	G 821	2	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27661</>	Buff_Mbarrier	0	Middle	0	FALSE	TRUE	None	<$>27662</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	31	IgnoreHarm	0	IgnoreHarm	0	None	NO	None	0	NO	None	2	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27663</>	Buff_IHarm	0	Middle	0	FALSE	TRUE	None	<$>103629</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	33	SpiritualShield	0	SPShield	0	None	NO	None	0	NO	None	2	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>190179</>	Buff_SPShield	0	Middle	0	FALSE	TRUE	None	<$>190180</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	34	AntimagicShell	0	AMShell	0	None	NO	None	0	NO	None	2	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27669</>	Buff_AMShell	0	Middle	0	FALSE	TRUE	None	<$>96000</>	NO	NORMAL	None
+0	None	None	0	None	Enhance	0	38	BurningHands	0	BHands	0	None	NO	None	0	NO	G 3001 3002	3	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27677</>	Buff_BHands	0	Bottom	0	FALSE	TRUE	HIT_Blood_FIRE	<$>96003</>	NO	NORMAL	3_3
+0	None	None	0	None	Enhance	0	39	ChillingTouch	0	CTouch	0	None	NO	None	0	NO	G 3001 3002	3	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27679</>	Buff_CTouch	0	Bottom	0	FALSE	TRUE	HIT_Blood_ICE	<$>96004</>	NO	NORMAL	2_3
+0	None	None	0	None	Enhance	0	40	ElectricCharger	0	ECharger	0	None	NO	None	0	NO	G 3001 3002	3	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27681</>	Buff_ECharger	0	Bottom	0	FALSE	TRUE	HIT_Blood_LGHT	<$>96005</>	NO	NORMAL	1_3
+0	None	None	100	None	Enhance	0	41	EnchantedArm	0	EnchantedArm	0	None	NO	None	0	YES	G 606 3	3002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27683</>	Buff_EnchantedArm	0	Bottom	0	FALSE	TRUE	None	<$>27684</>	YES	NORMAL	None
+0	None	None	2	None	ETC	0	43	Clique	0	Clique	0	None	NO	None	0	NO	None	110	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27687</>	None	0	None	0	FALSE	TRUE	None	<$>27688</>	YES	INFINITY	None
+0	None	None	0	None	buff	0	52	Intensify	0	Intensify	0	None	NO	None	0	NO	None	6	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27705</>	Buff_Intensify	0	Bottom	0	FALSE	TRUE	None	<$>96007</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	53	Concentrate	0	Concentrate	0	None	NO	None	0	NO	None	100005	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27707</>	Buff_Concentrate	0	Bottom	0	FALSE	TRUE	None	<$>96008</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	54	Fortify	0	Fortify	0	None	NO	None	0	NO	None	7	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27709</>	Buff_Fortify	0	Bottom	0	FALSE	TRUE	None	<$>96009</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	55	Acceleration	0	Acceleration	0	None	NO	None	0	NO	None	7	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27711</>	Buff_Acceleration	0	Bottom	0	FALSE	TRUE	None	<$>96010</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	56	Meditation	0	Meditation	0	None	NO	None	0	NO	None	8	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27713</>	Buff_Meditation	0	Bottom	0	FALSE	TRUE	None	<$>96011</>	NO	NORMAL	None
+0	None	None	0	None	Enhance	0	84	CatsEye	0	CatsEye	0	None	NO	None	0	NO	G 33	55	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27769</>	Buff_Refmind	0	Bottom	0	FALSE	TRUE	None	<$>96017</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	101	LadiesOrder	0	LadiesOrder	0	None	NO	None	0	YES	None	819	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27793</>	Buff_Adcast	0	Bottom	0	FALSE	TRUE	None	<$>27794</>	YES	NORMAL	None
+0	None	None	100	None	buff	0	107	Mark	0	Mark	0	None	NO	None	0	YES	G 604	819	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27805</>	Buff_Adcast	0	Bottom	0	FALSE	TRUE	None	<$>118789</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	139	Furious	0	Furious	0	None	NO	None	0	YES	None	819	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27865</>	Buff_Refmind	0	Bottom	0	FALSE	TRUE	None	<$>27866</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	143	Tactics	0	Tactics	0	None	NO	None	0	NO	None	822	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27872</>	None	0	None	0	FALSE	TRUE	None	<$>27873</>	NO	NORMAL	None
+0	None	None	0	None	Enhance	0	150	Heating	0	Heating	0	None	NO	None	0	YES	None	825	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27884</>	None	0	None	0	FALSE	TRUE	HIT_Blood_FIRE	<$>27885</>	YES	NORMAL	3_3
+0	None	None	100	None	buff	0	156	FatalBlues	0	FatalBlues	0	None	NO	None	0	NO	G 604	100013	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27893</>	None	0	None	0	FALSE	TRUE	None	<$>150991</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	163	Dreamofdoll	0	Dreamofdoll	0	None	NO	None	0	NO	None	100022	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27903</>	Buff_Concentrate	0	Bottom	0	FALSE	TRUE	None	<$>27903</>	NO	NORMAL	None
+0	None	None	1	None	ETC	0	171	BlessOfAncient	0	BlessOfAncient	0	None	NO	None	0	NO	None	10000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>8290</>	None	0	None	0	TRUE	TRUE	None	<$>27918</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	187	ProtectionofEsperanza	0	ProtectionofEsperanza	0	None	NO	None	0	NO	None	85	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27937</>	None	0	Bottom	0	FALSE	TRUE	None	<$>27938</>	YES	INFINITY	None
+0	None	None	0	None	buff	0	231	SoulOfGrim	0	SoulOfGrim	0	None	NO	None	0	YES	None	9	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28012</>	Buff_SoulOfGrim	0	Bottom	0	FALSE	TRUE	None	<$>28013</>	NO	NORMAL	None
+0	None	None	0	None	ETC	0	233	EXPBuff50	0	EXPBuff50	0	None	NO	None	0	NO	None	43	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27765</>	None	0	None	0	FALSE	TRUE	None	<$>27766</>	YES	INFINITY	None
+0	None	None	0	None	ETC	0	235	EXPBuff100	0	EXPBuff100	0	None	NO	None	0	NO	None	43	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27765</>	None	0	None	0	FALSE	TRUE	None	<$>28017</>	YES	INFINITY	None
+0	None	None	0	None	ETC	0	236	StnEXPBuff50	0	StnEXPBuff50	0	None	NO	None	0	NO	None	41	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27932</>	None	0	None	0	FALSE	TRUE	None	<$>28018</>	YES	INFINITY	None
+0	None	None	0	None	ETC	0	238	StnEXPBuff100	0	StnEXPBuff100	0	None	NO	None	0	NO	None	41	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	StnEXPBuff100	None	0	None	0	FALSE	TRUE	None	<$>28020</>	YES	INFINITY	None
+0	None	None	0	None	buff	0	248	ShiningBallade	0	ShiningBallade	0	None	NO	None	0	NO	None	2	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28039</>	Buff_ShiningBallade	0	Middle	0	FALSE	TRUE	None	<$>96022</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	249	EnduranceMelody	0	EnduranceMelody	0	None	NO	None	0	NO	None	2	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28041</>	Buff_EnduranceMelody	0	Middle	0	FALSE	TRUE	None	<$>96023</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	250	RhythmofSpellBreak	0	RhythmofSpellBreak	0	None	NO	None	0	NO	None	535	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28043</>	Buff_RhythmofSpellbreak	0	Middle	0	FALSE	TRUE	None	<$>103641</>	NO	NORMAL	None
+0	None	None	0	None	Enhance	0	268	Bless	0	Bless	0	None	NO	None	0	YES	None	13	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28078</>	None	0	None	0	FALSE	TRUE	None	<$>96028</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	274	Ropera	0	Ropera	0	None	NO	None	0	NO	G 821	13	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28088</>	None	0	None	0	FALSE	TRUE	None	<$>159882</>	NO	NORMAL	None
+0	None	None	0	None	Enhance	0	277	Agile	0	Agile	0	None	NO	None	0	NO	None	13	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28094</>	Buff_militant	0	Bottom	0	FALSE	TRUE	None	<$>96030</>	NO	INFINITY	None
+0	None	None	0	None	ETC	0	283	EXPBuff20_Event	0	EXPBuff	0	None	NO	None	0	NO	None	152	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28104</>	None	0	None	0	TRUE	TRUE	None	<$>28105</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	335	FoxHound	0	Fox Hound	0	None	NO	None	0	NO	None	730	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>89768</>	Buff_Concentrate	0	Bottom	0	FALSE	TRUE	None	<$>89769</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	340	BeginnerLuck	0	BeginnerLuck	0	None	NO	None	0	NO	None	819	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>92850</>	Buff_Concentrate	0	Bottom	0	FALSE	TRUE	None	<$>92850</>	YES	INFINITY	None
+0	None	None	0	None	ETC	0	360	Sprint_WhiteDay	0	Sprint_WhiteDay	0	None	NO	None	0	NO	None	133	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28230</>	Buff_Concentrate	0	Bottom	0	TRUE	TRUE	None	<$>28231</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	361	IncASPD_WhiteDay	0	IncASPD_WhiteDay	0	None	NO	None	0	NO	None	133	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28232</>	Buff_Acceleration	0	Bottom	0	TRUE	TRUE	None	<$>28233</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	362	AddDEF_WhiteDay	0	AddDEF_WhiteDay	0	None	NO	None	0	NO	None	133	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28234</>	Buff_Invulnerable	0	Middle	0	TRUE	TRUE	None	<$>28235</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	363	IncATK_WhiteDay	0	IncATK_WhiteDay	0	None	NO	None	0	NO	None	133	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28236</>	Buff_Intensify	0	Bottom	0	TRUE	TRUE	None	<$>28237</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	364	AddMspd_WhiteDay	0	AddMspd_WhiteDay	0	None	NO	None	0	NO	None	133	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28238</>	Buff_Acceleration	0	Bottom	0	TRUE	TRUE	None	<$>28239</>	YES	SCRIPT	None
+0	None	None	0	None	Enhance	0	366	EnhancedLionHeart	0	EnhancedLionHeart	0	None	NO	None	0	YES	None	139	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28242</>	Buff_Concentrate	0	Bottom	0	FALSE	TRUE	None	<$>28243</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	372	Amplify	0	Amplify	0	None	NO	None	0	NO	None	161	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28254</>	Buff_amplify	0	Bottom	0	FALSE	TRUE	None	<$>28255</>	YES	NORMAL	None
+0	None	None	0	None	Mind	0	373	Deepsleep	0	Deepsleep	0	None	NO	Buff_Sleep	0	YES	None	530	0	YES	YES	YES	YES	NO	NO	NO	NO	NO	<$>28256</>	None	0	None	0	FALSE	TRUE	None	<$>96034</>	YES	SCRIPT	None
+0	None	FF706070	0	None	Mind	0	374	Improvedisease	0	ImproveDisease	0	None	NO	buff_ImproveDisease	0	YES	G 532	1011	0	YES	NO	YES	YES	NO	NO	NO	NO	NO	<$>28258</>	None	0	None	0	FALSE	TRUE	None	<$>96035</>	YES	NORMAL	None
+0	None	None	0	None	Mind	0	375	Gloomypresent	0	GloomyPresent	0	None	NO	Buff_gloomypresent	0	NO	None	530	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28260</>	None	0	None	0	FALSE	TRUE	None	<$>96036</>	YES	SCRIPT	None
+0	None	None	0	None	Mind	0	377	Bloodcurse	0	Bloodcurse	0	None	NO	buff_bloodcurse	0	NO	None	531	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28264</>	None	0	None	0	TRUE	TRUE	None	<$>96037</>	YES	NORMAL	None
+0	None	FFFF3636	0	None	buff	0	384	BloodyFeast	0	BloodyFeast	0	None	NO	None	0	YES	None	13	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28278</>	None	0	None	0	FALSE	TRUE	bf_hit1	<$>96039</>	YES	NORMAL	2_1
+0	None	FFCA67CA	0	None	buff	0	385	Hound	0	Hound	0	None	NO	None	0	NO	None	26	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28280</>	None	0	None	0	FALSE	TRUE	None	<$>96040</>	NO	NORMAL	2_1
+0	None	None	0	None	buff	0	393	Eagleeye	0	Eagleeye	0	None	NO	None	0	YES	None	13	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28296</>	Buff_militant	0	Bottom	0	FALSE	TRUE	None	<$>96043</>	YES	NORMAL	None
+0	None	None	0	None	Enhance	0	396	ConFuoco	0	ConFuoco	0	None	NO	None	0	NO	None	546	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28300</>	None	0	None	0	FALSE	TRUE	None	<$>28301</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	397	Virtuoso	0	Virtuoso	0	None	NO	None	0	NO	None	547	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28302</>	None	0	None	0	FALSE	TRUE	None	<$>28303</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	398	ConImpeto	0	ConImpeto	0	None	NO	None	0	NO	None	546	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28304</>	None	0	None	0	FALSE	TRUE	None	<$>28305</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	399	Pieno	0	Pieno	0	None	NO	None	0	NO	None	547	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28306</>	None	0	None	0	FALSE	TRUE	None	<$>28307</>	NO	NORMAL	None
+0	None	None	0	None	ETC	0	418	EleSafeGuard	0	EleSafeGuard	0	None	NO	None	0	NO	None	2	0	NO	YES	NO	YES	NO	NO	NO	NO	NO	<$>28335</>	Buff_Invulnerable	0	Middle	0	FALSE	TRUE	None	<$>28336</>	NO	NORMAL	None
+0	None	None	100	None	Enhance	0	422	Barsel	0	Barsel	0	None	NO	None	0	NO	G 606 828 830 3001 3002	3	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28343</>	Buff_barsel	0	Bottom	0	FALSE	TRUE	None	<$>28344</>	YES	NORMAL	None
+0	None	None	100	None	Enhance	0	423	Flare	0	Flare	0	None	NO	None	0	NO	G 606 3 1043	3001	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28345</>	Buff_flare	0	Bottom	0	FALSE	TRUE	None	<$>28346</>	YES	NORMAL	None
+0	None	None	3	None	Enhance	0	431	EscapeArtist	0	EscapeArtist	0	None	NO	None	0	NO	G 531 530 1011	542	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28359</>	Buff_amplify	0	Bottom	0	FALSE	TRUE	None	<$>28360</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	436	MarksmanShip	0	MarksmanShip	0	None	NO	None	0	YES	None	27	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>92853</>	None	0	None	0	FALSE	TRUE	None	<$>92853</>	NO	SCRIPT	None
+0	None	None	0	None	buff	0	453	FullMoon	0	FullMoon	0	None	NO	None	0	NO	None	828	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>95333</>	None	0	None	0	FALSE	TRUE	None	<$>95334</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	455	FireAura	0	FireAura	0	None	NO	None	0	YES	None	830	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>95335</>	mon_reybuff	0	None	0	FALSE	TRUE	None	<$>95336</>	NO	NORMAL	None
+0	None	None	0	None	Enhance	0	457	ShellBreaker	0	ShellBreaker	0	None	NO	None	0	YES	None	823	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>95338</>	None	0	None	0	FALSE	TRUE	None	<$>95338</>	NO	INFINITY	None
+0	None	None	0	None	buff	0	460	Sacrifice	0	Sacrifice	0	None	NO	None	0	NO	None	100011	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>105589</>	Buff_Concentrate	0	Bottom	0	FALSE	TRUE	None	<$>105590</>	NO	NORMAL	None
+0	None	None	0	None	ETC	0	473	Invisiblebreak	0	Invisiblebreak	0	None	NO	None	0	NO	None	152	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28417</>	None	0	None	0	FALSE	TRUE	None	<$>28418</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	487	Aorchado	0	Protection of the Aorchado	0	None	NO	None	0	NO	None	400000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>95339</>	None	0	None	0	FALSE	TRUE	None	<$>99637</>	NO	INFINITY	None
+0	None	None	0	None	buff	0	493	WolfEye	0	WolfEye	0	None	NO	None	0	YES	None	79	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>101011</>	None	0	None	0	FALSE	TRUE	None	<$>101012</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	502	Tiger_w	0	Protection of white	0	None	NO	None	0	NO	None	400000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>76125</>	None	0	None	0	FALSE	TRUE	None	<$>76126</>	NO	SCRIPT	None
+0	None	None	0	None	ETC	0	503	EXPBuff30	0	EXPBuff30	0	None	NO	None	0	NO	None	43	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27765</>	None	0	None	0	FALSE	TRUE	None	<$>28459</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	506	EXPBuff10_EEP	0	EXPBuff10_EEP	0	None	NO	None	0	NO	None	100002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28460</>	None	0	None	0	TRUE	TRUE	None	<$>28461</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	507	Absorbbuff	0	Absorbbuff	0	None	NO	None	0	NO	None	100000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28462</>	None	0	None	0	TRUE	TRUE	None	<$>28463</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	508	EXPBuff60	0	EXPBuff60	0	None	NO	None	0	NO	None	30	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27765</>	None	0	None	0	FALSE	TRUE	None	<$>28464</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	509	StnEXPBuff60	0	StnEXPBuff60	0	None	NO	None	0	NO	None	31	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27932</>	None	0	None	0	FALSE	TRUE	None	<$>28465</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	510	IncAR_JPN	0	IncAR_JPN	0	None	NO	None	0	NO	None	71	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28466</>	None	0	None	0	TRUE	TRUE	None	<$>27968</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	511	IncDR_JPN	0	IncDR_JPN	0	None	NO	None	0	NO	None	71	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28467</>	None	0	None	0	TRUE	TRUE	None	<$>27970</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	512	GrowthMedicine	0	GrowthMedicine	0	None	NO	None	0	NO	None	300000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28468</>	None	0	None	0	FALSE	TRUE	None	<$>28469</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	513	GrowthTactics	0	GrowthTactics	0	None	NO	None	0	NO	None	300001	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28470</>	None	0	None	0	FALSE	TRUE	None	<$>28471</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	514	GoodConduct_01	0	GoodConduct_01	0	None	NO	None	0	NO	None	300002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28472</>	None	0	None	0	FALSE	TRUE	None	<$>28473</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	515	GoodConduct_02	0	GoodConduct_02	0	None	NO	None	0	NO	None	300002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28472</>	None	0	None	0	FALSE	TRUE	None	<$>28474</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	516	GoodConduct_03	0	GoodConduct_03	0	None	NO	None	0	NO	None	300002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28472</>	None	0	None	0	FALSE	TRUE	None	<$>28475</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	517	GoodConduct_04	0	GoodConduct_04	0	None	NO	None	0	NO	None	300002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28472</>	None	0	None	0	FALSE	TRUE	None	<$>28476</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	518	GoodConduct_05	0	GoodConduct_05	0	None	NO	None	0	NO	None	300002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28472</>	None	0	None	0	FALSE	TRUE	None	<$>28477</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	519	HAL_EVENT_0908	0	HAL_EVENT_0908	0	None	NO	None	0	NO	None	800001	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28478</>	None	0	None	0	FALSE	TRUE	None	<$>28479</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	520	StnEXPBuff30	0	StnEXPBuff30	0	None	NO	None	0	NO	None	41	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>27932</>	None	0	None	0	FALSE	TRUE	None	<$>28480</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	523	IntenDivineBless	0	IntenDivineBless	0	None	NO	None	0	NO	None	77	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28434</>	None	0	None	0	TRUE	TRUE	None	<$>28481</>	YES	SCRIPT	None
+0	None	None	0	None	ETC	0	524	TransPotion	0	TransPotion	0	None	NO	None	0	NO	None	100001	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28482</>	None	0	None	0	TRUE	TRUE	None	<$>28483</>	YES	SCRIPT	None
+0	None	None	0	None	Enhance	0	526	Appreciate	0	Appreciate	0	None	NO	None	0	NO	None	112	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>138774</>	None	0	None	0	FALSE	TRUE	None	<$>138775</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	533	FlameProtection	0	FlameProtection	0	None	NO	None	0	YES	None	918	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>147887</>	bane_Buff_FlameProtection	0	None	0	FALSE	TRUE	None	<$>147888</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	552	OverHeat	0	Over Heat	0	None	NO	None	0	YES	None	49	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>102945</>	None	0	None	0	FALSE	TRUE	None	<$>141574</>	YES	INFINITY	None
+0	None	FF0033FF	0	None	buff	0	553	CoolingGun	0	Cooling Gun	0	None	NO	None	0	YES	None	49	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>102947</>	None	0	None	0	FALSE	TRUE	None	<$>104659</>	YES	SCRIPT	None
+0	None	None	0	None	buff	0	554	GunMaster	0	Gun Master	0	None	NO	None	0	NO	None	50	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>102949</>	Buff_Adcast	0	Bottom	0	FALSE	TRUE	None	<$>102950</>	YES	SCRIPT	None
+0	None	None	0	None	Enhance	0	557	ImmortalSprit	0	Immortal Sprit	0	None	NO	None	0	YES	None	300	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>105593</>	Buff_Concentrate	0	Bottom	0	FALSE	TRUE	None	<$>105594</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	576	Valer	0	Valer	0	None	NO	None	0	NO	None	100023	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>128702</>	None	0	None	0	FALSE	TRUE	None	<$>128703</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	586	SurroundingSnow	0	Snowflake	0	None	NO	None	0	YES	None	49	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>107715</>	icemontoro_ssuroundbat	0	None	0	FALSE	TRUE	None	<$>135067</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	591	Indicacion	0	Indicacion	0	None	NO	None	0	NO	None	70	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>159883</>	Buff_Intensify	0	Bottom	0	FALSE	TRUE	None	<$>159883</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	595	CourseFood	0	CourseFood	0	None	NO	None	0	NO	None	94	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>162798</>	None	0	None	0	TRUE	TRUE	None	<$>162798</>	YES	NORMAL	None
+0	None	None	0	None	Enhance	0	660	Handsign	0	Hand Sign	0	None	NO	None	0	YES	None	823	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>120523</>	None	0	None	0	FALSE	TRUE	None	<$>120524</>	YES	NORMAL	None
+0	None	None	0	None	Enhance	0	681	Protectweapon	0	ProtectWeapon	0	None	NO	None	0	NO	None	819	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>150999</>	None	0	None	0	FALSE	TRUE	None	<$>151000</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	682	Protectarmor	0	ProtectArmor	0	None	NO	None	0	NO	None	819	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>151001</>	None	0	None	0	FALSE	TRUE	None	<$>151002</>	YES	NORMAL	None
+0	None	None	0	None	Enhance	0	700	WindSpirits	0	WindSpirits	0	None	NO	None	0	NO	None	139	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>106788</>	Buff_Intensify	0	Bottom	0	FALSE	TRUE	None	<$>106789</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	701	Nature	0	Nature	0	None	NO	None	0	YES	None	828	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>108319</>	Buff_Intensify	0	Bottom	0	FALSE	TRUE	None	<$>108320</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	708	Luxuria	0	Luxuria	0	None	NO	None	0	NO	None	933	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>165110</>	None	0	None	0	FALSE	TRUE	None	<$>187826</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	709	Avaritia	0	Avaritia	0	None	NO	None	0	NO	None	934	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>165112</>	None	0	None	0	FALSE	TRUE	None	<$>187827</>	YES	NORMAL	None
+0	None	None	100	None	Enhance	0	711	Elementalcontrol	0	Elemental Control	0	None	NO	None	0	YES	G 3	828	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>167452</>	None	0	None	0	FALSE	TRUE	None	<$>167453</>	NO	SCRIPT	None
+0	None	None	0	None	Enhance	0	712	Elementalspirit	0	Elemental Spirit	0	None	NO	None	0	YES	None	1043	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>167454</>	BuffofQueen	0	Bottom	0	FALSE	TRUE	None	<$>167455</>	NO	INFINITY	None
+0	None	None	100	None	Enhance	0	713	Elementalcontrol2	0	Elemental Control	0	None	NO	None	0	YES	G 3	830	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>167452</>	None	0	None	0	FALSE	TRUE	None	<$>167453</>	NO	SCRIPT	None
+0	None	None	0	None	State	0	724	Virgo1	0	Blue Virgo	0	None	NO	None	0	NO	None	754	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>172716</>	None	0	None	0	FALSE	TRUE	None	<$>172717</>	YES	NORMAL	None
+0	None	None	0	None	Enhance	0	725	Virgo2	0	Red Virgo	0	None	NO	None	0	NO	None	651	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>172718</>	None	0	None	0	FALSE	TRUE	None	<$>172719</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	727	Reditum	0	Reditum	0	None	NO	None	0	NO	None	933	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>175398</>	None	0	None	0	FALSE	TRUE	None	<$>175399</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	730	Virtus	0	Reditum	0	None	NO	None	0	NO	None	940	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>175404</>	None	0	None	0	FALSE	TRUE	None	<$>175405</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	731	Inhians	0	Reditum	0	None	NO	None	0	NO	None	941	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>175406</>	None	0	None	0	FALSE	TRUE	None	<$>175407</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	748	Ogmashield	0	Ravolbless	0	None	NO	None	0	NO	None	865	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>183795</>	None	0	None	0	FALSE	TRUE	None	<$>183796</>	YES	NORMAL	None
+0	None	None	101	None	buff	0	761	Risepoint	0	Risepoint	0	None	NO	None	0	NO	G 6 7 33 34 545	1042	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>155461</>	bane_Buff_FlameProtection	0	None	0	FALSE	TRUE	None	<$>155462</>	YES	NORMAL	None
+0	None	FFFF8888	1	None	buff	0	762	RoarSalvation	0	Roar Salvation	0	None	NO	None	0	NO	G 912	818	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28353</>	Buff_Intensify	0	Bottom	0	FALSE	TRUE	None	<$>28354</>	YES	NORMAL	None
+0	None	FF8888FF	0	None	buff	0	763	IdealAura	0	Ideal Aura	0	None	NO	None	0	NO	None	2	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28353</>	Buff_Acceleration	0	Bottom	0	FALSE	TRUE	None	<$>28354</>	YES	NORMAL	None
+0	None	None	1	None	cash	0	771	UltimatePotion	0	UltimatePotion	0	None	NO	None	0	NO	G 1009 71 149 100000 94 6000 6001 6002 6003 6004 6005 6006 6007 6008 6009 6010 6011 6012 808 809 810 811 812	77	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>183799</>	None	0	None	0	TRUE	TRUE	None	<$>183800</>	YES	NORMAL	None
+0	None	None	0	None	Enhance	0	775	Cheerup2	0	Cheerup2	0	None	NO	None	0	NO	None	875	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>191586</>	None	0	None	0	FALSE	TRUE	None	<$>191587</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	776	IcySkin	0	IcySkin	0	None	NO	None	0	YES	None	874	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>192810</>	Buff_CTouch	0	Bottom	0	FALSE	TRUE	HIT_Blood_ICE	<$>192811</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	788	Sanquines	0	Sanquines	0	None	NO	None	0	NO	None	889	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>196940</>	None	0	Bottom	0	FALSE	TRUE	None	<$>196941</>	YES	SCRIPT	None
+0	None	None	0	None	buff	0	790	Disruption	0	Disruption	0	None	NO	None	0	NO	None	891	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>198960</>	None	0	Bottom	0	FALSE	TRUE	None	<$>198961</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	791	Reloadbullet	0	Reloadbullet	0	None	NO	None	0	NO	None	891	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>200310</>	None	0	Bottom	0	FALSE	TRUE	None	<$>200311</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	795	Velmas	0	Velmas	0	None	NO	None	0	NO	None	771	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>202489</>	None	0	None	0	FALSE	TRUE	None	<$>202490</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	801	SpiderSteak	0	SpiderSteak	0	None	NO	None	0	NO	None	6000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28485</>	None	0	None	0	TRUE	TRUE	None	<$>106792</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	802	BoarSteak	0	BoarSteak	0	None	NO	None	0	NO	None	6001	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28487</>	None	0	None	0	TRUE	TRUE	None	<$>106793</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	803	WolfSteak	0	WolfSteak	0	None	NO	None	0	NO	None	6002	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28489</>	None	0	None	0	TRUE	TRUE	None	<$>106794</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	804	ComodoSteak	0	ComodoSteak	0	None	NO	None	0	NO	None	6003	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28491</>	None	0	None	0	TRUE	TRUE	None	<$>106795</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	805	MeatStew	0	MeatStew	0	None	NO	None	0	NO	None	6004	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28493</>	None	0	None	0	TRUE	TRUE	None	<$>106796</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	806	StirfriedOcto	0	StirfriedOcto	0	None	NO	None	0	NO	None	6005	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28495</>	None	0	None	0	TRUE	TRUE	None	<$>106797</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	807	FishSausage	0	FishSausage	0	None	NO	None	0	NO	None	6006	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28497</>	None	0	None	0	TRUE	TRUE	None	<$>106798</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	808	StirfriedCorn	0	StirfriedCorn	0	None	NO	None	0	NO	None	6007	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28499</>	None	0	None	0	TRUE	TRUE	None	<$>106799</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	809	GoldenApplePie	0	GoldenApplePie	0	None	NO	None	0	NO	None	6008	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28501</>	None	0	None	0	TRUE	TRUE	None	<$>106800</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	810	EggStew	0	EggStew	0	None	NO	None	0	NO	None	6009	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28503</>	None	0	None	0	TRUE	TRUE	None	<$>106801</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	811	EsSalad	0	EsSalad	0	None	NO	None	0	NO	None	6010	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28505</>	None	0	None	0	TRUE	TRUE	None	<$>106802</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	812	CapyFish	0	CapyFish	0	None	NO	None	0	NO	None	6011	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28507</>	None	0	None	0	TRUE	TRUE	None	<$>106803</>	YES	NORMAL	None
+0	None	None	0	None	cash	0	813	Caborum	0	Caborum	0	None	NO	None	0	NO	None	6012	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28509</>	None	0	None	0	TRUE	TRUE	None	<$>106804</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	846	BoostMagic	0	BoostMagic	0	None	NO	None	0	NO	None	100004	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28547</>	None	0	None	0	FALSE	TRUE	None	<$>28548</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	882	Leadership	0	Leadership	0	None	NO	None	0	NO	None	882	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28586</>	None	0	None	0	FALSE	TRUE	None	<$>28587</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	892	FeralRoar	0	FeralRoar	0	None	NO	None	0	NO	None	803	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28595</>	None	0	None	0	FALSE	TRUE	None	<$>28596</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	904	Powerabsinia	0	Powerabsinia	0	None	NO	None	0	NO	None	100009	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28617</>	None	0	None	0	FALSE	TRUE	None	<$>204749</>	NO	NORMAL	None
+0	None	None	0	None	buff	0	905	Infiltration	0	Infiltration	0	None	NO	None	0	YES	None	807	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28619</>	None	0	None	0	FALSE	TRUE	None	<$>104662</>	NO	NORMAL	None
+0	None	None	0	None	Enhance	0	907	Grill	0	Grill	0	None	NO	None	0	NO	None	805	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28623</>	None	0	None	0	FALSE	TRUE	None	<$>28624</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	908	Equilibrium	0	Equilibrium	0	None	NO	None	0	YES	None	806	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28625</>	None	0	None	0	FALSE	TRUE	None	<$>28626</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	909	Creature_ATK	0	Creature_ATK	0	None	NO	None	0	NO	G 1009	808	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28627</>	None	0	None	0	TRUE	TRUE	None	<$>28628</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	910	Golem_ATK	0	Golem_ATK	0	None	NO	None	0	NO	G 1009	809	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28629</>	None	0	None	0	TRUE	TRUE	None	<$>28630</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	911	Demon_ATK	0	Demon_ATK	0	None	NO	None	0	NO	G 1009	810	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28631</>	None	0	None	0	TRUE	TRUE	None	<$>28632</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	912	Undead_ATK	0	Undead_ATK	0	None	NO	None	0	NO	G 1009	811	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28633</>	None	0	None	0	TRUE	TRUE	None	<$>28634</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	913	Human_ATK	0	Human_ATK	0	None	NO	None	0	NO	G 1009	812	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28635</>	None	0	None	0	TRUE	TRUE	None	<$>28636</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	914	Devilwind	0	Devilwind	0	None	NO	None	0	NO	G 1042	816	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28637</>	None	0	None	0	FALSE	TRUE	None	<$>28637</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	915	Devilshield	0	Devilshield	0	None	NO	None	0	NO	G 1042	816	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28638</>	None	0	None	0	FALSE	TRUE	None	<$>28638</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	916	Devilbarrier	0	Devilbarrier	0	None	NO	None	0	NO	G 1042	816	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28639</>	None	0	None	0	FALSE	TRUE	None	<$>28639</>	YES	NORMAL	None
+0	None	None	1	None	Enhance	0	918	Chemicalprotect	0	Chemical Protect	0	None	NO	None	0	NO	None	100026	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28642</>	Buff_Protection	0	Middle	0	FALSE	TRUE	None	<$>151007</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	928	Free	0	Free	0	None	NO	None	0	YES	None	820	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>83999</>	None	0	None	0	FALSE	TRUE	None	<$>84000</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	930	ToothOfBless	0	ToothOfBless	0	None	NO	None	0	NO	None	35	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>93198</>	Buff_Adcast	0	Bottom	0	FALSE	TRUE	None	<$>93334</>	NO	INFINITY	None
+0	None	None	1	None	buff	0	948	Imagine	0	Imagine	0	None	NO	None	0	YES	None	289	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>103233</>	None	0	None	0	FALSE	TRUE	None	<$>103234</>	NO	NORMAL	None
+0	None	None	1	None	buff	0	951	Bolero	0	Bolero	0	None	NO	None	0	NO	None	603	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>104140</>	None	0	None	0	FALSE	TRUE	None	<$>104141</>	NO	NORMAL	None
+0	None	None	1	None	Enhance	0	952	Ranchera	0	Ranchera	0	None	NO	None	0	NO	None	606	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>104142</>	rosa_climax_note	0	None	0	FALSE	TRUE	None	<$>104143</>	YES	NORMAL	None
+0	None	None	1	None	buff	0	953	Cancion	0	Cancion	0	None	NO	None	0	NO	None	604	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>104144</>	None	0	None	0	FALSE	TRUE	None	<$>104145</>	NO	NORMAL	None
+0	None	FFCA67CA	100	None	buff	0	962	ChapterofWind_R	0	Ultimate Bloodthirsty windstorm	0	None	NO	None	0	NO	G 604	9	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>108324</>	None	0	None	0	FALSE	TRUE	None	<$>108325</>	YES	NORMAL	2_1
+0	None	None	1	DotBuff	buff	0	963	MindEye	0	Heighten	0	None	NO	None	0	YES	None	605	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>108326</>	None	0	None	0	FALSE	TRUE	None	<$>108327</>	YES	SCRIPT	None
+0	None	None	0	None	debuff	0	1000	LuckyClover	0	LuckyClover	0	None	NO	None	0	NO	None	100010	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>120058</>	None	0	None	0	FALSE	TRUE	None	<$>120059</>	YES	INFINITY	None
+0	None	None	0	None	ETC	0	1003	WatermelonOfBless	0	WatermelonOfBless	0	None	NO	None	0	NO	None	3000	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>120525</>	None	0	None	0	FALSE	TRUE	None	<$>120526</>	NO	INFINITY	None
+0	None	None	0	None	buff	0	1009	SoulBurn	0	SoulBurn	0	None	NO	None	0	YES	None	833	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>131658</>	None	0	None	0	FALSE	TRUE	None	<$>209623</>	YES	NORMAL	None
+0	None	None	0	None	ETC	0	1011	IncreaseALLTribe	0	IncreaseALLTribe	0	None	NO	None	0	NO	G 808 809 810 811 812	1009	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>128718</>	None	0	None	0	TRUE	TRUE	None	<$>128719</>	YES	NORMAL	None
+0	None	None	0	None	Enhance	0	1016	AniesRest	0	Rest	0	None	NO	None	0	NO	G 1089 100026	818	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>138780</>	None	0	None	0	FALSE	TRUE	None	<$>140306</>	NO	NORMAL	None
+0	None	None	0	None	Enhance	0	1018	AniesBless	0	AniesBless	0	None	NO	None	0	NO	None	547	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>138784</>	ITEM_wing	0	Top	0	FALSE	TRUE	None	<$>140307</>	NO	SCRIPT	None
+0	None	None	0	None	buff	0	1028	Destroyer	0	Destroyer	0	None	NO	None	0	YES	None	819	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>210056</>	Buff_Adcast	0	Bottom	0	FALSE	TRUE	None	<$>210057</>	NO	SCRIPT	None
+0	None	None	0	None	buff	0	1029	RoadExproving	0	RoadExproving	0	None	NO	None	0	YES	None	100003	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>210859</>	None	0	None	0	FALSE	TRUE	None	<$>210860</>	NO	INFINITY	None
+0	None	None	1	None	buff	0	1057	MarkFire	0	Cancion	0	None	NO	None	0	NO	None	1057	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>211954</>	None	0	None	0	FALSE	TRUE	None	<$>211955</>	YES	SCRIPT	None
+0	None	None	1	None	buff	0	1058	MarkIce	0	Cancion	0	None	NO	None	0	NO	None	1058	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>211956</>	None	0	None	0	FALSE	TRUE	None	<$>211957</>	YES	SCRIPT	None
+0	None	None	100	None	buff	0	1066	Mindstill	0	Mindstill	0	None	NO	None	0	NO	None	1066	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>211958</>	None	0	None	0	FALSE	TRUE	None	<$>211959</>	YES	NORMAL	None
+0	None	None	100	None	buff	0	1067	Majesty	0	Majesty	0	None	NO	None	0	NO	None	1067	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>211960</>	None	0	None	0	FALSE	TRUE	None	<$>211961</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	1078	Piratecode1	0	Piratecode1	0	None	NO	None	0	YES	None	1078	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>213172</>	None	0	None	0	FALSE	TRUE	None	<$>213173</>	YES	INFINITY	None
+0	None	None	0	None	buff	0	1079	Piratecode2	0	Piratecode2	0	None	NO	None	0	YES	None	1078	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>213174</>	None	0	None	0	FALSE	TRUE	None	<$>213175</>	YES	INFINITY	None
+0	None	None	0	None	buff	0	1080	Piratecode3	0	Piratecode3	0	None	NO	None	0	YES	None	1078	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>213176</>	None	0	None	0	FALSE	TRUE	None	<$>213177</>	YES	INFINITY	None
+0	None	None	0	None	buff	0	1081	Navycode1	0	Navycode1	0	None	NO	None	0	YES	None	1078	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>213178</>	None	0	None	0	FALSE	TRUE	None	<$>213179</>	YES	INFINITY	None
+0	None	None	0	None	buff	0	1082	Navycode2	0	Navycode2	0	None	NO	None	0	YES	None	1078	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>213180</>	None	0	None	0	FALSE	TRUE	None	<$>213181</>	YES	INFINITY	None
+0	None	None	0	None	buff	0	1083	Navycode3	0	Navycode3	0	None	NO	None	0	YES	None	1078	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>213182</>	None	0	None	0	FALSE	TRUE	None	<$>213183</>	YES	INFINITY	None
+0	None	None	0	DotBuff	buff	0	1086	Purification	0	Purification	0	None	NO	None	0	NO	None	1086	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>213188</>	None	0	None	0	FALSE	TRUE	None	<$>213189</>	YES	SCRIPT	None
+0	None	None	1	None	buff	0	1087	Tumar	0	Tumar	0	None	NO	None	0	NO	G 547	1087	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>213190</>	ITEM_wing	0	Top	0	FALSE	TRUE	None	<$>213191</>	YES	SCRIPT	None
+0	None	None	1	None	buff	0	1088	Benedictus	0	Tumar	0	None	NO	None	0	NO	G 547	1088	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>213192</>	ITEM_wing	0	Top	0	FALSE	TRUE	None	<$>213193</>	YES	SCRIPT	None
+0	None	None	0	None	buff	0	1089	Remedium	0	Remedium	0	None	NO	None	0	NO	None	1089	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>213194</>	None	0	None	0	FALSE	TRUE	None	<$>213195</>	NO	SCRIPT	None
+0	Buff_bknight_sword	None	0	DotBuff	buff	0	1092	Oblivion	0	Oblivion	0	None	NO	None	0	NO	None	1092	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>215784</>	None	0	None	0	FALSE	TRUE	None	<$>215785</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	1096	windup1	0	Wind up	0	None	NO	None	0	NO	None	1096	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>217046</>	None	0	None	0	FALSE	TRUE	None	<$>217047</>	YES	SCRIPT	None
+0	None	None	0	None	buff	0	1097	windup2	0	Wind up	0	None	NO	None	0	NO	None	1097	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>217046</>	None	0	None	0	FALSE	TRUE	None	<$>217047</>	YES	SCRIPT	None
+0	None	None	0	None	buff	0	1110	ShadowRein	0	ShadowRein	0	None	NO	None	0	NO	None	1110	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>216422</>	None	0	None	0	FALSE	TRUE	None	<$>216423</>	YES	NORMAL	None
+0	None	None	100	None	buff	0	1119	Bloodlust	0	Bloodlust	0	None	NO	None	0	YES	None	13	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>218403</>	None	0	None	0	FALSE	TRUE	None	<$>218404</>	YES	NORMAL	None
+0	None	None	0	DotBuff	buff	0	1124	Areloa	0	Areloa	0	None	NO	None	0	NO	None	1124	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>219265</>	None	0	None	0	FALSE	TRUE	None	<$>219266</>	YES	SCRIPT	None
+0	None	None	0	None	buff	0	1132	ReinLght	0	ReinLght	0	None	NO	None	0	NO	None	1132	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>222596</>	None	0	None	0	FALSE	TRUE	None	<$>222597</>	YES	INFINITY	None
+0	None	None	1	None	buff	0	1135	Unsword2	0	Unsword2	0	None	NO	None	0	YES	None	1135	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>224509</>	None	0	None	0	FALSE	TRUE	None	<$>224510</>	YES	NORMAL	None
+0	Buff_sakura_sword	None	100	None	buff	0	1136	Unsword3	0	Unsword3	0	None	NO	None	0	YES	None	1135	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>224509</>	None	0	None	0	FALSE	TRUE	None	<$>224511</>	YES	INFINITY	None
+0	None	None	0	None	buff	0	1147	navasbuff2	0	navasbuff2	0	None	NO	None	0	NO	None	1147	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>226742</>	None	0	None	0	FALSE	TRUE	None	<$>226743</>	YES	INFINITY	None
+0	None	None	1	None	buff	0	1149	Machetau	0	Machetau	0	None	NO	None	0	NO	None	606	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>228155</>	None	0	None	0	FALSE	TRUE	None	<$>228155</>	YES	NORMAL	None
+0	None	None	1	None	buff	0	1150	Quatanaru	0	Quatanaru	0	None	NO	None	0	NO	None	607	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>228156</>	None	0	None	0	FALSE	TRUE	None	<$>228156</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	1166	spiritfox2	0	spiritfox	0	None	None	None	0	NO	None	1166	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>229515</>	None	0	None	0	FALSE	TRUE	None	<$>229516</>	YES	NORMAL	None
+0	None	None	0	None	buff	0	1167	spiritfox	0	spiritfox	0	None	None	None	0	NO	None	1167	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>229516</>	None	0	None	0	FALSE	TRUE	None	<$>229515</>	YES	NORMAL	None
+0	None	None	100	None	buff	0	1182	shotpromoto	0	Shot Promoto	0	None	NO	None	0	YES	None	1182	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>230060</>	None	0	None	0	FALSE	TRUE	None	<$>230061</>	NO	SCRIPT	None
+0	None	None	200	None	buff	0	1190	Ratio	0	Ratio	0	None	NO	None	0	NO	G 604	1188	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>230464</>	Buff_Refmind	0	Bottom	0	FALSE	TRUE	None	<$>27896</>	NO	SCRIPT	None

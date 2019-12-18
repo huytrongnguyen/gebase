@@ -1,0 +1,3 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	EVENT_DUNALQ03_SECRETROOM_DOOR	TutorialTrigger_Gray_3m	0	FALSE	None	None	None	-1777	1	0	EVENT_DUNALQ03_SECRETROOM_DOOR	0
+2	EVENT_DUNALQ03_SECRETROOM_BOX	TreasureChest_Red	184	FALSE	None	None	None	577	1849	0	EVENT_DUNALQ03_SECRETROOM_BOX	0

@@ -1,0 +1,47 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+4	NPC_MARKETMONEY_NEW	REB_SERM	213	FALSE	None	None	None	<$>64870</>	7958	8	417	NPC_MARKETMONEY_NEW	None
+6	SHOP_BULLET	TutorialTrigger_Black_6m	341	FALSE	None	None	None	<$>51707</>	-6250	2276	37	TOUMEINPC	None
+808	crystal_changer	crystal_changer	45	FALSE	minimap_npc.bmp	<$>208851</>	None	<$>208851</>	-667	1305	11	MASTERCRYSTAL_CHANGER	<$>208851</>
+33	see_dual_wom_02	REB_GIRLa2	5	FALSE	None	None	None	<$>64886</>	-2337	8616	-489	NPC_ALL_SEEPVP	None
+34	see_dual_wom_01	COIM_WOMAN3	28	FALSE	None	None	None	<$>64884</>	-2197	8347	-491	NPC_ALL_SEEPVP	None
+35	see_dual_girl	COM_GIRLa1	41	FALSE	None	None	None	<$>64887</>	-2083	8060	-492	NPC_ALL_SEEPVP	None
+63	mission_dual	REB_SOLF_TEMP_JPN	281	FALSE	None	None	None	<$>64437</>	-1392	8893	-480	M_PVP_ANY	<$>64437</>
+88	C1_REB_DETECTIVE	REB_SOLM	126	FALSE	minimap_npc.bmp	<$>17408</>	None	<$>17408</>	5981	-3423	417	C1_REB_DETECTIVE	None
+95	SHOP_PERIOD_COSTUME	Rico_letizia2	168	FALSE	None	None	None	<$>64456</>	-5670	-463	-11	SHOP_PERIOD_COSTUME	None
+96	C1_REB_TERCIA	TutorialTrigger_Black_6m	31	FALSE	minimap_npc.bmp	<$>197468</>	None	<$>197468</>	4894	-241	304	TOUMEINPC	None
+109	ITEM_REFINEMENT	npc_com_anvil	162	FALSE	minimap_blacksmith.bmp	None	None	<$>148347</>	-5372	1189	7	ITEM_REFINEMENT	None
+137	REB_PARTTIME_JOB	REB_SOLF	116	FALSE	minimap_npc.bmp	<$>107108</>	None	<$>107108</>	7565	-3254	417	REB_PARTTIME_JOB	None
+155	EVENT_NPC_GM	TutorialTrigger_Black_6m	128	FALSE	None	<$>195482</>	None	<$>195482</>	3962	-548	300	TOUMEINPC	<$>195482</>
+156	EVENT_NPC_GM2	TutorialTrigger_Black_6m	37	FALSE	None	<$>197469</>	None	<$>197469</>	2836	-1097	261	TOUMEINPC	<$>197469</>
+170	EVENT_NPC_NEWYEAR_KA	TutorialTrigger_Black_6m	202	FALSE	None	<$>197470</>	None	<$>197470</>	-2591	9404	-464	TOUMEINPC	<$>197470</>
+171	EVENT_NPC_NEWYEAR_PAN	TutorialTrigger_Black_6m	198	FALSE	None	<$>197471</>	None	<$>197471</>	-2709	9686	-474	TOUMEINPC	<$>197471</>
+172	EVENT_NPC_NEWYEAR_IDGE	TutorialTrigger_Black_6m	181	FALSE	None	<$>197472</>	None	<$>197472</>	-2715	10055	-470	TOUMEINPC	<$>197472</>
+173	EVENT_NPC_NEWYEAR_COOK	TutorialTrigger_Black_6m	181	FALSE	None	None	None	<$>197473</>	-2579	9847	-475	TOUMEINPC	None
+167	Event_newsc_bero	TutorialTrigger_Black_6m	342	FALSE	None	<$>199930</>	None	<$>199930</>	-3554	10279	-472	TOUMEINPC	<$>199930</>
+701	GATCHA_COSTUME_VENDER	TutorialTrigger_Black_6m	344	FALSE	None	None	None	<$>76666</>	-6218	2574	1	TOUMEINPC	None
+705	AUCH_PVP_SHOP	com_youngman1	347	FALSE	minimap_npc.bmp	<$>160906</>	None	<$>160906</>	-6018	3031	1	NPC_AUCH_PVP_SHOP	<$>160906</>
+707	REB_SOLM_TRUMP	REB_SOLM_TRUMP	11	FALSE	minimap_npc.bmp	<$>51789</>	None	<$>51789</>	-5909	5190	-223	CHANGE_TRUMP_DESCRIPTION	None
+801	IF_Esperanza_Village_entrance	Teleportation	352	FALSE	None	None	None	<$>224501</>	-552	9956	-487	ESPERANZA_VILLAGE	None
+802	C1_REB_TUTONPC	TutorialTrigger_Black_6m	297	FALSE	None	<$>226149</>	None	<$>226149</>	4704	1226	266	TOUMEINPC	None
+807	REB_RIRINHEART	npc_Dustbox	215	FALSE	minimap_npc.bmp	None	None	<$>217465</>	9115	-300	417	REB_RIRINHEART	None
+809	EVENT_2013_GRANMA2	TutorialTrigger_Black_6m	217	FALSE	minimap_npc.bmp	<$>166563</>	None	<$>166563</>	4067	-1120	299	TOUMEINPC	<$>166563</>
+810	C1_REB_TOKEN_SHOP	TutorialTrigger_Black_6m	289	FALSE	None	<$>226146</>	None	<$>226146</>	3435	420	251	TOUMEINPC	<$>226146</>
+903	C1_BST_SHYAILLU	npc_bristia_shyaillu	174	FALSE	minimap_npc.bmp	<$>89582</>	None	<$>89582</>	4603	1187	248	C1_BST_SHYAILLU	None
+904	npc_artifact_changer	npc_artifact_changer	37	FALSE	minimap_blacksmith.bmp	None	None	<$>97440</>	-1074	1687	10	ARTIFACT_CHANGE	<$>97440</>
+905	BRISTIA_BOX_CHANGER	npc_com_anvil2	47	FALSE	None	None	None	<$>91475</>	-1420	1961	10	BRISTIA_BOX_CHANGER	None
+906	GAMBLE_CHIP2	REB_BOYa1	34	FALSE	minimap_npc.bmp	<$>64817</>	None	<$>64817</>	-5790	-8292	-474	GAMBLE_CHIP2	None
+907	NPC_UST_FARM	COM_SELDEN	162	FALSE	minimap_npc.bmp	<$>64956</>	None	<$>64956</>	-4825	2850	8	NPC_UST_FARM	<$>64956</>
+909	GAMBLE_CHIP	REB_BOYa2	172	FALSE	minimap_npc.bmp	<$>64816</>	None	<$>64816</>	-4865	1924	15	GAMBLE_CHIP	None
+910	GAMBLE_CHIP_TABLE	ETC_SellingVendor	169	FALSE	None	None	None	None	-4778	2196	15	GAMBLE_CHIP_TABLE	None
+913	JPN_RING_SHOP	npc_viron_item	344	FALSE	None	None	None	<$>113820</>	-6796	-331	6	JPN_RING_SHOP	None
+920	UserSupportJPN	NPC_Loje_desk	218	FALSE	None	None	None	<$>185552</>	6235	1608	262	JPN_USERSUPPORT	None
+921	MEasyGate	REB_SOLM_JPN	138	FALSE	None	None	None	<$>155411</>	-2448	10264	-487	MEASYGATE	None
+922	Master Mission	REB_SOLM_JPN	120	FALSE	None	None	None	<$>155412</>	-2148	10710	-488	MMASTERGATE	None
+923	High Master Mission	REB_SOLM_JPN	92	FALSE	None	None	None	<$>155413</>	-1562	10902	-487	MHIGHMASTERGATE	None
+924	High Master Hard Mission	REB_SOLM_JPN	53	FALSE	None	None	None	<$>155414</>	-779	10560	-487	MHIGHMASTERHARDGATE	None
+925	Weekly Mission 	REB_SOLM_JPN	316	FALSE	None	None	None	<$>155415</>	-832	9168	-487	MWEEKLYGATE	None
+926	Wticket exchange	Rico_letizia2	31	FALSE	minimap_npc.bmp	None	None	<$>195485</>	2614	-804	250	SHOP_WTICKET_EXCHANGE	None
+927	Event_12thJpnNpc	npc_comm_NEO	303	FALSE	minimap_npc.bmp	<$>224502</>	None	<$>224502</>	5243	-1156	254	JPN12TH_EVENTNPC	<$>224502</>
+928	npc_eileenrare	npc_eileenrare	303	FALSE	minimap_npc.bmp	<$>226155</>	None	<$>226155</>	4717	-1486	253	RUBYANA_JPN	None
+930	EJExchanges	Rico_letizia2	2	FALSE	minimap_npc.bmp	None	None	<$>200922</>	-6163	2326	3	EJEXCHANGES	None
+932	EVENT_MISSION_TEST	npc_ferru_big	262	FALSE	minimap_mission.bmp	<$>64789</>	None	<$>64789</>	-1087	12049	-486	EVENT_MISSION_TEST	None

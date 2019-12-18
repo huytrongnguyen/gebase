@@ -1,0 +1,5 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	100	12	5	12151	Monster_Tcapyleader	500	5000	MON_AGGRESSIVE
+2	TRUE	0	100	17	7	12199	Monster_Bearworker_Amber	500	5000	MON_AGGRESSIVE
+3	TRUE	0	100	3	0	70811	Monster_Snowman	500	5000	MON_EVENT_DROPMON
+4	TRUE	0	100	3	0	70813	Monster_Snowman3	500	5000	MON_EVENT_DROPMON

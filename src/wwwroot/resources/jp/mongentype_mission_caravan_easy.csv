@@ -1,0 +1,5 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	80	200	200	100253	Event_EnemyLght	500	5000	None
+2	TRUE	0	80	50	50	100254	Event_LightningTurret	500	5000	None
+3	TRUE	0	80	50	50	100255	Event_Hornet_tree	500	5000	None
+4	TRUE	0	90	5	5	100256	Event_MissionDilosLatemn	500	5000	None

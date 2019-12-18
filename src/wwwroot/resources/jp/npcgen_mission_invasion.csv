@@ -1,0 +1,4 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	SETTLER_ITEM_BOX	npc_btl_auch03_box_settler	270	FALSE	minimap_npc3.bmp	<$>2925</>	<$>2925</>	-17320	6562	783	SETTLERITEM_BOX	None
+2	SETTLER_ITEM	COIM_SOLM2	270	FALSE	minimap_npc3.bmp	<$>2926</>	<$>2926</>	-17311	13645	1373	SETTLERITEM	None
+3	EVENT_STONE35	npc_stonehange_d	176	FALSE	minimap_npc3.bmp	<$>64848</>	<$>64848</>	-17306	5413	803	EVENT_STONE35	None

@@ -1,0 +1,13 @@
+ClassID	ClassName	SharedMaps
+1	CliqueWar	reb_battle auch_battle coim_battle reb_saferoom auch_saferoom sub_battle
+2	CliqueWarResult	ALL
+3	CasRelic	btl_cas02
+4	FACTIOUS	btl_factious01
+6	ServerConfig	ALL
+7	ArmEvent	gm_zone btl_erc02 btl_bah06 dun_sed02 dun_tor04 dun_alq01
+8	ArmZeppelin	reb_basic coim_basic auch_basic ust_basic bah_basic gig_basic bst_lab erc_basic viron_basic arm_basic bst_basic
+9	Event	ALL
+10	Reb_Event	reb_basic
+11	CasIle_Raid	dun_casile01_raid
+12	CasIle_Raid2	dun_casile02_raid
+13	Alt_Raid	alt_basic fld_alt01 fld_alt02

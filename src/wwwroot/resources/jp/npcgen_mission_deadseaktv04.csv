@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	DEADSEAKTV04_CRISTAL01	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	7325	7282	0	DEADSEAKTV04_CRISTAL01	None
+2	DEADSEAKTV04_CRISTAL02	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	10219	-50	0	DEADSEAKTV04_CRISTAL02	None
+3	DEADSEAKTV04_CRISTAL03	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	7246	-7279	0	DEADSEAKTV04_CRISTAL03	None
+4	DEADSEAKTV04_CRISTAL04	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	-7294	-7256	0	DEADSEAKTV04_CRISTAL04	None
+5	DEADSEAKTV04_CRISTAL05	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	-10331	41	0	DEADSEAKTV04_CRISTAL05	None
+6	DEADSEAKTV04_CRISTAL06	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	-7195	7218	0	DEADSEAKTV04_CRISTAL06	None

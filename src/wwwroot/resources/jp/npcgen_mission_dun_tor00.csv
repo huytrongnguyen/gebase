@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	Crystal_01	npc_incomplete_crystal_01	0	FALSE	None	None	<$>32351</>	-19455	-16822	-2010	TOR_CRYSTAL	None

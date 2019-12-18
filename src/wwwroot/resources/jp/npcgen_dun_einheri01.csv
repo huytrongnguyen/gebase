@@ -1,0 +1,4 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+100	MMANAGER1	Trigger_Black_None	0	FALSE	None	None	None	<$>237750</>	9383	-5476	2976	DUN_EINHERI01_MANAGER_MBOSS1	None
+101	MMANAGER2	Trigger_Black_None	0	FALSE	None	None	None	<$>237751</>	6	10804	4354	DUN_EINHERI01_MANAGER_MBOSS2	None
+102	BMANAGER	Trigger_Black_None	0	FALSE	None	None	None	<$>152128</>	-170	-2150	4844	DUN_EINHERI01_MANAGER_BOSS	None

@@ -1,0 +1,2 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	WARP_UST_BOSS_OUT	WarpGateRaid	0	FALSE	minimap_warpOut.bmp	None	<$>1014</>	2997	253	10	WARP_UST_BOSS_OUT	None

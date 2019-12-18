@@ -1,0 +1,7 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	OUT_SELVA	npc_torches_bookcase	90	FALSE	minimap_npc.bmp	<$>64733</>	<$>64733</>	4	-1802	0	OUT_SELVA	None
+2	C1_TOR_TORSCHE	TORSE	358	FALSE	minimap_npc.bmp	<$>3640</>	<$>3640</>	2371	-25	0	C1_TOR_TORSCHE	None
+3	C1_TOR_MARY	MARY	274	FALSE	minimap_npc.bmp	<$>47094</>	<$>47094</>	-425	1168	0	C1_TOR_MARY	None
+4	MARY_START_TRIGGER	TutorialTrigger_Black_3m	0	FALSE	None	<$>64734</>	<$>13438</>	-511	-12	0	MARY_START_TRIGGER	None
+5	MARY_FINAL_TRIGGER	TutorialTrigger_Black_3m	0	FALSE	None	<$>64734</>	<$>13438</>	2318	-25	0	MARY_FINAL_TRIGGER	None
+6	TR_VIRON2_MAIN_Q882042_3	TutorialTrigger_Black_3m	0	FALSE	None	<$>155378</>	<$>13438</>	-1197	3	0	TR_VIRON2_MAIN_Q882042_3	None

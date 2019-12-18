@@ -1,0 +1,4 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	DRAGON_RWARP1_H_OFF	StoneWarpGate2	230	FALSE	None	None	None	8757	-2490	118	DRAGON_RWARP1_H_OFF	None
+2	DRAGON_LWARP1_H_OFF	StoneWarpGate2	314	FALSE	None	None	None	-8617	-2485	93	DRAGON_LWARP1_H_OFF	None
+3	DRAGON_WARP_H_OFF	StoneWarpGate2	266	FALSE	None	None	None	18	-24196	309	DRAGON_WARP_H_OFF	None

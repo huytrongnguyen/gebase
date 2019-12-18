@@ -1,0 +1,5 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	34	48	13	20890	Monster_SFVedanobah	500	5000	None
+2	TRUE	0	34	48	13	20891	Monster_SFZealot	500	5000	None
+9	FALSE	9	80	1	0	70190	Mission_CatherineEvent2	500	5000	MON_LIBERTY2_SUMMON2
+10	FALSE	9	90	1	0	70180	Mission_CatherineEvent	500	5000	MON_LIBERTY2_SUMMON

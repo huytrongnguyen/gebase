@@ -1,0 +1,13 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	100	272	245	11951	Monster_Bandelier_mag	500	5000	None
+2	TRUE	0	100	272	245	11961	Monster_Bandelier_mas	500	5000	None
+3	TRUE	0	101	182	164	11971	Monster_Sepulveda_tg	500	5000	None
+4	TRUE	0	101	137	123	11981	Monster_RogueHammerAgent_fm	500	5000	None
+5	TRUE	0	102	46	41	11991	Monster_RogueSlashAgent_sg	500	900000	None
+6	FALSE	0	104	1	0	20601	Monster_PhobitanChieftain_mag	500	3600000	MON_FIELD_SBOSS
+7	FALSE	0	100	1	0	60120	Trigger_Largestone	50	10000	None
+8	FALSE	0	101	1	0	11952	Monster_Bandelier_mag_Elite	500	900000	None
+9	FALSE	0	102	1	0	11972	Monster_Sepulveda_tg_Elite	500	900000	None
+10	FALSE	0	103	1	0	11992	Monster_RogueSlashAgent_sg_Elite	500	900000	None
+20	FALSE	0	100	1	0	53071	Monster_Turrydog_farm	500	14400000	MON_AGGRESSIVE3
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

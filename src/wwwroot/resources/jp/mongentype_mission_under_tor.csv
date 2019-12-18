@@ -1,0 +1,4 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	110	248	248	14092	Monster_Tor_Field_CrownLloyd	500	2000	MON_AGGRESSIVE3
+2	TRUE	1	110	206	206	14102	Monster_Tor_Field_LadySasha	500	2000	MON_AGGRESSIVE3
+3	TRUE	2	110	197	197	14112	Monster_Tor_Field_MightyVictor	500	2000	MON_AGGRESSIVE3

@@ -1,0 +1,4 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	FALSE	0	130	50	0	28075	monster_masung_cas03_mon01	500	5000	MON_MISSION_MASUNG_CAS03_NOR
+2	FALSE	0	130	50	0	28076	monster_masung_cas03_mon02	500	5000	MON_MISSION_MASUNG_CAS03_NOR
+3	FALSE	0	130	50	0	28077	monster_masung_cas03_mon03	500	5000	MON_MISSION_MASUNG_CAS03_NOR

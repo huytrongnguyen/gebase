@@ -1,0 +1,17 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+100	C1_FLDILE_SOL1	illier_soldier1_n	270	FALSE	minimap_npc.bmp	None	None	<$>195328</>	-14085	17464	53	NPC_ILE_ROYALROAD_SOL	None
+101	C1_FLDILE_SOL2	illier_soldier1	90	FALSE	minimap_npc.bmp	None	None	<$>195329</>	-14069	16375	54	NPC_ILE_ROYALROAD_SOL	None
+102	C1_FLDILE_SOL3	illier_soldier1_n	270	FALSE	minimap_npc.bmp	None	None	<$>195330</>	-10832	18096	48	NPC_ILE_ROYALROAD_SOL	None
+103	C1_FLDILE_SOL4	illier_soldier1	90	FALSE	minimap_npc.bmp	None	None	<$>195331</>	-10841	15707	48	NPC_ILE_ROYALROAD_SOL	None
+104	C1_FLDILE_SOL5	illier_soldier1_n	270	FALSE	minimap_npc.bmp	None	None	<$>195332</>	-8644	18164	-383	NPC_ILE_ROYALROAD_SOL	None
+105	C1_FLDILE_SOL6	illier_soldier1	90	FALSE	minimap_npc.bmp	None	None	<$>195333</>	-8636	15674	-383	NPC_ILE_ROYALROAD_SOL	None
+106	C1_FLDILE_SOL7	illier_soldier1	270	FALSE	minimap_npc.bmp	None	None	<$>195334</>	5019	17537	-201	NPC_ILE_ROYALROAD_SOL	None
+107	C1_FLDILE_SOL8	illier_soldier1_n	90	FALSE	minimap_npc.bmp	None	None	<$>195335</>	5006	16301	-201	NPC_ILE_ROYALROAD_SOL	None
+108	C1_FLDILE_SOL9	illier_soldier1_n	180	FALSE	minimap_npc.bmp	None	None	<$>195336</>	3963	17506	-382	NPC_ILE_ROYALROAD_SOL	None
+109	C1_FLDILE_SOL10	illier_soldier1	180	FALSE	minimap_npc.bmp	None	None	<$>195337</>	3963	16300	-382	NPC_ILE_ROYALROAD_SOL	None
+111	C1_FLDILE_SOL11	illier_soldier1	180	FALSE	minimap_npc.bmp	None	None	<$>195338</>	-10989	16901	44	C1_ILE_LONALDE	None
+112	C1_FLDILE_MSOL1	illier_magicsol_A	90	FALSE	minimap_npc.bmp	None	None	<$>195339</>	5025	15872	-201	C1_ILE_UOLSORA	None
+113	C1_FLDILE_MSOL2	illier_magicsol_A	210	FALSE	minimap_npc.bmp	None	None	<$>195340</>	-8858	16922	-382	C1_ILE_MARIA	None
+150	NPC_MISSION_ILE	npc_marionettecontrolcenter	90	FALSE	minimap_npc.bmp	<$>195341</>	None	<$>195341</>	3657	16974	-381	MISSION_ROYALROAD_MANAGER	None
+200	tr_illier2main_02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-12973	16905	44	TR_ILLIER2MAIN_02	None
+201	tr_illier2main_03	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	4571	16895	-280	TR_ILLIER2MAIN_03	None

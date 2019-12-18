@@ -1,0 +1,16 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	65	26	23	10594	Monster_AmokTortoise	500	5000	None
+2	TRUE	0	67	67	60	10481	Monster_GrayBuffalo	500	5000	None
+3	TRUE	0	67	70	63	10491	Monster_BlackBuffalo	500	5000	None
+4	TRUE	0	66	26	23	10361	Monster_DandSwampMon	500	5000	None
+5	TRUE	0	66	8	7	10363	Monster_ChrySwampMon	500	5000	None
+6	TRUE	0	66	8	7	10364	Monster_GeraSwampMon	500	5000	None
+7	TRUE	0	66	8	7	10365	Monster_HydraSwampMon	500	5000	None
+8	TRUE	0	68	44	33	11251	Monster_RogueBombAgent	500	5000	None
+9	FALSE	0	68	2	0	10492	Monster_BlackBuffalo_Elite	500	900000	None
+10	FALSE	0	67	2	0	10362	Monster_DandSwampMon_Elite	500	900000	None
+11	FALSE	0	68	2	0	11252	Monster_RogueBombAgent_Elite	500	900000	None
+12	FALSE	0	68	2	0	10482	Monster_GrayBuffalo_Elite	500	900000	None
+13	FALSE	0	65	1	0	60130	Trigger_Fallenrock	50	20000	None
+14	FALSE	0	70	1	0	20452	Monster_SunflaswampmonMboss	1000	1800000	MON_FIELD_SBOSS
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

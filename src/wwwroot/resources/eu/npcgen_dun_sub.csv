@@ -1,0 +1,6 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	npc_ttr_tombstone02	npc_ttr_tombstone02	183	FALSE	None	None	<$>64711</>	-10272	-10053	17	P_DUN_SUB	None
+2	WARP_IN_LOST_WORLD	EntranceArrow	0	FALSE	None	None	None	-6546	1809	623	WARP_IN_LOST_WORLD	None
+3	OPEN_SUB_GATE	EntranceArrow	179	FALSE	None	None	None	4537	-12	27	OPEN_SUB_GATE	None
+4	DUN_SUB_BOSS_WARP	EntranceArrow	272	FALSE	None	None	None	9997	-14228	48	DUN_SUB_BOSS_WARP	None
+5	CASTLE_BACKDOOR	EntranceArrow_01	3	FALSE	None	None	<$>124096</>	594	-1858	-47	CASTLE_BACKDOOR	None

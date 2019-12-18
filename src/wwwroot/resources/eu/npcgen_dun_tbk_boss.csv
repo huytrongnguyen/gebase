@@ -1,0 +1,4 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+1	NPC_TBKBOSS_CONTBOX01_ON	npc_tbk_contbox_on	358	FALSE	None	None	<$>7571</>	2605	9370	4851	NPC_TBKBOSS_CONTBOX01_ON	None
+2	NPC_TBKBOSS_CONTBOX02_ON	npc_tbk_contbox_on	178	FALSE	None	None	<$>7571</>	-664	9335	4851	NPC_TBKBOSS_CONTBOX02_ON	None
+3	TBK_BOSS_PACK01	NPC_CAPYBAG_OPEN_01	247	FALSE	minimap_npc3.bmp	<$>7559</>	<$>7559</>	14077	-4124	377	TBK_BOSS_PACK01	None

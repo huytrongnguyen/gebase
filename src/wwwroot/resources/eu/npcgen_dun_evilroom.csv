@@ -1,0 +1,4 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Possess	Script	ShopName
+1	C1_VIRON_EVIL	npc_evil	90	FALSE	minimap_npc.bmp	None	None	<$>142497</>	14	-3295	0	0	C1_VIRON_EVIL	None
+2	DUN_CLOCK_WARP	npc_tbk_contbox_off	0	FALSE	minimap_npc.bmp	<$>151502</>	None	<$>151502</>	-358	2970	0	0	DUN_CLOCK_UNDER_WARP	None
+100	TR_VIRON2_MAIN_Q82046_5	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>13438</>	-1387	3912	4	0	TR_VIRON2_MAIN_Q82046_5	None

@@ -1,0 +1,14 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	TR_BAH06_MISSION_02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>105306</>	-3436	-2667	1177	TR_BAH06_MISSION_02	None
+2	TR_MAINQUEST_BAH08	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>105307</>	1302	-15429	740	TR_MAINQUEST_BAH08	None
+3	TR_MAINQUEST_BAH09	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>105308</>	765	-13546	782	TR_MAINQUEST_BAH09	None
+4	TR_DAYQUEST_BAH01	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>112373</>	2088	-4209	1160	TR_DAYQUEST_BAH01	None
+5	TR_DAYQUEST_BAH02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>112374</>	-4078	-2841	1104	TR_DAYQUEST_BAH02	None
+6	TR_DAYQUEST_BAH03	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>112375</>	3748	-1156	2217	TR_DAYQUEST_BAH03	None
+7	TR_DAYQUEST_BAH04	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>112376</>	-2298	7318	2874	TR_DAYQUEST_BAH04	None
+8	TR_DAYQUEST_BAH05	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>112377</>	8	7669	4019	TR_DAYQUEST_BAH05	None
+9	tr_armmain09	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>112378</>	-6	6848	3887	TR_MAINQUEST_ARM09	None
+10	TR_ORDENQUEST_02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180090</>	-5	3331	2777	TR_ORDENQUEST_02	None
+200	TR_ORDENQUEST_29	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180091</>	1324	-7359	835	TR_ORDENQUEST_29	None
+201	TR_ORDENQUEST_36	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>180092</>	-31	4452	2797	TR_ORDENQUEST_36	None
+300	NPC_RAID_RESPAWN_MANAGER	Trigger_Black_None	0	FALSE	None	None	None	<$>112387</>	-359	-9772	688	NPC_RAID_RESPAWN_MANAGER	None

@@ -1,0 +1,4 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+4	SHOP_MARKET	REB_AUCTION	89	FALSE	None	None	<$>64453</>	-3	-488	0	SHOP_MARKET	None
+8	TEST_LEO	AUCH_LEON	270	FALSE	None	None	<$>10806</>	-3	483	0	LEO_SERVICE	None
+10	SHUTDOWN_MSG	Trigger_Black_None	179	FALSE	None	None	None	18	-1158	0	SHUTDOWN_MSG	None

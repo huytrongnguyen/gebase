@@ -1,0 +1,5 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
+2	waypoint_ttr	WAYPOINT_ONROAD	49	FALSE	minimap_waypoint.bmp	<$>51907</>	<$>51907</>	2253	994	1189	WAYPOINT_FLD_TTR	None
+3	ferru_big01	npc_ferru_big	0	FALSE	minimap_mission.bmp	<$>64813</>	<$>64813</>	-5879	7604	179	PIONEER_NOTICE	None
+7	npc_ferru_big02	npc_ferru_big	343	FALSE	minimap_mission.bmp	<$>64813</>	<$>64813</>	-768	-12140	1099	PIONEER_NOTICE	None
+500	TR_MISSION_GIRL_fld_ttr	TutorialTrigger_Black_3m	329	FALSE	None	None	None	-6397	-9936	-92	TR_MISSION_GIRL_fld_ttr	None

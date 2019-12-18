@@ -1,0 +1,7 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	20	10	0	10350	Monster_PhobitanRogue	500	30000	None
+2	TRUE	0	20	10	0	10353	Monster_PhobitanKnight	500	30000	None
+3	TRUE	0	20	10	0	10250	Monster_StoneGargoyle	500	30000	None
+4	TRUE	0	20	5	0	10260	Monster_WingedGargoyle	500	30000	None
+5	TRUE	0	20	5	0	10220	Monster_LesserGargoyle	500	30000	None
+6	TRUE	0	20	5	0	10283	Monster_FireComodo	500	30000	None

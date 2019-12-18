@@ -1,0 +1,10 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+1	ALQ1_FOUNTAIN	ETC_Fountain	186	FALSE	minimap_npc3.bmp	<$>64663</>	None	<$>64663</>	-29226	-9905	0	ALQ1_FOUNTAIN	None
+3	npc_ferru_big01	npc_ferru_big	89	FALSE	minimap_mission.bmp	<$>182104</>	None	<$>182104</>	-20876	-23769	0	PIONEER_NOTICE	None
+7	npc_ferru_big02	npc_ferru_big	180	FALSE	minimap_mission.bmp	<$>182104</>	None	<$>182104</>	-24909	18222	-399	PIONEER_NOTICE	None
+11	npc_ferru_big03	npc_ferru_big	175	FALSE	minimap_mission.bmp	<$>182104</>	None	<$>182104</>	15913	15496	399	PIONEER_NOTICE	None
+15	TR_ALQ_VINCENT	TutorialTrigger_Gray_3m	0	FALSE	None	None	None	None	-26657	-10705	30	TR_ALQ_VINCENT	None
+16	TR_MISSION_GIRL_dun_alq01	TutorialTrigger_Gray_3m	0	FALSE	None	None	None	None	-26635	17699	-920	TR_MISSION_GIRL_dun_alq01	None
+17	tr_armmain05	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>117883</>	-28765	-9950	0	TR_MAINQUEST_ARM05	None
+18	tr_scenario	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>125753</>	-25225	17902	-399	TR_MAINQUEST_SCENARIO	None
+100	TR_ORDENQUEST_03	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>185440</>	-27066	-9892	0	TR_ORDENQUEST_03	None

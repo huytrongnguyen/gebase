@@ -1,0 +1,10 @@
+ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
+3	JAQ_BFORGE06	npc_dun_jaq01_forge01	184	FALSE	None	None	None	<$>64678</>	2780	36296	-1974	JAQ_BFORGE06	None
+5	JAQ_GURT_BFORGE05	npc_dun_jaq01_forge01	0	FALSE	None	None	None	<$>64678</>	-703	9858	472	JAQ_GURT_BFORGE05	None
+6	JAQ_GURT_MFORGE05	npc_dun_jaq01_forge03	168	FALSE	None	None	None	<$>64678</>	-2136	36716	-1974	JAQ_GURT_MFORGE05	None
+7	JAQ_MFORGE07	npc_dun_jaq01_forge03	79	FALSE	None	None	None	<$>64678</>	-860	21434	-638	JAQ_MFORGE07	None
+8	JAQ_MFORGE08	npc_dun_jaq01_forge03	248	FALSE	None	None	None	<$>64678</>	853	31168	-2694	JAQ_MFORGE08	None
+9	None7	npc_dun_jaq01_forge02	0	FALSE	None	None	None	None	1958	33081	-1974	NONE	None
+13	ferru_big01	npc_ferru_big	183	FALSE	minimap_mission.bmp	<$>64687</>	None	<$>64687</>	853	10200	449	PIONEER_NOTICE	None
+14	npc_ferru_big02	npc_ferru_big	177	FALSE	minimap_mission.bmp	<$>64687</>	None	<$>64687</>	1332	43730	-2174	PIONEER_NOTICE	None
+100	NPC_RAID_RESPAWN_MANAGER	Trigger_Black_None	0	FALSE	None	None	None	<$>112387</>	21	21986	-723	NPC_RAID_RESPAWN_MANAGER	None

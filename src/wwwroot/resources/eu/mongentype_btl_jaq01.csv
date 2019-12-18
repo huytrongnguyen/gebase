@@ -1,0 +1,10 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	82	64	58	10501	Monster_JacquinBear	500	1000	None
+2	TRUE	0	83	64	58	10511	Monster_JacquinGrizzly	500	1000	None
+3	TRUE	0	84	64	58	11041	Monster_JaquinWildDog	500	1000	None
+4	FALSE	0	85	2	1	10512	Monster_JacquinGrizzly	500	900000	None
+5	FALSE	0	85	2	1	10502	Monster_JacquinBear	500	900000	None
+6	FALSE	0	85	2	1	11042	Monster_JaquinWildDog_Elite	500	900000	None
+7	FALSE	0	82	1	0	60120	Trigger_Largestone	50	30000	None
+8	FALSE	0	85	1	0	20501	Monster_JacquinBearM	1000	1800000	MON_FIELD_SBOSS
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

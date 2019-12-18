@@ -1,0 +1,11 @@
+ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
+1	TRUE	0	65	12	11	10311	Monster_CockatriesShock	500	5000	None
+2	TRUE	0	65	12	11	10301	Monster_CockatriesChill	500	5000	None
+3	TRUE	0	65	12	11	10291	Monster_CockatriesFlame	500	5000	None
+4	TRUE	0	65	23	21	10311	Monster_CockatriesShock	500	5000	MON_AGGRESSIVE_QUEST
+5	TRUE	0	65	23	21	10301	Monster_CockatriesChill	500	5000	MON_AGGRESSIVE
+6	TRUE	0	65	23	21	10291	Monster_CockatriesFlame	500	5000	MON_AGGRESSIVE
+7	FALSE	0	70	1	0	20461	Monster_Cockatriesbig	1000	1800000	MON_FIELD_SBOSS
+8	FALSE	0	66	1	0	60120	Trigger_Largestone	50	60000	None
+9	FALSE	0	65	4	3	10312	Monster_CockatriesShock_Elite	500	900000	None
+500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER
