@@ -16,8 +16,20 @@ export type Zone = GeModel & {
 }
 
 export type Npc = GeModel & {
+  NPCType: string,
+  JobName: string,
+  Lv: string,
+  HP: string,
+  MHP: string,
+}
+
+export type RNpc = GeModel & {
   Gender: string,
-  Size: string,
+  Rank: string,
+}
+
+export type Job = GeModel & {
+  Gender: string,
   Category: string,
   IconClass: string,
   Create: string,
@@ -59,22 +71,82 @@ export type Npc = GeModel & {
 }
 
 export type Stance = GeModel & {
+  ClassType: string,
+  AI: string,
   Desc: string,
   ToolTip: string,
+  ReqLv: string,
+  ReqPromotionLv: string,
+  AtkType: string,
+  DefType: string,
+  MeleeDef: string,
+  ShootDef: string,
+  MagicDef: string,
+  DebuffDef: string,
+  BLK: string,
   SkillID1: string,
+  SkillID2: string,
+  SkillID3: string,
+  SkillID4: string,
+  SkillID5: string,
+  SkillName1: string,
+  SkillName2: string,
+  SkillName3: string,
+  SkillName4: string,
+  SkillName5: string,
+  FileName: string,
 }
 
-export type Skill = GeModel & {}
+export type Skill = GeModel & {
+  ClassType: string,
+  UseType: string,
+  Desc: string,
+  TargetDesc: string,
+  SpecDesc0: string,
+  Buff: string,
+  BuffID: string,
+  BuffType: string,
+  DamageType: string,
+  CastTime: string,
+  DownTime: string,
+  HitTime: string,
+  Hits: string,
+  SklATK: string,
+  SklLv: string,
+  SpendHP: string,
+  SpendSP: string,
+  FileName: string,
+}
 
-export type Item = GeModel & {}
+export type Item = GeModel & {
+  ItemType: string,
+  ItemClass: string,
+  ItemName: string,
+  ItemLv: string,
+  UseLv: string,
+  Tradable: string,
+  FesoPrice: string,
+  FesoSellPrice: string,
+  SellPrice: string,
+  AR: string,
+  ATK: string,
+  BaseATK: string,
+  DEF: string,
+  BaseDEF: string,
+  FileName: string,
+}
 
 export class DataTable {
   dictionary: any;
   zones: Zone[];
-  npcs?: Npc[];
+  npcs: Npc[];
+  rnpcs: RNpc[];
+  jobs: Job[];
   stances: Stance[];
   skills: Skill[];
-  items?: Item[];
+  items: Item[];
+  weapons: Item[];
+  armors: Item[];
 }
 
 export class DataSource {

@@ -1,10 +1,9 @@
 import React from 'react';
-import { Roxie } from '@roxie/core';
 
-import { Npc } from '../core';
+import { Job } from '../core';
 import { Viewport } from '../shared';
 
-export function NpcList(props: { lang: string, routePath: string, data: Npc[] }) {
+export function NpcList(props: { lang: string, routePath: string, data: Job[] }) {
   return <Viewport lang={props.lang} routePath={props.routePath}>
     <main className="p-3 auto-scroll-y">
       <section className="container-fluid">
@@ -27,7 +26,7 @@ export function NpcList(props: { lang: string, routePath: string, data: Npc[] })
 
 const stats = ['STR', 'AGI', 'CON', 'DEX', 'INT', 'CHA'];
 
-export function NpcDetail(props: { lang: string, routePath: string, data: Npc }) {
+export function NpcDetail(props: { lang: string, routePath: string, data: Job }) {
   const { lang, routePath, data } = props,
         fileName = `${data.ClassName}_${data.Gender === 'Male' ? 'm' : 'f'}_barrack_off.bmp`;
   return <Viewport lang={lang} routePath={routePath}>

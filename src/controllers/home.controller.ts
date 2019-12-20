@@ -1,7 +1,7 @@
 import { route, httpGet } from '@roxie/server';
 
 import { view } from '../shared';
-import { dataSource, Npc } from '../core';
+import { dataSource, Job } from '../core';
 import { Index, DataTableList, ZoneList, NpcList, NpcDetail, StanceList } from '../views';
 
 @route()
@@ -28,7 +28,7 @@ export class HomeController {
 
   @httpGet(':lang/npcs/:name')
   findNpcById({ lang, name }) {
-    const data = (<Npc[]>dataSource[lang].npcs).find((item) => item.ClassName === name) || {} as Npc;
+    const data = (<Job[]>dataSource[lang].npcs).find((item) => item.ClassName === name) || {} as Job;
     return view(NpcDetail, { lang, routePath: `npcs/${name}`, data }, data.EngName);
   }
 
