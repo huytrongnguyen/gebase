@@ -2,13 +2,18 @@ import { route, httpGet } from '@roxie/server';
 
 import { view } from '../shared';
 import { dataSource, Npc } from '../core';
-import { Index, ZoneList, NpcList, NpcDetail, StanceList } from '../views';
+import { Index, DataTableList, ZoneList, NpcList, NpcDetail, StanceList } from '../views';
 
 @route()
 export class HomeController {
   @httpGet()
   index() {
     return view(Index);
+  }
+
+  @httpGet(':lang/datatable')
+  findAll({ lang }) {
+    return view(DataTableList, { lang, routePath: 'datatable', data: dataSource[lang] }, 'Data Table List');
   }
 
   @httpGet(':lang/maps')

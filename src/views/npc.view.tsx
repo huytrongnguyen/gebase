@@ -2,7 +2,7 @@ import React from 'react';
 import { Roxie } from '@roxie/core';
 
 import { Npc } from '../core';
-import { Viewport } from '../shared/viewport';
+import { Viewport } from '../shared';
 
 export function NpcList(props: { lang: string, routePath: string, data: Npc[] }) {
   return <Viewport lang={props.lang} routePath={props.routePath}>

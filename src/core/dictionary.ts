@@ -3,7 +3,7 @@ import path from 'path';
 import iconv from 'iconv-lite';
 import xmlParser from 'xml2json';
 
-import { rootDir } from './common';
+import { rootDir } from './datatable';
 
 const fileName = 'dictionary_local.xml';
 

@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Stance } from '../core';
-import { Viewport } from '../shared/viewport';
+import { Viewport } from '../shared';
 
 export function StanceList(props: { lang: string, routePath: string, data: Stance[] }) {
   return <Viewport lang={props.lang} routePath={props.routePath}>

@@ -1,21 +1,21 @@
-import { DataTable, dataSource } from './common';
+import { dataSource, DataTable, Zone, Npc, Stance, Skill } from './ge.model';
 import { loadDictionary } from './dictionary';
-import { loadMap } from './map';
-import { loadNpc } from './npc';
-import { loadStance } from './stance';
+import { loadCsvAsync } from './datatable';
 
 export async function prepareData() {
-  ['eu', 'jp'].forEach(lang => {
+  await Promise.all(['eu', 'jp'].map(async lang => {
     var dt = new DataTable();
     dataSource[lang] = dt;
     dt.dictionary = loadDictionary(lang);
-    dt.zones = loadMap(lang);
-    dt.npcs = loadNpc(lang);
-    dt.stances = loadStance(lang);
-  });
+    dt.zones = await loadCsvAsync<Zone>(lang, 'datatable_map.csv', ['Name', 'Desc', 'Note']);
+    dt.npcs = await loadCsvAsync<Npc>(lang, 'datatable_job.csv', ['Name', 'JobDesc']);
+    dt.stances = await loadCsvAsync<Stance>(lang, 'datatable_stance.csv', [
+      'Name', 'Desc', 'ToolTip',
+      'SkillName1', 'SkillName2', 'SkillName3', 'SkillName4', 'SkillName5',
+    ]);
+    dt.skills = await loadCsvAsync<Skill>(lang, 'datatable_skill.csv', ['Name', 'Desc']);
+    return lang;
+  }));
 }
 
-export { dataSource } from './common';
-export { Zone } from './map';
-export { Npc } from './npc';
-export { Stance } from './stance';
+export * from './ge.model';

@@ -1,8 +1,7 @@
 import React from 'react';
 
-import { Zone } from '../core/map';
-import { Viewport } from '../shared/viewport';
-import { Container } from '../shared/container';
+import { Zone } from '../core';
+import { Viewport, Container } from '../shared';
 
 export function ZoneList(props: { lang: string, routePath: string, data: Zone[] }) {
   return <Viewport lang={props.lang} routePath={props.routePath}>
