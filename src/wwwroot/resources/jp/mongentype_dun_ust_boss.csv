@@ -1,5 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	FALSE	1	97	1	0	70180	Mission_CatherineEvent	100	10285714	None
-2	FALSE	0	97	3	0	11416	Monster_necskeletontg	500	1800000	None
-3	FALSE	0	97	3	0	11426	Monster_necskeletontb	500	1800000	None
-4	FALSE	0	97	2	0	11436	Monster_necskeletonsta	500	1800000	None

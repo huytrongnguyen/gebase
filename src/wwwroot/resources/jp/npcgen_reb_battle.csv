@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-313	Reb_Manager	TutorialTrigger_Black	0	FALSE	None	None	None	None	-4673	19272	30	NPC_CLIQUE_REBMANAGER	None
-314	Reb_SubBattle	Teleportation2	170	FALSE	minimap_warpIn.bmp	<$>47850</>	INSIDE	<$>47850</>	8931	-2747	417	NPC_CLIQUE_REBSUBBATTLE	None
-315	WARP_REB_OUT1	Trigger_Black_None	190	FALSE	minimap_warpOut.bmp	None	OUTSIDE	<$>63</>	12925	8965	227	WARP_CLIQUE_REB_OUT1	None
-316	WARP_REB_OUT2	Trigger_Black_None	358	FALSE	minimap_warpOut.bmp	None	OUTSIDE	<$>62</>	-4511	-18270	-82	WARP_CLIQUE_REB_OUT2	None

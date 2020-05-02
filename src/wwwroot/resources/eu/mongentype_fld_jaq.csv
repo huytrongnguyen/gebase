@@ -1,9 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	87	23	20	11041	Monster_JaquinWildDog	500	5000	None
-2	TRUE	0	86	15	13	11481	Monster_Mahrgorp	500	5000	None
-3	TRUE	0	85	15	13	11482	Monster_Zahrgorp	500	5000	None
-4	FALSE	0	85	1	0	60120	Trigger_Largestone	500	60000	None
-5	FALSE	0	88	2	1	11042	Monster_JaquinWildDog_Elite	500	600000	None
-6	FALSE	0	90	1	0	20821	Monster_Mahrgorp_Leader	500	1800000	MON_FIELD_SBOSS
-7	FALSE	0	88	20	0	10287	Monster_AngryComodo	500	30000	MON_PARTJOB_COMODO
-500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

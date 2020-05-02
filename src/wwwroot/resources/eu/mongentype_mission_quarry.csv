@@ -1,6 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	6	10	2	10010	Monster_Cockatries	800	20000	None
-3	TRUE	0	6	10	2	10050	Monster_Mandradora	800	20000	None
-5	TRUE	0	6	10	2	10070	Monster_Hornet	800	20000	None
-6	TRUE	0	6	10	2	10020	Monster_LittleCroc	800	20000	None
-9	TRUE	0	6	10	2	10090	Monster_SaberBoar	800	20000	None

@@ -1,2 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-399	UserSupportJPN	NPC_Loje_desk	271	FALSE	minimap_npc.bmp	None	None	<$>185552</>	-1319	21087	742	JPN_USERSUPPORT	None

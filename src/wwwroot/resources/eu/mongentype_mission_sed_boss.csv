@@ -1,3 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	123	30	22	13222	Monster_Vespanolla_Elite	500	15000	None
-500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

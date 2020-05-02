@@ -1,3 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	45	140	130	13301	Monster_diabolic_StoneGargoyle	500	15000	None
-2	TRUE	0	46	108	100	13302	Monster_diabolic_Nevare	500	15000	None

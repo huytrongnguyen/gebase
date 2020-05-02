@@ -1,5 +1,0 @@
-ClassID	DirectRespawn	Lv	MaxPop	MinPop	MonsterID	Range	RespawnTime	Tactics
-1	TRUE	22	15	0	10870	300	30000	None
-2	TRUE	22	15	0	10880	300	30000	None
-3	TRUE	22	15	0	10810	300	30000	None
-4	TRUE	22	15	0	10790	300	30000	None

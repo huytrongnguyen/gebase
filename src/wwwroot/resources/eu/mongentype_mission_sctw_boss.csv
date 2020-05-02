@@ -1,4 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	106	10	2	13532	Monster_Godless Ghouldefender	100	600000	None
-2	TRUE	0	104	5	1	13502	Monster_Godless_Wraith	100	600000	None
-3	TRUE	0	104	3	1	13512	Monster_Godless_Ghost	100	600000	None

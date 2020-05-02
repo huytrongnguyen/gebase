@@ -1,3 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	1	90	90	60039	Quest_CaseOctopus	500	1000	None
-2	TRUE	0	1	6	0	60042	Trigger_Tuto_Cask	50	450000	None

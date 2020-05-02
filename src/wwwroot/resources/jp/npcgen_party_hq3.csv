@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	PARTY_HQ1	EntranceArrow	270	FALSE	None	None	<$>64868</>	0	-3717	98	PARTY_HQ_OUT	None
-2	PARTY_HQ2	EntranceArrow	270	FALSE	None	None	<$>1293</>	-9988	-1780	0	PARTY_HQ	None
-3	PARTY_HQ3	EntranceArrow	88	FALSE	None	None	<$>64720</>	-10011	1838	0	PARTY_HQ_ENTER	None
-4	PARTY_HQ4	REB_AUCTION	277	FALSE	None	None	<$>51860</>	-10356	1721	0	PARTY_HQ_SELL	None

@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-3	NPC_REB_ROYALGUARD	royalguard	286	FALSE	minimap_npc.bmp	<$>51780</>	<$>51780</>	289	536	0	NPC_REB_ROYALGUARD	None
-4	C1_REB_GABRIELA	PrincesaGabriela	302	FALSE	minimap_npc.bmp	<$>47102</>	<$>47102</>	-183	658	0	C1_REB_GABRIELA	None

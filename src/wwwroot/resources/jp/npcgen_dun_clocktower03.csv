@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-12	trm_gatenpc12	npc_tbk_contbox_on	90	FALSE	None	None	None	<$>155376</>	152993	-17011	16	TRM_GATE12	None
-13	MANAGER	Trigger_Black_None	0	FALSE	None	None	None	<$>111085</>	-18863	-13538	4	DUN_CLOCKTOWER03_MANAGER	None

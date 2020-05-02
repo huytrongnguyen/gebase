@@ -1,3 +1,0 @@
-CamMaxRadius	ClassID	ClassName	DefCamOnRDblClk	PCPicking
-500	1	GE	FALSE	TRUE
-10	2	GE_TEST	TRUE	FALSE

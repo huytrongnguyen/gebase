@@ -1,9 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-184	SHOP_BULLET	TutorialTrigger_Black_6m	255	FALSE	None	None	None	<$>51707</>	695	4563	1333	TOUMEINPC	None
-253	AUCH_SHOP_WEP	TutorialTrigger_Black_6m	255	FALSE	None	None	None	<$>99953</>	-60	4775	1332	TOUMEINPC	<$>64451</>
-268	SHOP_PERIOD_COSTUME	Rico_letizia2	76	FALSE	None	None	None	<$>64456</>	2380	3051	1460	SHOP_PERIOD_COSTUME	None
-701	GATCHA_COSTUME_VENDER	TutorialTrigger_Black_6m	224	FALSE	None	None	None	<$>76666</>	-3552	6424	1384	TOUMEINPC	None
-801	ENCHANT_CHANGE_MERCHAN	TutorialTrigger_Black_6m	261	FALSE	None	<$>76576</>	None	<$>76576</>	8194	3034	1942	TOUMEINPC	None
-809	UserSupportJPN	NPC_Loje_desk	231	FALSE	minimap_npc.bmp	None	None	<$>185552</>	-8135	5625	1385	JPN_USERSUPPORT	None
-903	JPN_RING_SHOP	npc_viron_item	256	FALSE	None	None	None	<$>113820</>	4673	3553	1671	JPN_RING_SHOP	None
-910	C1_AUCH_TOKEN_SHOP	TutorialTrigger_Black_6m	247	FALSE	minimap_npc.bmp	<$>226146</>	None	<$>226146</>	-4553	6902	1386	TOUMEINPC	<$>226146</>

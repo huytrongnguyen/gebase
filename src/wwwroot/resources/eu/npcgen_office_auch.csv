@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-7	NPC_COIM_MERCENARY	mercenary	354	FALSE	minimap_npc.bmp	None	<$>50439</>	-482	353	0	NPC_AUCH_MERCENARY	None
-9	NPC_AUCH_PARTISAN1	AUCH_SOLM	270	FALSE	minimap_npc.bmp	<$>50417</>	<$>50417</>	319	803	0	NPC_AUCH_PARTISAN	None
-10	C1_AUCH_SIMON	Simon_Allende	312	FALSE	minimap_npc.bmp	<$>4256</>	<$>4256</>	-216	447	0	C1_AUCH_SIMON	None
-20	C1_AUCH_VALLERIA	NPC_Valleria	0	FALSE	minimap_npc.bmp	<$>11224</>	<$>11224</>	-405	-441	0	C1_AUCH_VALLERIA	None

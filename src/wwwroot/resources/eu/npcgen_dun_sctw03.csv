@@ -1,9 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	SETPOS_SCTW03_UP2	EntranceArrow2	83	FALSE	minimap_warpIn.bmp	None	INSIDE	<$>47772</>	78	8428	1272	SETPOS_SCTW03_UP2	None
-2	SETPOS_SCTW03_UP	TutorialTrigger_Black_3m	137	FALSE	None	None	None	None	4802	2308	-5029	SETPOS_SCTW03_UP	None
-3	SETPOS_SCTW03_UP_2	TutorialTrigger_Black_3m	223	FALSE	None	None	None	None	-4959	1196	-5025	SETPOS_SCTW03_UP	None
-4	SETPOS_SCTW03_1	EntranceArrow2	192	FALSE	minimap_npc3.bmp	None	INSIDE	<$>64708</>	10664	2313	-5030	SETPOS_SCTW03_1	None
-5	SETPOS_SCTW03_2	EntranceArrow2	141	FALSE	minimap_npc3.bmp	None	INSIDE	<$>64708</>	7900	-7650	-5030	SETPOS_SCTW03_2	None
-7	SETPOS_SCTW03_3	EntranceArrow2	40	FALSE	minimap_npc3.bmp	None	INSIDE	<$>64708</>	-8519	-6787	-5030	SETPOS_SCTW03_3	None
-6	SETPOS_SCTW03_4	EntranceArrow2	320	FALSE	minimap_npc3.bmp	None	INSIDE	<$>64708</>	-9130	5875	-5029	SETPOS_SCTW03_4	None
-8	WARP_SCTW_BOSS	StoneWarpGate	272	FALSE	minimap_warpOut.bmp	None	None	<$>64709</>	27	10478	5228	WARP_SCTW_BOSS	None

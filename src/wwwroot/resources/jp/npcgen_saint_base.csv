@@ -1,7 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	solf_ship_one	EntranceArrow	0	FALSE	None	None	None	-16665	-6	0	TUTO_SHIPSOL	None
-2	solf_ship_two	EntranceArrow	179	FALSE	None	None	None	-23397	14	0	TUTO_SHIPSOL	None
-3	solf_ship_fou	EntranceArrow	178	FALSE	None	None	None	-3241	3	0	TUTO_SHIPSOL	None
-4	solf_ship_thr	EntranceArrow	1	FALSE	None	None	None	3337	-33	0	TUTO_SHIPSOL	None
-5	solf_ship_fiv	EntranceArrow	178	FALSE	None	None	None	16807	2	0	TUTO_SHIPSOL	None
-6	solf_ship_six	EntranceArrow	359	FALSE	None	None	None	23299	2	0	TUTO_SHIPSOL	None

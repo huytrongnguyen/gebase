@@ -1,2 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-2	ALQ_BOSS_KEY	TutorialTrigger_Gray_3m	90	FALSE	minimap_npc3.bmp	None	<$>11429</>	1	3503	-300	ALQ_BOSS_KEY	None

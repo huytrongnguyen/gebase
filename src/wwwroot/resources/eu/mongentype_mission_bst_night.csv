@@ -1,4 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-2	TRUE	0	125	15	5	16213	Monster_bristia_thief20	1000	180000	MON_BSTNIGHT02
-5	TRUE	0	125	15	5	16216	Monster_bristia_thief50	1000	180000	MON_BSTNIGHT02
-6	TRUE	0	125	15	5	16217	Monster_bristia_thief60	1000	180000	MON_BSTNIGHT02

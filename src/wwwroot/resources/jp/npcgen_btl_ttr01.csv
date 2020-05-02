@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-2	EVENT_BTL_TTR01	NPC_TREESTUMP	81	FALSE	None	None	None	16261	22681	-2833	EVENT_BTL_TTR01	None
-4	npc_ferru_big01	npc_ferru_big	267	FALSE	minimap_mission.bmp	<$>64607</>	<$>64607</>	13294	-13127	-4386	PIONEER_NOTICE	None
-8	npc_ferru_big02	npc_ferru_big	6	FALSE	minimap_mission.bmp	<$>64607</>	<$>64607</>	-10491	355	-4254	PIONEER_NOTICE	None
-12	npc_ferru_big03	npc_ferru_big	342	FALSE	minimap_mission.bmp	<$>64607</>	<$>64607</>	29722	26520	-4178	PIONEER_NOTICE	None

@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	SHOP_PRISON	TutorialTrigger_White_3m	168	FALSE	None	None	None	4096	2057	0	SHOP_PRISON	None
-2	PRISON_KEEPER02	REB_SOLM	179	FALSE	minimap_npc.bmp	<$>64569</>	<$>64569</>	2950	2741	0	PRISON_KEEPER02	None

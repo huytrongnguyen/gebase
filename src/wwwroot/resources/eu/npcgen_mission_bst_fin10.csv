@@ -1,4 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-2	bst_soldier01	npc_bristiainfanty1	91	FALSE	None	None	<$>88301</>	-214	-885	-12	NPC_BST_PORTGUARD	None
-3	bst_soldier02	npc_bristiainfanty1	91	FALSE	None	None	<$>88301</>	195	-885	-12	NPC_BST_PORTGUARD	None
-4	TR_BST_GOVTOKIELCE	EntranceArrow_01	270	FALSE	None	None	<$>72959</>	-1	-837	-12	TR_BST_GOVTOKIELCE	None

@@ -1,9 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	LUCIFER_4_1	EntranceArrow_01	228	FALSE	minimap_warpOut.bmp	<$>144854</>	OUTSIDE	<$>144854</>	-10594	-18465	491	CASLUCIFER04_CASLUCIFER011	None
-2	LUCIFER_4_2	EntranceArrow_01	319	FALSE	minimap_warpOut.bmp	<$>144854</>	OUTSIDE	<$>144854</>	10635	-18431	491	CASLUCIFER04_LUCIFER012	None
-3	TR_VIRON2_MAIN_Q82033_7	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-10119	-18022	476	TR_VIRON2_MAIN_Q82033_7	None
-4	TR_VIRON2_MAIN_Q82033_8	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-5822	-14390	165	TR_VIRON2_MAIN_Q82033_8	None
-5	TR_SCOUT_LYNN	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	6	-205	58	TR_SCOUT_LYNN	None
-100	C1_VIRON_LYNN	npc_lynn	222	FALSE	minimap_npc.bmp	<$>148929</>	None	<$>148929</>	-9898	-17830	476	C1_VIRON_LYNN	None
-200	MANAGER	Trigger_Black_None	0	FALSE	None	None	None	<$>152128</>	0	0	0	DUN_CASLUCIFER04_MANAGER	None
-300	NPC_DUN_CAS04	Trigger_Black_None	0	FALSE	None	None	None	<$>152129</>	-755	3397	383	NPC_DUN_CAS04	None

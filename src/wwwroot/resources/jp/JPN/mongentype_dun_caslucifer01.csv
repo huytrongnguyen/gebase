@@ -1,5 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	150	0	0	15011	Monster_Jatagaras_gold	1	604800000	MON_GOLDGARAS
-2	TRUE	1	150	0	0	14960	Monster_Medeia	1	604800000	MON_MEDEIA
-3	TRUE	2	150	0	0	15001	Monster_Pluton	1	604800000	MON_PLUTON
-4	TRUE	3	150	0	0	14970	Monster_Lichbat	1	604800000	MON_LICHBAT

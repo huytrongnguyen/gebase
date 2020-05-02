@@ -1,4 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	100	20	10	100101	Monster_CorridorSehcos1	1000	5000	None
-2	TRUE	1	100	20	10	100102	Monster_CorridorCehcos1	1000	5000	None
-3	TRUE	2	100	20	10	100103	Monster_CorridorMehcos1	1000	5000	None

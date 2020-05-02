@@ -1,2 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	EVENT_ZONE_HELPER	GMEVENT_sheep	177	FALSE	None	None	<$>64787</>	-38	651	0	GMEVENT_HELPER	None

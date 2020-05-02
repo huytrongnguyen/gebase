@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	DUN_CASILE02_MANAGER	Trigger_Black_None	0	FALSE	None	None	None	None	-3278	-1052	-404	DUN_CASILE02_MANAGER	None
-100	DUN_CASSILE02_RAIDBOSS_RESPONE_MANAGER	Trigger_Black_None	0	FALSE	None	None	None	None	95	-2602	43	DUN_CASSILE02_RAIDBOSS_RESPONE_MANAGER	None

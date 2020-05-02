@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	TR_CAS_KingHenry17	structure_potaeffect	180	FALSE	minimap_portal.bmp	None	<$>78566</>	-40116	-750	-19	TR_CAS_MCKINGHENRY	None
-2	TR_CAS_ToKingHenryC	structure_potaeffect	180	FALSE	minimap_portal.bmp	None	<$>78566</>	10427	2	1125	TR_CAS_MCKINGHENRYC	None
-3	TR_CAS_ToKingHenryU	structure_potaeffect	180	FALSE	minimap_portal.bmp	None	<$>78566</>	32190	7535	-1640	TR_CAS_MCKINGHENRYU	None
-4	TR_CAS_ToKingHenryD	structure_potaeffect	180	FALSE	minimap_portal.bmp	None	<$>78566</>	31050	-10206	-1875	TR_CAS_MCKINGHENRYD	None

@@ -1,9 +1,0 @@
-ClassID	ClassName	Command	Permission	Script
-1	CMND_WHERE	/where	USER	where()
-4	CMND_HIDE_ON	/hide on	MONITOR	HideMyPc(1)
-5	CMND_HIDE_OFF	/hide off	MONITOR	HideMyPc(0)
-6	CMND_CAMCOL_ON	/camcol on	MONITOR	EnableCamCol(1)
-7	CMND_CAMCOL_OFF	/camcol off	MONITOR	EnableCamCol(0)
-14	CMND_NAVCAM_ON	/navcam on	MONITOR	ChangeCamera(1)
-15	CMND_NAVCAM_OFF	/navcam off	MONITOR	ChangeCamera(0)
-20	CMND_PING_TEST	/pingtest	MONITOR	PingTest()

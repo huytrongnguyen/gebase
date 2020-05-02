@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Possess	Script	ShopName
-1	TEST_SERVER_MASTER	npc_vaflbean_std	0	FALSE	None	None	None	<$>199874</>	0	0	0	0	TEST_SERVER_MASTER	None
-2	TESTZONE_HITDUMMY0	npc_tbk_contbox_off	0	FALSE	None	<$>199875</>	None	<$>199875</>	800	0	0	0	TESTZONE_HITDUMMY	None
-3	TESTZONE_HITDUMMY1	npc_tbk_contbox_off	0	FALSE	None	<$>199875</>	None	<$>199875</>	1600	0	0	0	TESTZONE_HITDUMMY	None
-4	TESTZONE_HITDUMMY2	npc_tbk_contbox_off	0	FALSE	None	<$>199875</>	None	<$>199875</>	2400	0	0	0	TESTZONE_HITDUMMY	None

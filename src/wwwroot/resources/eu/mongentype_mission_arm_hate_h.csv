@@ -1,3 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	1	155	50	40	55262	Mon_arm_hate_h_Attacker	100	1000	MON_ARM_MISSION_HATE_NORMAL
-2	TRUE	1	155	50	40	55263	Mon_arm_hate_h_Soldier	100	1000	MON_ARM_MISSION_HATE_NORMAL

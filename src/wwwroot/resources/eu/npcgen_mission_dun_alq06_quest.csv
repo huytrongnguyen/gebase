@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	TR_DUN_ALQ06_QUEST	HiddenTrigger_Tuto2	0	FALSE	None	None	None	-7966	36177	15	TR_DUN_ALQ06_QUEST	None
-2	TR_DUN_ALQ06_QUEST2	HiddenTrigger_Tuto2	0	FALSE	None	None	None	-7961	27456	1015	TR_DUN_ALQ06_QUEST2	None

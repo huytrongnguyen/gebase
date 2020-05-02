@@ -1,2 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	CASTLE_BACKDOOR_02	REB_SOLM	270	FALSE	minimap_npc.bmp	None	<$>64908</>	-3	783	0	CASTLE_BACKDOOR_02	None

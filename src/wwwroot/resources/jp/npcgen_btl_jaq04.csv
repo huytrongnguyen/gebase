@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-2	JAQ04_BHUNTER	COM_JOHNNY	1	FALSE	minimap_npc.bmp	<$>64543</>	<$>64543</>	-6168	-191	568	JAQ04_BHUNTER	None
-3	TR_M_JAQ04_VIKI	TutorialTrigger_Black_3m	304	FALSE	None	None	None	-3165	-7300	301	TR_M_JAQ04_VIKI	None
-4	npc_ferru_big01	npc_ferru_big	82	FALSE	minimap_mission.bmp	<$>64544</>	<$>64544</>	-282	-16908	-596	PIONEER_NOTICE	None
-8	npc_ferru_big02	npc_ferru_big	1	FALSE	minimap_mission.bmp	<$>64544</>	<$>64544</>	-11701	16341	1359	PIONEER_NOTICE	None

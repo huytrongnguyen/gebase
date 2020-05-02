@@ -1,3 +1,0 @@
-ClassID	ClassName	ConditionText	GetScript	Group	ItemName	ReqItem1	ReqItem1Count	ReqItem2	ReqItem2Count	ReqItem3	ReqItem3Count	ReqProp1	ReqProp1Value	ReqProp2	ReqProp2Value	ReqProp3	ReqProp3Value	ReqScript
-29	AF_OldPioneerNecklace	<$>100598</>	GET_ARTIFACT_EVENT	Event	OldPioneerNecklace	None	0	None	0	None	0	RTO_Event	1	None	0	None	0	REQ_ARTIFACT_EVNET
-30	AF_OldPioneersPiercing	<$>100598</>	GET_ARTIFACT_EVENT	Event	OldPioneersPiercing	None	0	None	0	None	0	RTO_Event	1	None	0	None	0	REQ_ARTIFACT_EVNET

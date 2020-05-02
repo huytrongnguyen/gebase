@@ -1,5 +1,0 @@
-ClassID	ClassName	SharedMaps
-1	CliqueWar	reb_battle auch_battle coim_battle reb_saferoom auch_saferoom sub_battle
-2	CliqueWarResult	reb_battle auch_battle coim_battle reb_saferoom auch_saferoom sub_battle office_coim office_auch office_reb
-3	CasRelic	btl_cas02
-4	FACTIOUS	btl_factious01

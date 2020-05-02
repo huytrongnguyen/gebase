@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	C1_LOS_EDUARDO	eduardo	8	FALSE	minimap_npc.bmp	<$>11220</>	<$>11220</>	-1121	-74	-801	C1_LOS_EDUARDO	None
-2	TR_LOS01_2_WARP	EntranceArrow2	8	FALSE	minimap_warpOut.bmp	None	<$>76698</>	1333	118	-789	TR_LOS01_2_WARP	None

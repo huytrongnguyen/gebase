@@ -1,4 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	NPC_UST01_RAFFLESIA_OUT_1	rafflesia_gate	44	FALSE	None	None	<$>64577</>	-3000	-3000	100	NPC_UST01_RAFFLESIA_OUT	None
-2	NPC_UST01_RAFFLESIA_OUT_2	rafflesia_gate	44	FALSE	None	None	<$>64577</>	0	-18000	100	NPC_UST01_RAFFLESIA_OUT	None
-3	NPC_UST01_RAFFLESIA_WARP	rafflesia_gate	44	FALSE	None	None	<$>64578</>	0	-19000	100	NPC_UST01_RAFFLESIA_WARP	None

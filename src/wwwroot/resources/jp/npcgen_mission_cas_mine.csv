@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	TR_CAS_ADRIANA1	TutorialTrigger_Black	85	FALSE	None	None	None	-2586	-29175	-3962	TR_CAS_ADRIANA1	None
-2	TR_BST_JACK1	TutorialTrigger_Black	85	FALSE	None	None	<$>89596</>	-21559	-20942	-6349	TR_BST_JACK1	None

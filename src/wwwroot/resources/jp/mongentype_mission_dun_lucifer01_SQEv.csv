@@ -1,3 +1,0 @@
-ClassID	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics	Type
-1	0	150	10	10	150109	11thsq_Mouse00	500	1000	MON_11THSQEV_GIMI	Normal
-2	1	150	27	27	150103	11thsq_Celemantis2_Lucifer	500	1000	MON_11THSQEV_MOB	Normal

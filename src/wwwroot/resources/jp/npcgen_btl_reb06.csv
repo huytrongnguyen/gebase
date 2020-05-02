@@ -1,9 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	CREATE_LOBBY_DRAGON	npc_ttr_tombstone01	112	FALSE	minimap_npc3.bmp	<$>4543</>	None	<$>4543</>	-29094	-49281	-264	CREATE_LOBBY_DRAGON	None
-5	REB06_FLOWERW	npc_com_womanc1	162	FALSE	minimap_npc.bmp	<$>64598</>	None	<$>64598</>	-16803	-14896	294	REB06_FLOWERW	None
-6	npc_ferru_big01	npc_ferru_big	135	FALSE	minimap_mission.bmp	<$>64599</>	None	<$>64599</>	-17064	-17441	429	PIONEER_NOTICE	None
-10	npc_ferru_big02	npc_ferru_big	13	FALSE	minimap_mission.bmp	<$>64599</>	None	<$>64599</>	-34191	-15625	169	PIONEER_NOTICE	None
-20	alt_reb06_flower	Trigger_Black_None	169	FALSE	None	None	None	<$>224381</>	-40923	-25753	189	NPC_ALT_FLOWER	None
-100	TR_ORDENQUEST_08	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>185439</>	-28413	-19330	56	TR_ORDENQUEST_08	None
-101	TR_ORDENQUEST_13	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>188765</>	-29347	-48210	-264	TR_ORDENQUEST_13	None
-200	TR_Q_SCT_FREEDAY_02	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>191923</>	-19878	-12697	150	TR_Q_SCT_FREEDAY_02	None

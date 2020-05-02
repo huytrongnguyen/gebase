@@ -1,4 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	EVENT_TR01	ETC_Skeleton04_Sleep	233	FALSE	None	None	None	8193	8179	168	TR_EVENT	None
-2	EVENT_TR02	ETC_Skeleton03_Side	232	FALSE	None	None	None	3173	-1787	912	TR_EVENT	None
-4	EVENT_TR04	ETC_Skeleton01_Sitting	48	FALSE	None	None	None	3653	-23956	-775	TR_EVENT	None

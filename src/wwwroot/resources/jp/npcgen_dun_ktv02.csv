@@ -1,8 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	DUN_KTV02_CRISTAL01	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	7325	7282	0	RW_KTV02_CRISTAL01	None
-2	DUN_KTV02_CRISTAL02	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	10219	-50	0	RW_KTV02_CRISTAL02	None
-3	DUN_KTV02_CRISTAL03	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	7246	-7279	0	RW_KTV02_CRISTAL03	None
-4	DUN_KTV02_CRISTAL04	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	-7294	-7256	0	RW_KTV02_CRISTAL04	None
-5	DUN_KTV02_CRISTAL05	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	-10331	41	0	RW_KTV02_CRISTAL05	None
-6	DUN_KTV02_CRISTAL06	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	-7195	7218	0	RW_KTV02_CRISTAL06	None
-8	DUN_KTV02_WARP02	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	<$>50352</>	31193	0	224	RW_KTV02_WARP02	None

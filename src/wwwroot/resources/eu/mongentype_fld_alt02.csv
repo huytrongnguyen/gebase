@@ -1,5 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	138	112	112	19763	mon_flealouse1	500	2000	MON_ALT_NORMAL02
-2	TRUE	1	140	98	98	19765	mon_flealouse3	500	2000	MON_ALT_NORMAL02
-3	TRUE	2	143	93	93	19764	mon_flealouse2	500	2000	MON_ALT_NORMAL02
-4	TRUE	3	145	182	182	19766	mon_flealouse4	500	2000	MON_ALT_NORMAL02

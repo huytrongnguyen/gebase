@@ -1,3 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	88	30	10	70502	Monster_auch_infantry_w	500	40000	MON_MISSION_03
-2	TRUE	0	85	60	45	70501	Monster_auch_infantry_m	500	50000	MON_MISSION_03

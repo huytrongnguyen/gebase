@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	dun_sed04-btl_sed01	Teleportation2	270	FALSE	minimap_warpOut.bmp	<$>6284</>	OUTSIDE	<$>6284</>	739	14772	-7	DUN_SED04_IN_BTL_SED01	None
-2	npc_ferru	npc_ferru	269	FALSE	minimap_mission.bmp	<$>64710</>	None	<$>64710</>	535	14764	-6	P_DUN_SED04_NONPK	None

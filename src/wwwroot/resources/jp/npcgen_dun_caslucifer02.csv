@@ -1,4 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	LUCIFER_1_2	EntranceArrow_01	313	FALSE	minimap_warpOut.bmp	<$>64567</>	OUTSIDE	<$>64567</>	-5162	-27015	-89	CASLUCIFER02_CASLUCIFER01	None
-2	LUCIFER_1_3_CON	TutorialTrigger_Black_3m	92	FALSE	minimap_warpOut.bmp	<$>47954</>	None	<$>47954</>	-54	21434	208	CASLUCIFER02_CASLUCIFER03_CON	None
-3	TR_CASLUCIFER_QUEST	TutorialTrigger_Black_3m	90	FALSE	None	None	None	None	4746	160	46	TR_CASLUCIFER_QUEST	None

@@ -1,4 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	WARP_ERC_DUN01_DAY_IN	npc_errac_whorf	272	FALSE	minimap_warpIn.bmp	None	INSIDE	<$>47783</>	-1278	-15951	-1018	WARP_ERC_DUN01_DAY_IN	None
-2	npc_ferru_big01	npc_ferru_big	90	FALSE	minimap_mission.bmp	<$>105314</>	None	<$>105314</>	869	-31330	-3120	PIONEER_NOTICE	None
-6	npc_ferru_big02	npc_ferru_big	230	FALSE	minimap_mission.bmp	<$>105314</>	None	<$>105314</>	4122	11774	-882	PIONEER_NOTICE	None

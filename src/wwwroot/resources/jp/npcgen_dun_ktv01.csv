@@ -1,7 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	TR_KTV05_M_NOVIA_SEAL	TutorialTrigger_Gray_3m	0	FALSE	None	None	None	None	16	-17140	0	TR_KTV05_M_NOVIA_SEAL	None
-2	DUN_KTV01_CRISTAL04	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	None	<$>50352</>	-6011	11871	0	RW_KTV01_CRISTAL04	None
-3	DUN_KTV01_CRISTAL03	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	None	<$>50352</>	-8060	842	536	RW_KTV01_CRISTAL03	None
-4	DUN_KTV01_CRISTAL02	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	None	<$>50352</>	5871	11834	0	RW_KTV01_CRISTAL02	None
-5	DUN_KTV01_CRISTAL01	npc_ktv_cristal_close	0	FALSE	minimap_npc.bmp	None	None	<$>50352</>	7947	763	536	RW_KTV01_CRISTAL01	None
-100	C1_KTV_SELANE	npc_selane	17	FALSE	minimap_npc.bmp	None	None	<$>107738</>	-776	-17176	0	C1_KTV_SELANE	None

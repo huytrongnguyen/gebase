@@ -1,4 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-2	npc_ferru_big01	npc_ferru_big	129	FALSE	minimap_mission.bmp	<$>64537</>	None	<$>64537</>	11424	-7055	1227	PIONEER_NOTICE	None
-6	npc_ferru_big02	npc_ferru_big	15	FALSE	minimap_mission.bmp	<$>64537</>	None	<$>64537</>	4532	8605	213	PIONEER_NOTICE	None
-10	NPC_ARMONIA_MONGEN_JAQ01	Trigger_Black_None	0	FALSE	None	None	None	<$>112365</>	-145	-11461	795	NPC_ARMONIA_MONGEN_FLDBOSS	None

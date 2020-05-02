@@ -1,7 +1,0 @@
-BackPoint	ClassID	ClassName	Count	Fraction	ItemName	Point	Price	PriceType	Text
-0	1	Title	0	None	None	0	0	0	<$>4970</>
-0	2	Take1	0	None	Ancient_Relic_Piece	3	50000	0	None
-0	3	Take2	0	None	Ancient_Gold_Relic_Piece	5	150000	0	None
-0	4	Price	0	None	None	0	0	30000	None
-0	5	TakeCount	3	None	None	0	0	0	None
-0	6	LimitFraction	0	GLimit_Anc_ChM	None	0	0	0	None

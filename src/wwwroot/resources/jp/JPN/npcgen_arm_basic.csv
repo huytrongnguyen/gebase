@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-15	SHOP_PROMOTION	npc_master	90	FALSE	minimap_npc.bmp	None	None	<$>99950</>	3339	-4993	-408	SHOP_PROMOTION	<$>99950</>
-299	UserSupportJPN	NPC_Loje_desk	270	FALSE	minimap_npc.bmp	None	None	<$>185552</>	3319	-5827	-408	JPN_USERSUPPORT	None

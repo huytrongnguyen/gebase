@@ -1,6 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-2	waypoint_jaq	WAYPOINT_OFFROAD	205	FALSE	minimap_waypoint.bmp	<$>51907</>	<$>51907</>	-978	8749	3503	WAYPOINT_FLD_JAQ	None
-3	npc_ferru_big01	npc_ferru_big	320	FALSE	minimap_mission.bmp	None	<$>51701</>	-1253	8088	3483	PIONEER_NOTICE	None
-7	npc_ferru_big02	npc_ferru_big	82	FALSE	minimap_mission.bmp	None	<$>51701</>	1663	-6205	1339	PIONEER_NOTICE	None
-11	NPC_jaqWarp	AUCH_SOLM	320	FALSE	minimap_npc.bmp	<$>76748</>	<$>76747</>	-1070	10122	3581	SOL_JAQ_WARP	None
-12	TR_MISSION_GIRL_fld_jaq	TutorialTrigger_Black_3m	320	FALSE	None	None	<$>81141</>	7040	10043	2975	TR_MISSION_GIRL_fld_jaq	None

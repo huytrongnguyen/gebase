@@ -1,2 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	AUCH_HITDUMMY01	Trigger_Black_None	270	FALSE	minimap_npc.bmp	<$>99689</>	<$>99689</>	2240	-590	7	NPC_HITDUMMYMANAGER	None

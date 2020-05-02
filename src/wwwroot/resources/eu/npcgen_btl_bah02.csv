@@ -1,6 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	BAH_WHITCH_HALLWAY_01_2	npc_ttr_tombstone01	300	FALSE	None	None	<$>51827</>	11263	1339	127	BAH_WHITCH_STONES_03	None
-2	BAH_WHITCH_HALLWAY_01_3	npc_ttr_tombstone01	300	FALSE	None	None	<$>51827</>	-8227	-8081	17	BAH_WHITCH_STONES_04	None
-3	npc_ferru_big01	npc_ferru_big	351	FALSE	minimap_mission.bmp	<$>64501</>	<$>64501</>	-15921	-14192	229	PIONEER_NOTICE	None
-7	npc_ferru_big02	npc_ferru_big	277	FALSE	minimap_mission.bmp	<$>64501</>	<$>64501</>	-7237	3553	203	PIONEER_NOTICE	None
-11	npc_ferru_big03	npc_ferru_big	174	FALSE	minimap_mission.bmp	<$>64501</>	<$>64501</>	8038	1188	213	PIONEER_NOTICE	None

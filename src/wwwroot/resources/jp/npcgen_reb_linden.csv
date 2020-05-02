@@ -1,7 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	SETTLER_ITEM	REB_SOLF	53	FALSE	minimap_settler.bmp	None	<$>64894</>	-723	-1177	0	SETTLERITEM	None
-4	EVENT_STONE_SOL	REB_SOLF	177	FALSE	None	None	<$>64895</>	640	-579	0	EVENT_STONE_SOL	None
-5	exit	EntranceArrow	267	FALSE	minimap_warpOut.bmp	None	<$>3976</>	0	-1420	0	TR_LINDEN_EXIT	None
-6	C1_REB_LINDEN	REB_NEO	270	FALSE	minimap_npc.bmp	None	<$>47096</>	3	392	39	C1_REB_LINDEN	None
-7	NPC_REB_EARING	REB_SOLF	306	FALSE	None	None	<$>64896</>	-360	256	0	NPC_REB_EARING	None
-8	NPC_MARKETMONEY_NEW	REB_SERM	256	FALSE	minimap_npc.bmp	None	<$>64870</>	684	555	0	NPC_MARKETMONEY_NEW	None

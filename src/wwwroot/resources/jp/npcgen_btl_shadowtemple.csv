@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	Warp_01	WarpGateRaid2	44	FALSE	None	None	<$>1014</>	-9025	-8378	255	WARP_TEMPLE	None
-2	Warp_02	WarpGateRaid2	306	FALSE	None	None	<$>1014</>	-8998	8600	255	WARP_TEMPLE	None
-3	Warp_03	WarpGateRaid2	227	FALSE	None	None	<$>1014</>	9022	8615	255	WARP_TEMPLE	None
-4	Warp_04	WarpGateRaid2	127	FALSE	None	None	<$>1014</>	8996	-8417	255	WARP_TEMPLE	None

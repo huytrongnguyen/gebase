@@ -1,7 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	1	116	17	13	13591	Monster_Orge_Defender	500	60000	None
-2	TRUE	1	116	39	31	13621	Monster_Orge_Assassin	500	60000	None
-3	TRUE	0	114	82	60	13691	Monster_Werebear_Slayer	500	60000	None
-4	TRUE	0	114	46	32	13711	Monster_Werebear_Juggernaut	500	60000	None
-5	TRUE	2	116	1	0	13821	Monster_Koboldchief_Elder	500	60000	None
-500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

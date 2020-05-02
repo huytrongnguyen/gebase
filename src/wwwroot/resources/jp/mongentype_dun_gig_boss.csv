@@ -1,5 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	120	23	0	20681	monster_SpiritOfancientfighter	500	90000	None
-2	TRUE	0	120	23	0	20691	monster_SpiritOfancientfighter2	500	90000	None
-3	FALSE	9	125	1	0	70180	Mission_CatherineEvent	500	1200000	MON_SUMMON_GIG
-4	TRUE	0	135	1	0	30221	Monster_Sekhmet	500	6000	MON_GIG_BOSS

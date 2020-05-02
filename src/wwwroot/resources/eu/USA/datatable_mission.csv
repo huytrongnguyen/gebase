@@ -1,2 +1,0 @@
-ClassID	ClassName	Comeback	Direct	Instance	Layer	MapImage	MapName	MaxAlliance	MaxPlayer	MaxSlotCount	MinPlayer	MissionInfo	MissionResult	MissionRoom	Name	Resurrection	Script	ShowLevel	ToLose	ToWin
-50000	mission_halloween	FALSE	TRUE	mission_instance	0	None	mission_halloween	1	1	10	1	mi1a10	mr10	mwr1a10	Halloween Event	TRUE	mission_halloween	FALSE	None	None

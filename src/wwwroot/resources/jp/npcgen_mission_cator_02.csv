@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	C1_CATOR_TORSCH_START_3	COM_CATHERINE	171	FALSE	None	None	<$>4968</>	2467	-278	0	C1_CATOR_TORSCH_START_3	None
-2	C1_TOR_TORSCHE	TORSE	181	FALSE	None	None	<$>3640</>	2393	-2	0	C1_TOR_TORSCHE	None

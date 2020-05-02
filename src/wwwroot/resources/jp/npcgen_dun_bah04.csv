@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	npc_ferru	npc_ferru	301	FALSE	minimap_mission.bmp	<$>64673</>	None	<$>64673</>	-59	5249	122	DUN_BAH04_CASH_QUEST	None
-2	DUN_BAH04_IN_BAH_BASIC	Teleportation2	293	FALSE	minimap_warpOut.bmp	<$>54294</>	OUTSIDE	<$>54294</>	351	5476	74	DUN_BAH04_IN_BAH_BASIC	None

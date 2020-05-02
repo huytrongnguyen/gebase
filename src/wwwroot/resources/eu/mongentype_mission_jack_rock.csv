@@ -1,2 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	60	10	5	70322	Mission_Fallenrock2	500	5000	MON_MISSION_84

@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	NPC_RAID_RESPAWN_MANAGER	Trigger_Black_None	0	FALSE	None	None	<$>231759</>	-1967	-13821	593	NPC_RAID_RESPAWN_MANAGER	None
-2	RAID_LANDOFDEATH_NPCGENERATOR	TutorialTrigger_Black_3m	0	FALSE	None	None	<$>64849</>	1599	-10580	593	RAID_LANDOFDEATH_NPCGENERATOR	None

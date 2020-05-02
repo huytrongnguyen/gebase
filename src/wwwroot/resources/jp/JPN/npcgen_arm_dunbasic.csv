@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-400	MorisBlessShop	arm_mori_m_3	311	FALSE	minimap_npc.bmp	None	None	<$>146825</>	-14936	6792	136	MORI_SHOP	None
-402	merchants_dark	arm_mori_m_3	179	FALSE	minimap_npc.bmp	<$>200899</>	None	<$>200899</>	-8185	-1536	87	APOEQUIPMENT	<$>200899</>

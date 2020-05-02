@@ -1,3 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-100	FALSE	0	150	0	0	14593	Monster_Ruincruger_Boss	10000	1	MON_RUINCRUGER_BOSS
-500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

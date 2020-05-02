@@ -1,7 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	24	90	72	11462	Monster_skeletonbg_Elite	500	20000	None
-2	TRUE	0	25	60	54	10332	Monster_BrownBuffalo_Elite	500	20000	None
-3	TRUE	0	27	23	21	10382	Monster_LazimLam_Elite	500	60000	None
-4	FALSE	0	26	1	0	60130	Trigger_Fallenrock	50	60000	None
-5	FALSE	0	29	1	0	20731	Monster_skeletonbg_Leader	500	1800000	MON_FIELD_SBOSS
-500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

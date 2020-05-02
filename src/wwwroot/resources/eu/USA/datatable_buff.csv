@@ -1,2 +1,0 @@
-ApplyTime	BodyColor	BuffRank	BuffType	Category	ChangeDefLayer	ClassID	ClassName	Desc	ElapsedSeconds	Emitter	EmitterLoop	Emoticon	EscHitCount	Eventbuff	ExGroupIndex	GroupIndex	HitCount	HoldAttack	HoldItem	HoldMove	HoldSkill	IgnoreMagicalSkill	IgnoreNormalHit	IgnorePhysicalSkill	IgnoreTargetting	Invisible	Name	Particle	Position	Range	Save	TargetParticle	ToolTip	Unremovable	WeaponTail
-0	None	0	None	ETC	0	519	HAL_EVENT_0908	HAL_EVENT_0908	0	None	NO	None	0	NO	None	800001	0	NO	NO	NO	NO	NO	NO	NO	NO	NO	<$>28478</>	None	None	0	FALSE	None	<$>28479</>	YES	None

@@ -1,4 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	C1_REB_LINDEN	REB_NEO	266	FALSE	None	<$>47096</>	<$>47096</>	2	263	0	None	None
-2	TUTO_REB_SOLM	REB_SOLM	229	FALSE	None	<$>64947</>	<$>64947</>	200	248	0	C1_REB_JACK	None
-3	TUTO_REB_SOLF	REB_SOLF	300	FALSE	None	<$>64947</>	<$>64947</>	-204	252	0	C1_REB_YEGANEH	None

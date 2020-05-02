@@ -1,8 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	50	24	22	12951	Monster_Crab	500	5000	None
-2	TRUE	0	55	1	0	13021	monster_beachball_Stripe	500	1285714	None
-3	TRUE	0	60	24	22	12971	Monster_PamlTreeCrab	500	5000	None
-4	TRUE	0	65	28	26	12991	Monster_Seastar	500	5000	None
-5	FALSE	0	50	1	0	12952	Monster_Crab_Elite	500	1200000	None
-6	FALSE	0	60	1	0	12972	Monster_PamlTreeCrab_Elite	500	1200000	None
-7	FALSE	0	65	1	0	12992	Monster_Seastar_Elite	500	1200000	None

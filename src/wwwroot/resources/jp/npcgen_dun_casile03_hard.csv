@@ -1,4 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	NPC_DUN_CASILE03_HARD_01	Trigger_Black_None	0	FALSE	None	None	None	<$>111085</>	11301	-16360	1428	NPC_DUN_CASILE03_HARD_01	None
-100	DUN_CASILE03_BOX_HARD	Trigger_Black_None	0	FALSE	None	None	None	<$>212548</>	-17968	-14	-1021	DUN_CASILE03_BOX_HARD	None
-200	DUN_CASILE03_MISSION_GATE	EntranceArrow	262	FALSE	minimap_warpOut.bmp	None	None	<$>214882</>	10695	-24797	1378	DUN_CASILE03_MISSION_GATE	None

@@ -1,7 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	105	185	167	10344	Monster_IcePhobitan	500	5000	None
-2	TRUE	0	106	110	99	10175	Monster_LightCroc	500	5000	None
-3	TRUE	0	108	73	66	10286	Monster_LightComodo	500	5000	None
-4	FALSE	0	110	1	0	20401	Monster_Giantcomodo	500	1800000	MON_FIELD_SBOSS
-5	FALSE	0	105	1	0	60120	Trigger_Largestone	50	15000	None
-500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

@@ -1,6 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-2	TBK01_Romina_Mission2	TutorialTrigger_Black	180	TRUE	None	<$>64546</>	<$>64546</>	8236	-9234	509	TR_ROMINA_TBK02	None
-3	npc_ferru_big01	npc_ferru_big	306	FALSE	minimap_mission.bmp	<$>64605</>	<$>64605</>	7097	1258	-31	PIONEER_NOTICE	None
-7	npc_ferru_big02	npc_ferru_big	66	FALSE	minimap_mission.bmp	<$>64605</>	<$>64605</>	-6742	-3314	-204	PIONEER_NOTICE	None
-11	npc_ferru_big03	npc_ferru_big	141	FALSE	minimap_mission.bmp	<$>64605</>	<$>64605</>	-5386	11374	20	PIONEER_NOTICE	None
-15	npc_2key_tbk	TutorialTrigger_Black_3m	0	FALSE	None	None	<$>51512</>	15286	-7690	-187	TRIGGER_BRUNIE_SUBQUEST	None

@@ -1,8 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	C1_BST_KESS	npc_kess	270	FALSE	minimap_npc.bmp	<$>84325</>	<$>84325</>	-6	445	0	C1_BST_KESS	None
-2	C1_BST_MARCHETTI	npc_marchetti	252	FALSE	minimap_npc.bmp	<$>88700</>	<$>88700</>	99	438	0	MISSION_BST_FIN07_MARCHETTINPC	None
-3	C1_BST_HEYRAN	npc_hairan	82	FALSE	minimap_npc.bmp	<$>85014</>	<$>85014</>	-45	97	-12	MISSION_BST_FIN07_HEYRANNPC	None
-4	NPC_VEIL	veil_nowep	96	FALSE	minimap_npc.bmp	<$>101019</>	<$>101019</>	53	97	-12	MISSION_BST_FIN07_VEILNPC	None
-5	bst_soldier01	npc_bristiainfanty1	91	FALSE	None	None	<$>89597</>	-214	-885	-12	NPC_BST_PORTGUARD	None
-6	bst_soldier02	npc_bristiainfanty1	91	FALSE	None	None	<$>89597</>	195	-885	-12	NPC_BST_PORTGUARD	None
-7	TR_BST_GOVTOKIELCE	EntranceArrow_01	270	FALSE	None	None	<$>81060</>	-1	-837	-12	TR_BST_GOVTOKIELCE	None

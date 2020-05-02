@@ -1,2 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	100	160	0	0	17000	Monster_Divino_Boss	500	1	MON_BTL_BAH06_BOSS

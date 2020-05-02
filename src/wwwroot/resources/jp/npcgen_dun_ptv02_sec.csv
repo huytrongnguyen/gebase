@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	EVENT_DUNPTV02_SECRETROOM_DOOR	TutorialTrigger_Gray_3m	0	FALSE	None	None	None	26	1291	0	EVENT_DUNPTV02_SECRETROOM_DOOR	None
-3	EVENT_DUNPTV02_SECRETROOM_BOX	TreasureChest_Blue	149	FALSE	None	None	None	1327	-1383	0	EVENT_DUNPTV02_SECRETROOM_BOX	None

@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	ELITE_COIM_REQ01	COIM_SOLM2	7	FALSE	minimap_npc.bmp	None	<$>64659</>	-842	-98	0	ELITE_COIM_REQ01	None
-2	ELITE_COIM_REQ02	COIM_SOLM2	1	FALSE	minimap_npc.bmp	None	<$>64660</>	-843	41	0	ELITE_COIM_REQ02	None
-3	ELITE_COIM_REQ03	COIM_SOLM2	186	FALSE	minimap_npc.bmp	None	<$>64661</>	889	-73	0	ELITE_COIM_REQ03	None
-4	ELITE_COIM_REQ04	COIM_SOLM2	187	FALSE	minimap_npc.bmp	None	<$>64662</>	885	56	0	ELITE_COIM_REQ04	None

@@ -1,4 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	FALSE	1	20	1	0	30011	Monster_DilosLatemn	500	10285714	None
-2	FALSE	0	16	1	0	60150	Trigger_Cask	1500	30000	None
-3	FALSE	0	14	5	2	10192	Monster_Heretic_Elite	500	600000	None

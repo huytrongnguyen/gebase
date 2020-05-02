@@ -1,8 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	63	66	59	10571	Monster_CannonTortoise	500	5000	None
-2	TRUE	0	63	20	18	10581	Monster_ArmedTortoise	500	5000	None
-3	TRUE	0	65	311	295	10593	Monster_DecayTortoise	500	5000	None
-4	TRUE	0	64	264	250	10591	Monster_Tortoise	500	5000	None
-5	FALSE	0	67	1	0	20091	Monster_Wahlanche	1000	1800000	MON_FIELD_SBOSS
-6	FALSE	0	63	1	0	60130	Trigger_Fallenrock	50	12000	None
-500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

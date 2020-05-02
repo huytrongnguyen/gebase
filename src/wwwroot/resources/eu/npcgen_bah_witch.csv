@@ -1,2 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	BAH_SIERRA_DOOR	EntranceArrow	180	FALSE	minimap_warpIn.bmp	None	<$>64475</>	-3155	1728	3638	BAH_SIERRA_DOOR	None

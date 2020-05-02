@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	TM_OPEN	REB_SOLM	270	FALSE	None	None	<$>64767</>	2	1496	0	TM_OPEN	None
-2	TM_OPEN1	REB_SOLM	90	FALSE	None	None	<$>64767</>	-7	-1509	0	TM_OPEN	None
-3	TM_OPEN2	REB_SOLM	180	FALSE	None	None	<$>64767</>	1480	6	0	TM_OPEN	None
-4	TM_OPEN3	REB_SOLM	0	FALSE	None	None	<$>64767</>	-1177	9	0	TM_OPEN	None

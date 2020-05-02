@@ -1,9 +1,0 @@
-ClassID	ClassName	DropRule	Name	PromotionLv	UseLv
-1	ESTAcc_Normal	ESTAcc	<$>151547</>	0	1 99
-2	ESTAcc_Veteran	ESTAcc	<$>151548</>	1	100 103
-3	ESTAcc_Expert	ESTAcc	<$>151549</>	2	100 103
-4	STAcc_Normal	STAcc	<$>151550</>	0	1 99
-5	STAcc_Veteran	STAcc	<$>151551</>	1	100 103
-6	STAcc_Expert	STAcc	<$>151552</>	2	100 103
-7	Acc_Normal	Acc	<$>151553</>	0	1 99
-8	Acc_Veteran	Acc	<$>151554</>	0	100 103

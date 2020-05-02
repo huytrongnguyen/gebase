@@ -1,7 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	33	12	9	10342	Monster_Phobitan_Elite	500	60000	None
-2	TRUE	0	32	28	21	10352	Monster_PhobitanRogue_Elite	500	60000	None
-3	TRUE	7	31	12	9	10341	Monster_Phobitan	500	5000	None
-4	FALSE	0	32	1	0	60130	Trigger_Fallenrock	50	30000	None
-5	FALSE	0	35	1	0	20811	Monster_PhobitanKnight_Leader	500	1800000	MON_FIELD_SBOSS
-500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

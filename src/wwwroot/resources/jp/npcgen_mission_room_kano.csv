@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	C1_BST_KANO	npc_kano	170	FALSE	minimap_npc.bmp	None	<$>88702</>	500	250	-3	C1_BST_KANO	None
-2	C1_BST_JD	npc_jd	170	FALSE	minimap_npc.bmp	None	JD	500	0	-3	C1_BST_JD	None

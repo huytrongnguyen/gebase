@@ -1,7 +1,0 @@
-ClassID	ClassName	Name	NameParam	ParaCount	RankParam	ValueParam
-1	Respect_PointInOne	<$>107226</>	name_Respect_PointInOne_%d	20	rank_Respect_PointInOne_%d	val_Respect_PointInOne_%d
-2	Cwar_SlayerInOne	<$>28778</>	name_Cwar_SlayerInOne_%d	20	rank_Cwar_SlayerInOne_%d	val_Cwar_SlayerInOne_%d
-3	Cwar_KillerInOne	<$>28779</>	name_Cwar_KillerInOne_%d	20	rank_Cwar_KillerInOne_%d	val_Cwar_KillerInOne_%d
-4	Cwar_HelperInOne	<$>28780</>	name_Cwar_HelperInOne_%d	20	rank_Cwar_HelperInOne_%d	val_Cwar_HelperInOne_%d
-5	Cwar_NpcPointInOne	<$>28781</>	name_Cwar_NpcPointInOne_%d	20	rank_Cwar_NpcPointInOne_%d	val_Cwar_NpcPointInOne_%d
-6	Cwar_MiningInOne	<$>28782</>	name_Cwar_MiningInOne_%d	20	rank_Cwar_MiningInOne_%d	val_Cwar_MiningInOne_%d

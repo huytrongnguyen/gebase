@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-3	PTV1_SKELETON1	ETC_Skeleton01_Sitting	183	FALSE	None	None	<$>49018</>	30826	-2018	0	PTV1_SKELETON1	None
-4	npc_ferru_big01	npc_ferru_big	270	FALSE	minimap_mission.bmp	<$>64697</>	<$>64697</>	-34794	-1696	-400	PIONEER_NOTICE	None
-8	npc_ferru_big02	npc_ferru_big	0	FALSE	minimap_mission.bmp	<$>64697</>	<$>64697</>	6231	707	0	PIONEER_NOTICE	None
-12	npc_ferru_big03	npc_ferru_big	270	FALSE	minimap_mission.bmp	<$>64697</>	<$>64697</>	39594	2576	0	PIONEER_NOTICE	None

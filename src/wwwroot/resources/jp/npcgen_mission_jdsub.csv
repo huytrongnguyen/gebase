@@ -1,5 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	kano_nowep	kano_nowep	186	FALSE	minimap_npc.bmp	<$>88702</>	<$>88702</>	9021	-734	-655	KANO	None
-2	jd_nowep	jd_nowep	185	FALSE	minimap_npc.bmp	JD	JD	9193	-770	-655	C1_BST_JD	None
-3	veil_nowep	veil_nowep	96	FALSE	minimap_npc.bmp	<$>101019</>	<$>101019</>	9396	-9490	409	VEIL	None
-4	heyran_nowep	heyran_nowep	162	FALSE	minimap_npc.bmp	<$>85014</>	<$>85014</>	10303	-8602	390	HEYRAN	None

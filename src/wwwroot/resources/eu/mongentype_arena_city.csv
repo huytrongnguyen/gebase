@@ -1,2 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	1	2000	2000	70485	<$>64405</>	500	100	MON_PASSIVE

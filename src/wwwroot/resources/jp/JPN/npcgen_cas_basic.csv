@@ -1,4 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-26	leonardo_cas	AUCH_LEON	181	FALSE	minimap_npc.bmp	<$>10806</>	None	<$>10806</>	-1435	-4893	156	LEO_SERVICE	None
-40	SHOP_PERIOD_COSTUME	Rico_letizia2	270	FALSE	minimap_npc.bmp	None	None	<$>99956</>	-222	6716	1444	SHOP_PERIOD_COSTUME	<$>64456</>
-43	UserSupportJPN	NPC_Loje_desk	276	FALSE	minimap_npc.bmp	None	None	<$>185552</>	-1872	-4239	122	JPN_USERSUPPORT	None

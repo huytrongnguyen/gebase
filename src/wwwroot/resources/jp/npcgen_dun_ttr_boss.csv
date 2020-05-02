@@ -1,2 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-2	TTR_BOSS_KEY	TutorialTrigger_Gray_3m	90	FALSE	minimap_npc3.bmp	<$>11429</>	<$>11429</>	-2	-8042	99	TTR_BOSS_KEY	None

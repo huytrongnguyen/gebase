@@ -1,5 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	155	6	1	55264	mission_fury_norm1	100	1000	MON_ARM_FURY_NOR
-2	TRUE	0	155	6	1	55265	mission_fury_norm2	100	1000	MON_ARM_FURY_NOR
-3	TRUE	1	155	6	1	55264	mission_fury_norm1	100	1000	MON_ARM_FURY_NOR
-4	TRUE	1	155	6	1	55265	mission_fury_norm2	100	1000	MON_ARM_FURY_NOR

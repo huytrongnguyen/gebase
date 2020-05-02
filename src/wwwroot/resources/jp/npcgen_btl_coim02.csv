@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Possess	Script	ShopName
-1	COIM02_COLONY_MANAGER	COLONY_MANAGER_LARGE	321	FALSE	minimap_npc3.bmp	<$>51919</>	<$>51919</>	-15612	2012	1840	1	COLONY_MANAGER	None
-2	TR_NATALIE_DARIA_02	TutorialTrigger_Black_3m	90	FALSE	None	None	None	-5501	-10234	4465	0	TR_NATALIE_DARIA_02	None

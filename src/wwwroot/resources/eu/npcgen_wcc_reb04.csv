@@ -1,2 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Possess	Script	ShopName
-1	REB04_COLONY_MANAGER	COLONY_MANAGER	321	FALSE	minimap_npc3.bmp	<$>51919</>	<$>51919</>	-10971	33456	5081	1	COLONY_MANAGER	None

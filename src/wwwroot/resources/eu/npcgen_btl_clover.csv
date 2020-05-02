@@ -1,2 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	NPC_CLOVER_START	HiddenTrigger	0	TRUE	None	None	None	-2314	-20497	2104	CLOVER_START	None

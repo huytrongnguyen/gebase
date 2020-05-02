@@ -1,9 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Script	ShopName
-1	TR_KTV02_M_SELVA	TutorialTrigger_Black_3m	0	FALSE	None	None	None	None	-2736	18329	2586	TR_KTV02_M_SELVA	None
-2	TBK01_Romina_Mission3	TutorialTrigger_Black	180	TRUE	None	<$>64546</>	None	<$>64546</>	-2871	13440	2466	TR_ROMINA_TBK03	None
-3	npc_ferru_big01	npc_ferru_big	228	FALSE	minimap_mission.bmp	<$>64547</>	None	<$>64547</>	5293	-38975	2	PIONEER_NOTICE	None
-7	npc_ferru_big02	npc_ferru_big	75	FALSE	minimap_mission.bmp	<$>64547</>	None	<$>64547</>	-13721	-2299	1531	PIONEER_NOTICE	None
-11	npc_ferru_big03	npc_ferru_big	72	FALSE	minimap_mission.bmp	<$>64547</>	None	<$>64547</>	4655	10310	2282	PIONEER_NOTICE	None
-15	TR_JAQ_GRACESUB	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>64548</>	-5878	16885	2566	TR_JAQ_GRACESUB	None
-16	TR_KTV02_SELVASUB	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>64503</>	-2886	20680	2721	TR_KTV02_SELVASUB	None
-100	TR_ORDENQUEST_28	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>171062</>	-5859	17423	2574	TR_ORDENQUEST_28	None

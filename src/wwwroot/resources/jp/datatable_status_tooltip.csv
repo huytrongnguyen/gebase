@@ -1,7 +1,0 @@
-ClassID	ClassName	LockProperty1	LockProperty2	Text1	Text2
-1	STR	Lock_Renolde_STR	Lock_Elemental_STR	<$>103196</>	<$>185428</>
-2	CON	Lock_Renolde_CON	Lock_Elemental_CON	<$>103197</>	<$>185429</>
-3	AGI	Lock_Renolde_AGI	Lock_Elemental_AGI	<$>103198</>	<$>185430</>
-4	INTE	Lock_Renolde_INT	Lock_Elemental_INT	<$>103199</>	<$>185431</>
-5	DEX	Lock_Renolde_DEX	Lock_Elemental_DEX	<$>103200</>	<$>185432</>
-6	CHA	Lock_Renolde_SEN	Lock_Elemental_SEN	<$>103201</>	<$>185433</>

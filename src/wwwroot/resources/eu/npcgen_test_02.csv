@@ -1,3 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	TEST_RAID	COM_RESCUE	267	FALSE	None	None	<$>64922</>	31	716	0	TEST_RAID	None
-2	P_TEST_02	COM_BOYa1	0	FALSE	None	None	<$>64924</>	-834	-803	0	TEST_RAID	P_TEST_02

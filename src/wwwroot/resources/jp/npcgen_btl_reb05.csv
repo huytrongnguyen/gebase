@@ -1,9 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	MapWarp	Name	PosX	PosY	PosZ	Possess	Script	ShopName
-2	REB05_COLONY_MANAGER	COLONY_MANAGER_LARGE	321	FALSE	minimap_npc3.bmp	<$>51919</>	None	<$>51919</>	24169	8340	4197	1	COLONY_MANAGER	None
-3	REB05_LAKEMANEGER	COM_SELDEN	267	FALSE	minimap_npc.bmp	<$>64596</>	None	<$>64596</>	-4331	8733	2711	0	REB05_LAKEMANEGER	None
-4	npc_ferru_big01	npc_ferru_big	6	FALSE	minimap_mission.bmp	<$>64597</>	None	<$>64597</>	-4671	26177	2774	0	PIONEER_NOTICE	None
-8	npc_ferru_big02	npc_ferru_big	185	FALSE	minimap_mission.bmp	<$>64597</>	None	<$>64597</>	5495	-5067	1299	0	PIONEER_NOTICE	None
-12	TR_BST_CYMON03	TutorialTrigger_Black_10m	276	FALSE	None	None	None	None	6615	24726	2756	0	TR_BST_CYMON03_2	None
-13	TR_BST_CYMON04	TutorialTrigger_Black_10m	335	FALSE	None	None	None	None	20407	10934	2638	0	TR_BST_CYMON04_2	None
-14	TR_BST_CYMON05	TutorialTrigger_Black_10m	218	FALSE	None	None	None	None	1212	-3426	1289	0	TR_BST_CYMON05_2	None
-100	TR_ORDENQUEST_11	TutorialTrigger_Black_3m	0	FALSE	None	None	None	<$>185438</>	-4903	12782	2690	0	TR_ORDENQUEST_11	None

@@ -1,2 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Script	ShopName
-1	EVENT_BTLREB03_PRISON_DOWN	TutorialTrigger_Black_3m	0	FALSE	None	None	None	5967	13995	2685	EVENT_BTLREB03_PRISON_DOWN	None

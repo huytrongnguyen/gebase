@@ -1,4 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	80	308	231	70864	Monster_Undead_sword	500	25000	MON_COUNT_UNDEAD
-2	TRUE	0	82	308	231	70865	Monster_Undead_gun	500	25000	MON_COUNT_UNDEAD
-3	TRUE	0	85	20	10	70862	Monster_FailedReagent	500	500000	MON_COUNT_UNDEAD

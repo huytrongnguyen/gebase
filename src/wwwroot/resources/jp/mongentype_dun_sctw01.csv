@@ -1,8 +1,0 @@
-ClassID	DirectRespawn	Division	Lv	MaxPop	MinPop	MonsterID	MonsterName	Range	RespawnTime	Tactics
-1	TRUE	0	104	75	17	13531	Monster_Ghouldefender	100	90000	None
-2	TRUE	1	102	18	13	13501	Monster_Wraith	100	90000	None
-3	TRUE	1	102	8	5	13511	Monster_Ghost	100	90000	None
-4	TRUE	2	118	1	0	13538	Monster_Ghouldefender_Elite	100	2571428	MON_GHOUL_ELITE01
-5	TRUE	3	118	1	0	13538	Monster_Ghouldefender_Elite	100	2571428	MON_GHOUL_ELITE02
-6	TRUE	4	118	1	0	13538	Monster_Ghouldefender_Elite	100	2571428	MON_GHOUL_ELITE03
-500	TRUE	0	100	1	1	99997	Monster_Object_count	500	1260000	MON_EVENT_FLD_MANAGER

@@ -1,8 +1,0 @@
-ClassID	ClassName	InitCicle	Name	PrevProperty	RankingType	SortRule
-1	Amuse1_Score	7	<$>94596</>	Amuse1_Score_Prev	MiniGame	Descending
-2	Amuse2_Score	7	<$>94597</>	Amuse2_Score_Prev	MiniGame	Descending
-3	Amuse3_Score	7	<$>94598</>	Amuse3_Score_Prev	MiniGame	Descending
-4	Amuse4_Score	7	<$>97252</>	Amuse4_Score_Prev	MiniGame	Descending
-5	Amuse5_Score	7	<$>97253</>	Amuse5_Score_Prev	MiniGame	Descending
-6	accomplishmentPoint	0	<$>102985</>	None	Accomplishment	Descending
-7	Pioneer_Count	30	<$>171906</>	Pioneer_Count_Prev	Pioneer	Descending

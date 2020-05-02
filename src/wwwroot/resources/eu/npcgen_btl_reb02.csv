@@ -1,4 +1,0 @@
-ClassID	ClassName	ClassType	Direction	Hide	IconType	MapName	Name	PosX	PosY	PosZ	Possess	Script	ShopName
-1	REB02_COLONY_MANAGER	COLONY_MANAGER_LARGE	320	FALSE	minimap_npc3.bmp	<$>51919</>	<$>51919</>	2786	7720	-6631	1	COLONY_MANAGER	None
-2	EVENT_BTL_REB02	NPC_TREESTUMP	82	FALSE	None	None	None	6406	18867	-5895	0	EVENT_BTL_REB02	None
-4	npc_ferru_big01	npc_ferru_big	143	FALSE	minimap_mission.bmp	<$>64580</>	<$>64580</>	5936	14472	-6534	0	PIONEER_NOTICE	None
